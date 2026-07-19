@@ -112,6 +112,17 @@ export function ExamPage() {
     return s;
   }, [examEntries, state.answers]);
 
+  const bookmarkedEntries = useMemo(() => {
+    const s = new Set<number>();
+    for (let i = 0; i < examEntries.length; i++) {
+      const entry = examEntries[i];
+      if (entry.questions.some((_, qIdx) => state.bookmarks.includes(answerKey(entry.id, qIdx)))) {
+        s.add(i);
+      }
+    }
+    return s;
+  }, [examEntries, state.bookmarks]);
+
   const totalQuestions = useMemo(
     () => examEntries.reduce((sum, e) => sum + e.questions.length, 0),
     [examEntries],
@@ -185,7 +196,7 @@ export function ExamPage() {
               total={totalEntries}
               current={state.currentQuestionIndex}
               completedSet={completedSet}
-              bookmarks={state.bookmarks}
+              bookmarks={bookmarkedEntries}
               onDotClick={goToQuestion}
             />
           </div>
@@ -223,9 +234,9 @@ export function ExamPage() {
                 questionId={answerKey(currentEntry.id, qIdx)}
                 questionNumber={qIdx + 1}
                 selectedAnswer={state.answers[answerKey(currentEntry.id, qIdx)]}
-                isBookmarked={state.bookmarks.includes(currentEntry.id)}
+                isBookmarked={state.bookmarks.includes(answerKey(currentEntry.id, qIdx))}
                 onAnswer={answerQuestion}
-                onToggleBookmark={() => toggleBookmark(currentEntry.id)}
+                onToggleBookmark={() => toggleBookmark(answerKey(currentEntry.id, qIdx))}
               />
             ))}
 

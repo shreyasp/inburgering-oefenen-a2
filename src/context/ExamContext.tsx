@@ -10,7 +10,7 @@ import {
 interface ExamState {
   currentQuestionIndex: number;
   answers: Record<string, string>;
-  bookmarks: number[];
+  bookmarks: string[];
   askedQuestionIds: number[];
   status: "idle" | "in-progress" | "submitted";
   startTime: number | null;
@@ -20,7 +20,7 @@ interface ExamState {
 type ExamAction =
   | { type: "START_TEST" }
   | { type: "ANSWER_QUESTION"; questionId: string; answer: string }
-  | { type: "TOGGLE_BOOKMARK"; questionId: number }
+  | { type: "TOGGLE_BOOKMARK"; questionId: string }
   | { type: "GO_TO_QUESTION"; index: number }
   | { type: "NEXT_QUESTION" }
   | { type: "SUBMIT" }
@@ -222,7 +222,7 @@ export function useExamActions() {
     [dispatch],
   );
   const toggleBookmark = useCallback(
-    (questionId: number) =>
+    (questionId: string) =>
       dispatch({ type: "TOGGLE_BOOKMARK", questionId }),
     [dispatch],
   );

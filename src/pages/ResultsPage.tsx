@@ -85,7 +85,7 @@ export function ResultsPage() {
     navigate("/", { replace: true });
   };
 
-  if (examEntries.length === 0 || state.status !== "submitted") {
+  if (examEntries.length === 0) {
     return (
       <main className="min-h-screen flex items-center justify-center bg-exam-bg">
         <p className="text-gray-500">

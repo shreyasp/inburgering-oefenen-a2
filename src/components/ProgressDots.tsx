@@ -2,7 +2,7 @@ interface ProgressDotsProps {
   total: number;
   current: number;
   completedSet: Set<number>;
-  bookmarks: number[];
+  bookmarks: Set<number>;
   onDotClick: (index: number) => void;
 }
 
@@ -19,7 +19,7 @@ export function ProgressDots({
         const entryNum = i;
         const isCurrent = i === current;
         const isCompleted = completedSet.has(entryNum);
-        const isBookmarked = bookmarks.includes(entryNum);
+        const isBookmarked = bookmarks.has(entryNum);
 
         let dotClass =
           "w-3.5 h-3.5 rounded-full border transition-colors focus:outline-none focus:ring-2 focus:ring-exam-blue p-0.5";
