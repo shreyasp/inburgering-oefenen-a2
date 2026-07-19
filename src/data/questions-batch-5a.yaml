@@ -1,0 +1,313 @@
+- id: 106
+  title: "Werkrooster zaterdag"
+  difficulty: medium
+  text: |
+    Fatima werkt in zorgcentrum De Vijver in Amersfoort. Haar teamleider stuurt haar het rooster voor zaterdag. Fatima moet op drie verschillende afdelingen werken. De lunchpauze duurt telkens dertig minuten.
+
+    Rooster zaterdag:
+
+    Tijd         De Linde          De Roos           Keuken
+    08.00-12.00  Nora en Mehmet    Fatima            Leo
+    12.00-16.00  Fatima en Iris    Nora              Mehmet
+    16.00-20.00  Iris              Fatima en Leo     Nora
+  table:
+    headers: ["Tijd", "De Linde", "De Roos", "Keuken"]
+    rows:
+      - ["08.00-12.00", "Nora en Mehmet", "Fatima", "Leo"]
+      - ["12.00-16.00", "Fatima en Iris", "Nora", "Mehmet"]
+      - ["16.00-20.00", "Iris", "Fatima en Leo", "Nora"]
+  questions:
+    - questiontext: "Met wie werkt Fatima van 12.00 tot 16.00 uur?"
+      options:
+        - label: A
+          text: "Met Iris."
+        - label: B
+          text: "Met Nora."
+        - label: C
+          text: "Met Leo."
+      correct_answer: A
+    - questiontext: "Op welke afdeling werkt Fatima van 16.00 tot 20.00 uur?"
+      options:
+        - label: A
+          text: "De Linde."
+        - label: B
+          text: "De Roos."
+        - label: C
+          text: "Keuken."
+      correct_answer: B
+    - questiontext: "Wie werkt er in de keuken van 08.00 tot 12.00 uur?"
+      options:
+        - label: A
+          text: "Mehmet."
+        - label: B
+          text: "Nora."
+        - label: C
+          text: "Leo."
+      correct_answer: C
+- id: 107
+  title: "Openingstijden bibliotheek"
+  difficulty: easy
+  text: |
+    De openbare bibliotheek van Leiden heeft een centrale vestiging aan de Nieuwstraat. De bibliotheek is zes dagen per week open. Op maandag en dinsdag is er een middagpauze van 13.00 tot 14.00 uur. Op zaterdag sluit de bibliotheek vroeg.
+
+    Openingstijden:
+
+    Dag          Open         Pauze        Gesloten
+    Maandag      09.00        13.00-14.00  17.00
+    Dinsdag      09.00        13.00-14.00  17.00
+    Woensdag     09.00        geen         20.00
+    Donderdag    09.00        geen         20.00
+    Vrijdag      09.00        geen         18.00
+    Zaterdag     10.00        geen         16.00
+    Zondag       gesloten
+  table:
+    headers: ["Dag", "Open", "Pauze", "Gesloten"]
+    rows:
+      - ["Maandag", "09.00", "13.00-14.00", "17.00"]
+      - ["Dinsdag", "09.00", "13.00-14.00", "17.00"]
+      - ["Woensdag", "09.00", "geen", "20.00"]
+      - ["Donderdag", "09.00", "geen", "20.00"]
+      - ["Vrijdag", "09.00", "geen", "18.00"]
+      - ["Zaterdag", "10.00", "geen", "16.00"]
+      - ["Zondag", "gesloten", "", ""]
+  questions:
+    - questiontext: "Hoe laat sluit de bibliotheek op woensdag?"
+      options:
+        - label: A
+          text: "Om 17.00 uur."
+        - label: B
+          text: "Om 18.00 uur."
+        - label: C
+          text: "Om 20.00 uur."
+      correct_answer: C
+    - questiontext: "Op welke dag heeft de bibliotheek een middagpauze?"
+      options:
+        - label: A
+          text: "Op maandag."
+        - label: B
+          text: "Op woensdag."
+        - label: C
+          text: "Op vrijdag."
+      correct_answer: A
+    - questiontext: "Hoe laat gaat de bibliotheek open op zaterdag?"
+      options:
+        - label: A
+          text: "Om 09.00 uur."
+        - label: B
+          text: "Om 10.00 uur."
+        - label: C
+          text: "Om 11.00 uur."
+      correct_answer: B
+- id: 108
+  title: "Sportclub lestijden"
+  difficulty: medium
+  text: |
+    Sportcentrum De Meermin in Haarlem biedt drie soorten lessen aan: yoga, spinning en zwemmen. Elke les duurt een uur. Je moet je van tevoren opgeven via de website. De prijzen staan apart vermeld.
+
+    Lessen:
+
+    Dag          Tijd         Les           Zaak
+    Maandag      18.00-19.00  Yoga          Zaal A
+    Woensdag     19.00-20.00  Spinning      Zaal B
+    Donderdag    07.00-08.00  Zwemmen       Bad 1
+    Vrijdag      18.00-19.00  Yoga          Zaal A
+    Zaterdag     09.00-10.00  Zwemmen       Bad 2
+    Zaterdag     10.30-11.30  Spinning      Zaal B
+  table:
+    headers: ["Dag", "Tijd", "Les", "Zaal"]
+    rows:
+      - ["Maandag", "18.00-19.00", "Yoga", "Zaal A"]
+      - ["Woensdag", "19.00-20.00", "Spinning", "Zaal B"]
+      - ["Donderdag", "07.00-08.00", "Zwemmen", "Bad 1"]
+      - ["Vrijdag", "18.00-19.00", "Yoga", "Zaal A"]
+      - ["Zaterdag", "09.00-10.00", "Zwemmen", "Bad 2"]
+      - ["Zaterdag", "10.30-11.30", "Spinning", "Zaal B"]
+  questions:
+    - questiontext: "Wanneer is de spinningles?"
+      options:
+        - label: A
+          text: "Op maandag om 18.00 uur."
+        - label: B
+          text: "Op donderdag om 07.00 uur."
+        - label: C
+          text: "Op woensdag om 19.00 uur."
+      correct_answer: C
+    - questiontext: "In welke zaal is de yogales op vrijdag?"
+      options:
+        - label: A
+          text: "Zaal A."
+        - label: B
+          text: "Zaal B."
+        - label: C
+          text: "Bad 1."
+      correct_answer: A
+    - questiontext: "Hoeveel zwemlessen zijn er op zaterdag?"
+      options:
+        - label: A
+          text: "Een."
+        - label: B
+          text: "Twee."
+        - label: C
+          text: "Drie."
+      correct_answer: A
+- id: 109
+  title: "Prijslijst bakker"
+  difficulty: easy
+  text: |
+    Bakkerij Van Dijk in Delft verkoopt brood en gebak. De bakker is elke dag open behalve op zondag. Hieronder staan de prijzen van het brood en het gebak.
+
+    Brood:
+
+    Soort              Prijs
+    Wit brood          € 2,10
+    Volkorenbrood      € 2,50
+    Meergranenbrood    € 2,80
+    Stokbrood          € 1,80
+
+    Gebak:
+
+    Soort              Prijs
+    Appeltaart (heel)  € 12,50
+    Appeltaart (punt)  € 3,20
+    Slaroomtaart (heel) € 14,00
+    Slaroomtaart (punt) € 3,80
+  table:
+    headers: ["Soort", "Prijs"]
+    rows:
+      - ["Wit brood", "€ 2,10"]
+      - ["Volkorenbrood", "€ 2,50"]
+      - ["Meergranenbrood", "€ 2,80"]
+      - ["Stokbrood", "€ 1,80"]
+      - ["Appeltaart (heel)", "€ 12,50"]
+      - ["Appeltaart (punt)", "€ 3,20"]
+      - ["Slaroomtaart (heel)", "€ 14,00"]
+      - ["Slaroomtaart (punt)", "€ 3,80"]
+  questions:
+    - questiontext: "Hoeveel kost een volkorenbrood?"
+      options:
+        - label: A
+          text: "€ 2,10."
+        - label: B
+          text: "€ 2,50."
+        - label: C
+          text: "€ 2,80."
+      correct_answer: B
+    - questiontext: "Wat is het goedkoopste brood?"
+      options:
+        - label: A
+          text: "Wit brood."
+        - label: B
+          text: "Stokbrood."
+        - label: C
+          text: "Volkorenbrood."
+      correct_answer: B
+    - questiontext: "Hoeveel kost een punt slaroomtaart?"
+      options:
+        - label: A
+          text: "€ 3,20."
+        - label: B
+          text: "€ 14,00."
+        - label: C
+          text: "€ 3,80."
+      correct_answer: C
+- id: 110
+  title: "Supermarkt openingstijden"
+  difficulty: easy
+  text: |
+    Supermarkt Jumbo in Eindhoven heeft een filiaal aan de Rechtestraat. De winkel is zeven dagen per week open. Op donderdag is het koopavond. Op feestdagen gelden andere tijden.
+
+    Openingstijden:
+
+    Dag              Open         Gesloten
+    Maandag          08.00        20.00
+    Dinsdag          08.00        20.00
+    Woensdag         08.00        20.00
+    Donderdag        08.00        21.00
+    Vrijdag          08.00        21.00
+    Zaterdag         08.00        20.00
+    Zondag           10.00        18.00
+    Eerste kerstdag  10.00        16.00
+    Tweede kerstdag  gesloten
+  table:
+    headers: ["Dag", "Open", "Gesloten"]
+    rows:
+      - ["Maandag", "08.00", "20.00"]
+      - ["Dinsdag", "08.00", "20.00"]
+      - ["Woensdag", "08.00", "20.00"]
+      - ["Donderdag", "08.00", "21.00"]
+      - ["Vrijdag", "08.00", "21.00"]
+      - ["Zaterdag", "08.00", "20.00"]
+      - ["Zondag", "10.00", "18.00"]
+      - ["Eerste kerstdag", "10.00", "16.00"]
+      - ["Tweede kerstdag", "gesloten", ""]
+  questions:
+    - questiontext: "Hoe laat sluit de supermarkt op vrijdag?"
+      options:
+        - label: A
+          text: "Om 20.00 uur."
+        - label: B
+          text: "Om 21.00 uur."
+        - label: C
+          text: "Om 18.00 uur."
+      correct_answer: B
+    - questiontext: "Wat gebeurt er op tweede kerstdag?"
+      options:
+        - label: A
+          text: "De winkel is gesloten."
+        - label: B
+          text: "De winkel is open tot 16.00 uur."
+        - label: C
+          text: "De winkel is open tot 18.00 uur."
+      correct_answer: A
+- id: 111
+  title: "Apotheek diensten"
+  difficulty: medium
+  text: |
+    In Utrecht zijn vier apotheken. In het weekend is er altijd een apotheek open voor noodrecepten. De dienstdoende apotheek wisselt elk weekend. Kijk op de website voor het actuele rooster.
+
+    Dienstrooster weekend:
+
+    Datum              Apotheek           Wijk
+    5-6 juli           Apotheek Centrum   Binnenstad
+    12-13 juli         Apotheek Oost      Oost-Wijchen
+    19-20 juli         Apotheek Zuid      Kanaleneiland
+    26-27 juli         Apotheek West      Lombok
+    2-3 augustus       Apotheek Centrum   Binnenstad
+
+    De dienstdoende apotheek is open van 08.00 tot 22.00 uur.
+  table:
+    headers: ["Datum", "Apotheek", "Wijk"]
+    rows:
+      - ["5-6 juli", "Apotheek Centrum", "Binnenstad"]
+      - ["12-13 juli", "Apotheek Oost", "Oost-Wijchen"]
+      - ["19-20 juli", "Apotheek Zuid", "Kanaleneiland"]
+      - ["26-27 juli", "Apotheek West", "Lombok"]
+      - ["2-3 augustus", "Apotheek Centrum", "Binnenstad"]
+  questions:
+    - questiontext: "Welke apotheek is open op 19 en 20 juli?"
+      options:
+        - label: A
+          text: "Apotheek Centrum."
+        - label: B
+          text: "Apotheek Oost."
+        - label: C
+          text: "Apotheek Zuid."
+      correct_answer: C
+    - questiontext: "Hoe laat sluit de dienstdoende apotheek?"
+      options:
+        - label: A
+          text: "Om 20.00 uur."
+        - label: B
+          text: "Om 22.00 uur."
+        - label: C
+          text: "Om 18.00 uur."
+      correct_answer: B
+    - questiontext: "In welke wijk ligt Apotheek West?"
+      options:
+        - label: A
+          text: "Binnenstad."
+        - label: B
+          text: "Kanaleneiland."
+        - label: C
+          text: "Lombok."
+      correct_answer: C

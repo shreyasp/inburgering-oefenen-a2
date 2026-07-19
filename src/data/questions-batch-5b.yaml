@@ -1,0 +1,457 @@
+- id: 112
+  title: Treintijden
+  difficulty: medium
+  text: |
+    NS Dienstregeling Amsterdam - Rotterdam
+
+    Vertrekstation   | Vertrektijd | Aankomststation | Aankomsttijd | Treintype
+    -----------------|-------------|-----------------|--------------|----------
+    Amsterdam Centraal | 08:15     | Rotterdam Centraal | 09:30      | Intercity
+    Amsterdam Centraal | 09:00     | Rotterdam Centraal | 10:15      | Sprinter
+    Amsterdam Centraal | 10:30     | Rotterdam Centraal | 11:45      | Intercity
+    Amsterdam Zuid     | 08:30     | Rotterdam Centraal | 09:35      | Intercity
+    Amsterdam Zuid     | 09:15     | Rotterdam Centraal | 10:20      | Sprinter
+
+    Reistijd met Intercity: 1 uur 15 minuten
+    Reistijd met Sprinter: 1 uur 15 minuten
+    toeslag Intercity Direct: € 1,50
+  table:
+    headers:
+      - Vertrekstation
+      - Vertrektijd
+      - Aankomststation
+      - Aankomsttijd
+      - Treintype
+    rows:
+      - - Amsterdam Centraal
+        - '08:15'
+        - Rotterdam Centraal
+        - '09:30'
+        - Intercity
+      - - Amsterdam Centraal
+        - '09:00'
+        - Rotterdam Centraal
+        - '10:15'
+        - Sprinter
+      - - Amsterdam Centraal
+        - '10:30'
+        - Rotterdam Centraal
+        - '11:45'
+        - Intercity
+      - - Amsterdam Zuid
+        - '08:30'
+        - Rotterdam Centraal
+        - '09:35'
+        - Intercity
+      - - Amsterdam Zuid
+        - '09:15'
+        - Rotterdam Centraal
+        - '10:20'
+        - Sprinter
+  questions:
+    - questiontext: Hoe laat vertrekt de eerste trein vanuit Amsterdam Centraal?
+      options:
+        - label: A
+          text: 08:15
+        - label: B
+          text: 08:30
+        - label: C
+          text: 09:00
+      correct_answer: A
+    - questiontext: Welk treintype vertrekt om 09:15 vanuit Amsterdam Zuid?
+      options:
+        - label: A
+          text: Intercity
+        - label: B
+          text: Sprinter
+        - label: C
+          text: Intercity Direct
+      correct_answer: B
+    - questiontext: Wat is de reistijd van Amsterdam Centraal naar Rotterdam Centraal?
+      options:
+        - label: A
+          text: 1 uur
+        - label: B
+          text: 1 uur 15 minuten
+        - label: C
+          text: 1 uur 30 minuten
+      correct_answer: B
+- id: 113
+  title: Buslijnen
+  difficulty: medium
+  text: |
+    Stadsbus Amsterdam - Lijnen en haltes
+
+    Lijn | Route                              | Eerste bus | Laatste bus | Frequentie
+    -----|------------------------------------|------------|-------------|------------
+    12   | Centraal Station - Leidseplein     | 06:00      | 00:30       | 10 min
+    18   | Centraal Station - Sloterdijk      | 06:15      | 00:15       | 12 min
+    22   | Centraal Station - Surinameplein   | 06:30      | 23:45       | 15 min
+    30   | Muiderpoortstation - Lelylaan      | 07:00      | 23:30       | 8 min
+    65   | Bijlmermeer - Amstelveen           | 06:45      | 23:00       | 20 min
+
+    Nachtbus N47: Centraal Station - Schiphol (01:00 - 05:00, elke 30 min)
+    Kinderen t/m 11 jaar: gratis reizen
+    OV-chipkaart verplicht
+  table:
+    headers:
+      - Lijn
+      - Route
+      - Eerste bus
+      - Laatste bus
+      - Frequentie
+    rows:
+      - - '12'
+        - Centraal Station - Leidseplein
+        - '06:00'
+        - '00:30'
+        - 10 min
+      - - '18'
+        - Centraal Station - Sloterdijk
+        - '06:15'
+        - '00:15'
+        - 12 min
+      - - '22'
+        - Centraal Station - Surinameplein
+        - '06:30'
+        - '23:45'
+        - 15 min
+      - - '30'
+        - Muiderpoortstation - Lelylaan
+        - '07:00'
+        - '23:30'
+        - 8 min
+      - - '65'
+        - Bijlmermeer - Amstelveen
+        - '06:45'
+        - '23:00'
+        - 20 min
+  questions:
+    - questiontext: Welke bus rijdt het vaakst?
+      options:
+        - label: A
+          text: Lijn 12
+        - label: B
+          text: Lijn 30
+        - label: C
+          text: Lijn 65
+      correct_answer: B
+    - questiontext: Hoe laat rijdt de laatste bus van lijn 22?
+      options:
+        - label: A
+          text: 23:00
+        - label: B
+          text: 23:45
+        - label: C
+          text: 00:30
+      correct_answer: B
+    - questiontext: Wat is de frequentie van lijn 18?
+      options:
+        - label: A
+          text: 8 minuten
+        - label: B
+          text: 10 minuten
+        - label: C
+          text: 12 minuten
+      correct_answer: C
+- id: 114
+  title: Festival programma
+  difficulty: medium
+  text: |
+    Amsterdam Music Festival - Programma
+
+    Podium         | 14:00 - 15:30        | 16:00 - 17:30        | 18:00 - 19:30
+    ---------------|----------------------|----------------------|---------------------
+    Main Stage     | DJ Martin            | The Rockers          | Electronic Dreams
+    Jazz Tent      | Piano Quartet        | Saxophone Trio       | Blues Brothers
+    Dance Floor    | Hip Hop Crew         | House Masters        | Techno Night
+
+    Toegangsprijzen:
+    - Dagkaart: € 45
+    - Weekendkaart: € 75
+    - VIP: € 120 (inclusief drankjes)
+
+    Leeftijd: 18+ (met ID-bewijs)
+    Locatie: Westergasfabriek, Amsterdam
+  table:
+    headers:
+      - Podium
+      - 14:00 - 15:30
+      - 16:00 - 17:30
+      - 18:00 - 19:30
+    rows:
+      - - Main Stage
+        - DJ Martin
+        - The Rockers
+        - Electronic Dreams
+      - - Jazz Tent
+        - Piano Quartet
+        - Saxophone Trio
+        - Blues Brothers
+      - - Dance Floor
+        - Hip Hop Crew
+        - House Masters
+        - Techno Night
+  questions:
+    - questiontext: Wie speelt om 16:00 op het Main Stage?
+      options:
+        - label: A
+          text: DJ Martin
+        - label: B
+          text: The Rockers
+        - label: C
+          text: Electronic Dreams
+      correct_answer: B
+    - questiontext: Wat kost een weekendkaart?
+      options:
+        - label: A
+          text: € 45
+        - label: B
+          text: € 75
+        - label: C
+          text: € 120
+      correct_answer: B
+    - questiontext: Waar vindt het festival plaats?
+      options:
+        - label: A
+          text: Westergasfabriek
+        - label: B
+          text: Vondelpark
+        - label: C
+          text: Rembrandtplein
+      correct_answer: A
+- id: 115
+  title: School lesrooster
+  difficulty: easy
+  text: |
+    Lesrooster Klas 3B - Maandag t/m Vrijdag
+
+    Dag       | 08:30 - 10:00 | 10:15 - 11:45 | 12:30 - 14:00
+    ----------|---------------|---------------|---------------
+    Maandag   | Nederlands    | Wiskunde      | Engels
+    Dinsdag   | Geschiedenis  | Nederlands    | Sport
+    Woensdag  | Wiskunde      | Aardrijkskunde| Biologie
+    Donderdag | Engels        | Wiskunde      | Nederlands
+    Vrijdag   | Sport         | Geschiedenis  | Kunst
+
+    Lokaalwijzigingen:
+    - Biologie: lokaal 205 (tweede verdieping)
+    - Sport: sporthal gebouw B
+    - Kunst: lokaal 108
+  table:
+    headers:
+      - Dag
+      - 08:30 - 10:00
+      - 10:15 - 11:45
+      - 12:30 - 14:00
+    rows:
+      - - Maandag
+        - Nederlands
+        - Wiskunde
+        - Engels
+      - - Dinsdag
+        - Geschiedenis
+        - Nederlands
+        - Sport
+      - - Woensdag
+        - Wiskunde
+        - Aardrijkskunde
+        - Biologie
+      - - Donderdag
+        - Engels
+        - Wiskunde
+        - Nederlands
+      - - Vrijdag
+        - Sport
+        - Geschiedenis
+        - Kunst
+  questions:
+    - questiontext: Welk vak hebben ze op woensdag om 12:30?
+      options:
+        - label: A
+          text: Aardrijkskunde
+        - label: B
+          text: Wiskunde
+        - label: C
+          text: Biologie
+      correct_answer: C
+    - questiontext: Hoe vaak hebben ze Nederlands in de week?
+      options:
+        - label: A
+          text: 4 keer
+        - label: B
+          text: 2 keer
+        - label: C
+          text: 3 keer
+      correct_answer: C
+    - questiontext: Waar is de sportles?
+      options:
+        - label: A
+          text: Lokaal 108
+        - label: B
+          text: Lokaal 205
+        - label: C
+          text: Sporthal gebouw B
+      correct_answer: C
+- id: 116
+  title: Medicijnschema
+  difficulty: hard
+  text: |
+    Medicijnschema - Patiënt: J. de Vries
+
+    Medicijn       | Dosering    | Tijdstip        | Voor/Na eten   | Bijzonderheden
+    ---------------|-------------|-----------------|----------------|------------------
+    Paracetamol    | 500 mg      | 08:00, 14:00    | Na eten        | Max 4x per dag
+    Omeprazol      | 20 mg       | 07:30           | Voor eten      | Nuchter innemen
+    Metformine     | 500 mg      | 08:00, 20:00    | Tijdens eten   | Bij diabetes
+    Vitamine D     | 25 mcg      | 12:00           | Na eten        | 1x per dag
+    Aspirine       | 80 mg       | 22:00           | Na eten        | Bloedverdunner
+
+    Waarschuwingen:
+    - Geen alcohol bij Paracetamol
+    - Omeprazol 30 minuten voor maaltijd
+    - Metformine niet op lege maag
+    - Aspirine: arts raadplegen bij bloedingen
+  table:
+    headers:
+      - Medicijn
+      - Dosering
+      - Tijdstip
+      - Voor/Na eten
+      - Bijzonderheden
+    rows:
+      - - Paracetamol
+        - 500 mg
+        - 08:00, 14:00
+        - Na eten
+        - Max 4x per dag
+      - - Omeprazol
+        - 20 mg
+        - '07:30'
+        - Voor eten
+        - Nuchter innemen
+      - - Metformine
+        - 500 mg
+        - 08:00, 20:00
+        - Tijdens eten
+        - Bij diabetes
+      - - Vitamine D
+        - 25 mcg
+        - '12:00'
+        - Na eten
+        - 1x per dag
+      - - Aspirine
+        - 80 mg
+        - '22:00'
+        - Na eten
+        - Bloedverdunner
+  questions:
+    - questiontext: Welk medicijn moet nuchter worden ingenomen?
+      options:
+        - label: A
+          text: Omeprazol
+        - label: B
+          text: Paracetamol
+        - label: C
+          text: Metformine
+      correct_answer: A
+    - questiontext: Hoeveel Paracetamol mag maximaal per dag?
+      options:
+        - label: A
+          text: 2 keer
+        - label: B
+          text: 3 keer
+        - label: C
+          text: 4 keer
+      correct_answer: C
+    - questiontext: Welk medicijn is een bloedverdunner?
+      options:
+        - label: A
+          text: Metformine
+        - label: B
+          text: Vitamine D
+        - label: C
+          text: Aspirine
+      correct_answer: C
+- id: 117
+  title: Cafetaria menu
+  difficulty: easy
+  text: |
+    Cafetaria De Gouden Frit - Prijslijst
+
+    Product              | Klein      | Groot      | Extra
+    ---------------------|------------|------------|------------
+    Friet                | € 2,50     | € 3,50     | -
+    Patatje Oorlog       | € 3,00     | € 4,00     | -
+    Frikandel            | € 1,80     | € 2,50     | -
+    Kroket               | € 2,00     | € 2,80     | -
+    Kaassoufflé          | € 2,20     | € 3,00     | -
+    Hamburger            | -          | € 4,50     | +€ 0,50 kaas
+    Kipfilet             | -          | € 5,00     | +€ 0,50 saus
+    Visfilet             | -          | € 4,80     | +€ 0,50 tartarsaus
+
+    Dranken:
+    - Frisdrank: € 1,50
+    - Bier: € 2,50
+    - Koffie: € 1,80
+    - Thee: € 1,50
+
+    Openingstijden: 11:00 - 21:00 (maandag gesloten)
+  table:
+    headers:
+      - Product
+      - Klein
+      - Groot
+      - Extra
+    rows:
+      - - Friet
+        - € 2,50
+        - € 3,50
+        - '-'
+      - - Patatje Oorlog
+        - € 3,00
+        - € 4,00
+        - '-'
+      - - Frikandel
+        - € 1,80
+        - € 2,50
+        - '-'
+      - - Kroket
+        - € 2,00
+        - € 2,80
+        - '-'
+      - - Kaassoufflé
+        - € 2,20
+        - € 3,00
+        - '-'
+      - - Hamburger
+        - '-'
+        - € 4,50
+        - +€ 0,50 kaas
+      - - Kipfilet
+        - '-'
+        - € 5,00
+        - +€ 0,50 saus
+      - - Visfilet
+        - '-'
+        - € 4,80
+        - +€ 0,50 tartarsaus
+  questions:
+    - questiontext: Wat kost een grote friet?
+      options:
+        - label: A
+          text: € 2,50
+        - label: B
+          text: € 3,50
+        - label: C
+          text: € 3,00
+      correct_answer: B
+    - questiontext: Welk product is alleen in groot formaat verkrijgbaar?
+      options:
+        - label: A
+          text: Kroket
+        - label: B
+          text: Hamburger
+        - label: C
+          text: Frikandel
+      correct_answer: B
