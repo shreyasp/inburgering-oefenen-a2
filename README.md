@@ -2,6 +2,8 @@
 
 PWA voor het oefenen van leesvaardigheid op A2-niveau voor het Nederlandse inburgeringsexamen.
 
+🔗 **[inburgering-oefenen-a2.vercel.app](https://inburgering-oefenen-a2.vercel.app)**
+
 ## Features
 
 - **350+ leesteksten** met meerkeuzevragen, verdeeld over 7 thematische batches
