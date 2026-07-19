@@ -88,11 +88,14 @@ export function ResultsPage() {
 
   if (examEntries.length === 0) {
     return (
-      <main className="min-h-screen flex items-center justify-center bg-exam-bg">
-        <p className="text-gray-500">
-          Resultaten niet beschikbaar. Maak eerst een toets.
-        </p>
-      </main>
+      <div className="min-h-screen bg-exam-bg flex flex-col">
+        <NavBar />
+        <div className="flex-1 flex items-center justify-center">
+          <p className="text-gray-500">
+            Resultaten niet beschikbaar. Maak eerst een toets.
+          </p>
+        </div>
+      </div>
     );
   }
 

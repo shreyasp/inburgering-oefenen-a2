@@ -146,25 +146,31 @@ export function ExamPage() {
 
   if (totalEntries === 0) {
     return (
-      <main className="min-h-screen flex items-center justify-center bg-exam-bg">
-        <div className="text-center">
-          {isAllMastered() ? (
-            <p className="text-gray-500">
-              U heeft alle vragen goed beantwoord! Stuur nieuwe voorbeeldteksten om meer vragen toe te voegen.
-            </p>
-          ) : (
-            <p className="text-gray-500">Geen vragen beschikbaar.</p>
-          )}
+      <div className="min-h-screen bg-exam-bg flex flex-col">
+        <NavBar />
+        <div className="flex-1 flex items-center justify-center">
+          <div className="text-center">
+            {isAllMastered() ? (
+              <p className="text-gray-500">
+                U heeft alle vragen goed beantwoord! Stuur nieuwe voorbeeldteksten om meer vragen toe te voegen.
+              </p>
+            ) : (
+              <p className="text-gray-500">Geen vragen beschikbaar.</p>
+            )}
+          </div>
         </div>
-      </main>
+      </div>
     );
   }
 
   if (!currentEntry) {
     return (
-      <main className="min-h-screen flex items-center justify-center bg-exam-bg">
-        <p className="text-gray-500">Laden...</p>
-      </main>
+      <div className="min-h-screen bg-exam-bg flex flex-col">
+        <NavBar />
+        <div className="flex-1 flex items-center justify-center">
+          <p className="text-gray-500">Laden...</p>
+        </div>
+      </div>
     );
   }
 
