@@ -33,11 +33,10 @@ export function ExamPage() {
   const navigate = useNavigate();
   const { state, startTest, answerQuestion, goToQuestion, nextQuestion, submit, toggleBookmark, addQuestion, reset } =
     useExamActions();
-  const [started, setStarted] = useState(false);
   const [examEntries, setExamEntries] = useState<BankEntry[]>([]);
   const pickedRef = useRef(false);
 
-  // Pick entries on first mount
+  // Pick entries and start test
   useEffect(() => {
     if (pickedRef.current) return;
     pickedRef.current = true;
@@ -49,7 +48,6 @@ export function ExamPage() {
     const entries: BankEntry[] = [];
     const exclude = new Set<number>();
 
-    // Try to pick 3 table entries
     for (let i = 0; i < 3; i++) {
       const entry = pickTableQuestion(exclude);
       if (!entry) break;
@@ -57,7 +55,6 @@ export function ExamPage() {
       exclude.add(entry.id);
     }
 
-    // Fill remaining with non-table entries aiming for ~25 total questions
     let totalQ = entries.reduce((sum, e) => sum + e.questions.length, 0);
     let attempts = 0;
     while (totalQ < 25 && attempts < 200) {
@@ -69,22 +66,16 @@ export function ExamPage() {
       attempts++;
     }
 
+    if (entries.length === 0) return;
+
     const shuffled = shuffle(entries);
     setExamEntries(shuffled);
 
-    // Dispatch ADD_QUESTION for each entry
+    startTest();
     for (const entry of shuffled) {
       addQuestion(entry.id);
     }
-  }, [addQuestion]);
-
-  // Start test
-  useEffect(() => {
-    if (!started && examEntries.length > 0) {
-      startTest();
-      setStarted(true);
-    }
-  }, [started, examEntries.length, startTest]);
+  }, []);
 
   const totalEntries = examEntries.length;
   const currentEntry = examEntries[state.currentQuestionIndex];
