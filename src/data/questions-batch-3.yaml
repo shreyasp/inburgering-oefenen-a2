@@ -1,0 +1,914 @@
+# Batch 3: Dutch A2 Reading Questions (IDs 56-130)
+# Difficulty: 19 easy, 37 medium, 19 hard
+# Themes: Gezondheid & Zorg, Onderwijs & Kinderen, Overheid & Regels, Samenleving & Cultuur
+
+# ============================================================
+# EASY QUESTIONS (19 total)
+# ============================================================
+
+- id: 56
+  title: "Herhaalrecept bij de apotheek"
+  difficulty: easy
+  text: |
+    Fatima heeft hoge bloeddruk. Ze gebruikt elke dag een pil. De pil is bijna op. Fatima belt de apotheek. Ze vraagt om een herhaalrecept. De assistent zegt: "U kunt het ophalen morgen na 10 uur." Fatima gaat na het werk naar de apotheek aan de Utrechtsestraat in Amsterdam. Ze betaalt niets, want de verzekering betaalt de pil.
+  questions:
+    - questiontext: "Waarom belt Fatima de apotheek?"
+      options:
+        - label: A
+          text: "Ze wil een nieuwe arts zoeken."
+        - label: B
+          text: "Ze wil meer pillen krijgen."
+        - label: C
+          text: "Ze wil haar verzekering vragen."
+      correct_answer: A
+    - questiontext: "Wanneer kan Fatima de pillen ophalen?"
+      options:
+        - label: A
+          text: "Vandaag nog."
+        - label: B
+          text: "Morgen na 10 uur."
+        - label: C
+          text: "Over een week."
+      correct_answer: A
+
+- id: 58
+  title: "Bezoektijden in het ziekenhuis"
+  difficulty: easy
+  text: |
+    De moeder van Ali ligt in het ziekenhuis in Rotterdam. Ze heeft een operatie gehad. Ali wil haar bezoeken. Hij kijkt op de website van het ziekenhuis. Daar staat: bezoektijden zijn van 14.00 tot 20.00 uur. Maximaal twee bezoekers per kamer. Kinderen onder de 12 jaar mogen niet na 18.00 uur. Ali gaat om 15.00 uur met zijn zus.
+  questions:
+    - questiontext: "Hoe laat mag Ali zijn moeder bezoeken?"
+      options:
+        - label: A
+          text: "Om 10.00 uur."
+        - label: B
+          text: "Om 13.00 uur."
+        - label: C
+          text: "Om 15.00 uur."
+      correct_answer: C
+    - questiontext: "Hoeveel bezoekers mogen er bij de moeder?"
+      options:
+        - label: A
+          text: "Eén bezoeker."
+        - label: B
+          text: "Twee bezoekers."
+        - label: C
+          text: "Drie bezoekers."
+      correct_answer: A
+
+- id: 60
+  title: "Griepprik bij de GGD"
+  difficulty: easy
+  text: |
+    Het is oktober. De GGD in Den Haag stuurt een brief aan mensen van 60 jaar en ouder. Ze kunnen een griepprik krijgen. Mevrouw de Vries is 68 jaar. Ze belt de GGD en maakt een afspraak. Op dinsdag gaat ze naar de GGD. De verpleegkundige geeft de prik in haar arm. Het doet even pijn. Mevrouw de Vries blijft daarna nog tien minuten zitten.
+  questions:
+    - questiontext: "Wie krijgt een brief van de GGD?"
+      options:
+        - label: A
+          text: "Alle mensen in Den Haag."
+        - label: B
+          text: "Mensen van 60 jaar en ouder."
+        - label: C
+          text: "Mensen met griep."
+      correct_answer: A
+    - questiontext: "Wat doet de verpleegkundige?"
+      options:
+        - label: A
+          text: "Geeft een prik in de arm."
+        - label: B
+          text: "Geeft een pil."
+        - label: C
+          text: "Doet een bloedtest."
+      correct_answer: A
+
+- id: 62
+  title: "Schoolreisje naar de dierentuin"
+  difficulty: easy
+  text: |
+    De kinderen van basisschool De Regenboog in Eindhoven gaan op schoolreisje. Ze gaan naar de dierentuin in Burgers' Zoo. Het schoolreisje is op vrijdag 14 juni. De kinderen moeten om 8.00 uur op school zijn. De bus vertrekt om 8.30 uur. Ouders moeten €7,50 betalen voor de bus. Kinderen nemen zelf een broodje en iets te drinken mee.
+  questions:
+    - questiontext: "Waar gaan de kinderen naartoe?"
+      options:
+        - label: A
+          text: "Naar een museum."
+        - label: B
+          text: "Naar de dierentuin."
+        - label: C
+          text: "Naar het strand."
+      correct_answer: A
+    - questiontext: "Hoeveel moeten ouders betalen?"
+      options:
+        - label: A
+          text: "€5,00"
+        - label: B
+          text: "€7,50"
+        - label: C
+          text: "€10,00"
+      correct_answer: A
+
+- id: 64
+  title: "Overblijven en de BSO"
+  difficulty: easy
+  text: |
+    Youssef zit in groep 4. Zijn school eindigt om 12.30 uur. Zijn moeder werkt tot 17.00 uur. Youssef blijft overblijven op school. Dat is van 12.30 tot 13.30 uur. Na de les gaat hij naar de BSO. De BSO is in dezelfde school. Hij speelt daar met andere kinderen. Om 17.00 uur haalt zijn moeder hem op. De kosten voor de BSO zijn €8 per dag.
+  questions:
+    - questiontext: "Waar is Youssef van 12.30 tot 13.30 uur?"
+      options:
+        - label: A
+          text: "Hij blijft overblijven op school."
+        - label: B
+          text: "Hij gaat naar de BSO."
+        - label: C
+          text: "Hij gaat naar huis."
+      correct_answer: A
+    - questiontext: "Hoeveel kost de BSO per dag?"
+      options:
+        - label: A
+          text: "€6"
+        - label: B
+          text: "€7"
+        - label: C
+          text: "€8"
+      correct_answer: C
+
+- id: 66
+  title: "Paspoort aanvragen"
+  difficulty: easy
+  text: |
+    Maria moet haar paspoort verlengen. Het oude paspoort is verlopen. Ze maakt een afspraak bij de gemeente in Leiden. Ze neemt een pasfoto mee en haar oude paspoort. Bij de gemeente betaalt ze €76,20 voor een nieuw paspoort. Na vijf werkdagen kan ze het paspoort ophalen. Ze moet het zelf ophalen, want ze moet haar handtekening zetten.
+  questions:
+    - questiontext: "Waar vraagt Maria het paspoort aan?"
+      options:
+        - label: A
+          text: "Bij de politie."
+        - label: B
+          text: "Bij de gemeente."
+        - label: C
+          text: "Bij het postkantoor."
+      correct_answer: A
+    - questiontext: "Hoeveel betaalt Maria voor het paspoort?"
+      options:
+        - label: A
+          text: "€56,20"
+        - label: B
+          text: "€66,20"
+        - label: C
+          text: "€76,20"
+      correct_answer: C
+
+- id: 68
+  title: "BRP-uittreksel nodig"
+  difficulty: easy
+  text: |
+    Ahmed heeft een uittreksel uit de BRP nodig. Hij gaat daarmee naar zijn werk. Zijn werkgever vraagt om te bewijzen dat Ahmed in Nederland woont. Ahmed gaat naar het stadhuis in Utrecht. Hij laat zijn identiteitskaart zien. Het uittreksel kost €13,40. Ahmed krijgt het meteen mee. Op het uittreksel staan zijn naam, adres en geboortedatum.
+  questions:
+    - questiontext: "Waarom heeft Ahmed het uittreksel nodig?"
+      options:
+        - label: A
+          text: "Voor de gemeente."
+        - label: B
+          text: "Voor zijn werkgever."
+        - label: C
+          text: "Voor de bank."
+      correct_answer: A
+    - questiontext: "Wat staat er op het uittreksel?"
+      options:
+        - label: A
+          text: "Zijn salaris en functie."
+        - label: B
+          text: "Zijn naam, adres en geboortedatum."
+        - label: C
+          text: "Zijn ziektegeschiedenis."
+      correct_answer: A
+
+- id: 70
+  title: "De molen bezoeken"
+  difficulty: easy
+  text: |
+    In Kinderdijk staan 19 molens. Het is een UNESCO-werelderfgoed. Elke zaterdag draaien de molens. Toeristen kunnen de molens bezoeken. Een kaartje kost €12 voor volwassenen en €6 voor kinderen. Er is een rondleiding van 30 minuten. De gids vertelt over de geschiedenis van de molens en het water.
+  questions:
+    - questiontext: "Hoeveel molens staan er in Kinderdijk?"
+      options:
+        - label: A
+          text: "15 molens."
+        - label: B
+          text: "19 molens."
+        - label: C
+          text: "25 molens."
+      correct_answer: A
+    - questiontext: "Wanneer draaien de molens?"
+      options:
+        - label: A
+          text: "Elke zondag."
+        - label: B
+          text: "Elke zaterdag."
+        - label: C
+          text: "Elke dag."
+      correct_answer: A
+
+- id: 72
+  title: "Oud & Nieuw tradities"
+  difficulty: easy
+  text: |
+    Op 31 december is het Oud & Nieuw in Nederland. Mensen eten oliebollen en appelflappen. Om 12 uur 's nachts is er vuurwerk. Veel mensen kijken op televisie naar de oliebollentest. De volgende dag, 1 januari, is het Nieuwjaarsdag. Dat is een vrije dag. Veel mensen gaan dan zwemmen in zee. Dat heet het Nieuwjaarsduik.
+  questions:
+    - questiontext: "Wat eten mensen op 31 december?"
+      options:
+        - label: A
+          text: "Pannenkoeken."
+        - label: B
+          text: "Oliebollen en appelflappen."
+        - label: C
+          text: "Taart en koekjes."
+      correct_answer: A
+
+- id: 74
+  title: "Schoolvakanties"
+  difficulty: easy
+  text: |
+    In Nederland zijn er schoolvakanties. De zomervakantie is zes weken, van juli tot augustus. De herfstvakantie is een week in oktober. De kerstvakantie is twee weken in december. De voorjaarsvakantie is een week in februari of maart. De meivakantie is een week in mei. Kinderen hoeven dan niet naar school. Veel gezinnen gaan op vakantie in het buitenland.
+  questions:
+    - questiontext: "Hoe lang duurt de zomervakantie?"
+      options:
+        - label: A
+          text: "Vier weken."
+        - label: B
+          text: "Zes weken."
+        - label: C
+          text: "Acht weken."
+      correct_answer: B
+    - questiontext: "Wanneer is de herfstvakantie?"
+      options:
+        - label: A
+          text: "In september."
+        - label: B
+          text: "In oktober."
+        - label: C
+          text: "In november."
+      correct_answer: B
+
+# ============================================================
+# MEDIUM QUESTIONS (37 total)
+# ============================================================
+
+- id: 75
+  title: "Naar de fysiotherapeut"
+  difficulty: medium
+  text: |
+    Pieter heeft rugpijn. Hij werkt de hele dag achter een computer. Zijn huisarts stuurt hem door naar een fysiotherapeut. De fysiotherapiepraktijk zit in een gezondheidscentrum in Arnhem. Pieter belt voor een afspraak. De eerste keer is een intakegesprek van 30 minuten. Daarna krijgt hij acht behandelingen van elk 20 minuten. De kosten zijn €38 per behandeling. Zijn zorgverzekering vergoedt de eerste twaalf behandelingen vanuit het aanvullende pakket. Pieter moet zelf het eigen risico van €270 betalen voordat de verzekering iets vergoedt.
+  questions:
+    - questiontext: "Waarom gaat Pieter naar de fysiotherapeut?"
+      options:
+        - label: A
+          text: "Hij heeft hoofdpijn."
+        - label: B
+          text: "Hij heeft rugpijn."
+        - label: C
+          text: "Hij wil sporten."
+      correct_answer: A
+    - questiontext: "Hoeveel behandelingen krijgt Pieter?"
+      options:
+        - label: A
+          text: "Zes behandelingen."
+        - label: B
+          text: "Acht behandelingen."
+        - label: C
+          text: "Twaalf behandelingen."
+      correct_answer: A
+    - questiontext: "Wat moet Pieter eerst betalen voordat de verzekering vergoedt?"
+      options:
+        - label: A
+          text: "Het eigen risico van €270."
+        - label: B
+          text: "De kosten van het intakegesprek."
+        - label: C
+          text: "Niets, de verzekering betaalt alles."
+      correct_answer: A
+
+- id: 78
+  title: "Bloedprikken bij de GGD"
+  difficulty: medium
+  text: |
+    Fatima moet haar cholesterol laten meten. De huisarts geeft haar een verwijsbrief voor het laboratorium. Ze gaat naar de GGD in Amsterdam. Bij de balie laat ze haar verwijsbrief en identiteitskaart zien. De laborant neemt bloed af uit haar arm. Het duurt ongeveer vijf minuten. Daarna moet Fatima nog tien minuten blijven zitten met een watje op haar arm. De uitslag komt na drie werkdagen via het patiëntenportaal. Als de uitslag niet goed is, belt de huisarts haar.
+  questions:
+    - questiontext: "Wat moet Fatima meenemen naar de GGD?"
+      options:
+        - label: A
+          text: "Alleen haar identiteitskaart."
+        - label: B
+          text: "Een verwijsbrief en identiteitskaart."
+        - label: C
+          text: "Haar zorgverzekeringspas."
+      correct_answer: A
+    - questiontext: "Hoe lang duurt het bloedprikken?"
+      options:
+        - label: A
+          text: "Ongeveer twee minuten."
+        - label: B
+          text: "Ongeveer vijf minuten."
+        - label: C
+          text: "Ongeveer tien minuten."
+      correct_answer: A
+    - questiontext: "Hoe krijgt Fatima de uitslag?"
+      options:
+        - label: A
+          text: "Per post na een week."
+        - label: B
+          text: "Via het patiëntenportaal na drie werkdagen."
+        - label: C
+          text: "De laborant belt haar direct."
+      correct_answer: A
+
+- id: 81
+  title: "Het donorregister"
+  difficulty: medium
+  text: |
+    In Nederland heeft iedereen van 18 jaar en ouder een brief gekregen over het donorregister. Je kunt kiezen: ja, ik wil donor worden. Nee, ik wil geen donor worden. Of je laat de keuze aan je familie. Als je niets doet, kom je in het register als 'geen bezwaar'. Dat betekent dat je organen beschikbaar zijn na je dood. Je kunt je keuze altijd veranderen via de website donorregister.nl. Je hebt daar je DigiD nodig.
+  questions:
+    - questiontext: "Wie krijgt een brief over het donorregister?"
+      options:
+        - label: A
+          text: "Iedereen in Nederland."
+        - label: B
+          text: "Mensen van 18 jaar en ouder."
+        - label: C
+          text: "Alleen mensen die ziek zijn."
+      correct_answer: C
+    - questiontext: "Wat gebeurt er als je niets doet?"
+      options:
+        - label: A
+          text: "Je bent automatisch donor."
+        - label: B
+          text: "Je komt in het register als 'geen bezwaar'."
+        - label: C
+          text: "Je familie beslist voor jou."
+      correct_answer: C
+    - questiontext: "Hoe kun je je keuze veranderen?"
+      options:
+        - label: A
+          text: "Door te bellen met de huisarts."
+        - label: B
+          text: "Via de website met je DigiD."
+        - label: C
+          text: "Door een brief te sturen."
+      correct_answer: C
+
+- id: 84
+  title: "Thuiszorg en de diëtist"
+  difficulty: medium
+  text: |
+    Mevrouw Jansen is 82 jaar en woont alleen. Ze kan niet meer goed koken en heeft diabetes. De wijkverpleegkundige komt elke ochtend helpen met wassen en aankleden. Dit heet thuiszorg. De kosten worden betaald vanuit de Wet Maatschappelijke Ondersteuning (WMO) en de zorgverzekering. Daarnaast komt er twee keer per week een diëtist. De diëtist maakt een eetplan dat past bij haar diabetes. Mevrouw Jansen moet nu minder suiker en meer vezels eten. Ze vindt het moeilijk, maar het helpt wel.
+  questions:
+    - questiontext: "Wat doet de wijkverpleegkundige?"
+      options:
+        - label: A
+          text: "Kookt voor mevrouw Jansen."
+        - label: B
+          text: "Helpt met wassen en aankleden."
+        - label: C
+          text: "Geeft medicijnen."
+      correct_answer: C
+    - questiontext: "Waarom komt de diëtist?"
+      options:
+        - label: A
+          text: "Mevrouw Jansen heeft diabetes."
+        - label: B
+          text: "Mevrouw Jansen wil afvallen."
+        - label: C
+          text: "Mevrouw Jansen heeft hoge bloeddruk."
+      correct_answer: A
+    - questiontext: "Wie betaalt de thuiszorg?"
+      options:
+        - label: A
+          text: "Alleen de zorgverzekering."
+        - label: B
+          text: "De WMO en de zorgverzekering."
+        - label: C
+          text: "Mevrouw Jansen betaalt alles zelf."
+      correct_answer: C
+
+- id: 87
+  title: "Schooladvies en het tussenrapport"
+  difficulty: medium
+  text: |
+    Lisa zit in groep 7 van basisschool De Wilgen in Haarlem. Aan het eind van groep 8 krijgen de kinderen een schooladvies. Dat advies zegt naar welke middelbare school het kind kan gaan: vmbo, havo of vwo. De juf kijkt naar de cijfers, het gedrag en de toetsen. In februari krijgen de ouders een tussenrapport. Daarop staan de cijfers van het eerste halfjaar. De ouders van Lisa zien dat ze goed scoort op taal maar minder op rekenen. Ze maken een afspraak met de juf om te bespreken hoe Lisa kan verbeteren.
+  questions:
+    - questiontext: "Wanneer krijgen kinderen een schooladvies?"
+      options:
+        - label: A
+          text: "Aan het eind van groep 7."
+        - label: B
+          text: "Aan het eind van groep 8."
+        - label: C
+          text: "Aan het begin van groep 8."
+      correct_answer: C
+    - questiontext: "Wat staat er op het tussenrapport?"
+      options:
+        - label: A
+          text: "Het schooladvies."
+        - label: B
+          text: "De cijfers van het eerste halfjaar."
+        - label: C
+          text: "De lijst met middelbare scholen."
+      correct_answer: C
+    - questiontext: "Waarop scoort Lisa minder goed?"
+      options:
+        - label: A
+          text: "Op taal."
+        - label: B
+          text: "Op gedrag."
+        - label: C
+          text: "Op rekenen."
+      correct_answer: C
+
+- id: 90
+  title: "Leerplicht in Nederland"
+  difficulty: medium
+  text: |
+    In Nederland is er leerplicht. Dat betekent dat alle kinderen naar school moeten. De leerplicht begint op 5 jaar en duurt tot 16 jaar. Daarna is er een kwalificatieplicht tot 18 jaar. Jongeren moeten dan een startkwalificatie halen, dat is minimaal een mbo-2-diploma. Ouders die hun kind niet naar school sturen, kunnen een boete krijgen van de leerplichtambtenaar. Als een kind vaak ziek is of te laat komt, belt de school de ouders. Bij meer dan 16 uur ongeoorloofd verzuim krijgt de familie een waarschuwing.
+  questions:
+    - questiontext: "Tot welke leeftijd duurt de leerplicht?"
+      options:
+        - label: A
+          text: "Tot 14 jaar."
+        - label: B
+          text: "Tot 16 jaar."
+        - label: C
+          text: "Tot 18 jaar."
+      correct_answer: C
+    - questiontext: "Wat is een startkwalificatie?"
+      options:
+        - label: A
+          text: "Een havo-diploma."
+        - label: B
+          text: "Minimaal een mbo-2-diploma."
+        - label: C
+          text: "Een vwo-diploma."
+      correct_answer: C
+    - questiontext: "Wat gebeurt er bij veel verzuim?"
+      options:
+        - label: A
+          text: "De school belt de politie."
+        - label: B
+          text: "De ouders krijgen een boete van de leerplichtambtenaar."
+        - label: C
+          text: "Het kind mag niet meer naar school."
+      correct_answer: C
+
+- id: 93
+  title: "Naar het mbo"
+  difficulty: medium
+  text: |
+    Ahmed is 16 jaar en heeft zijn vmbo-diploma gehaald. Hij wil een opleiding doen tot automonteur. Hij gaat naar het mbo in Utrecht. De opleiding duurt drie jaar. Twee dagen per week is hij op school, drie dagen werkt hij bij een garagebedrijf. Dit heet de beroepsbegeleidende leerweg (bbl). Ahmed verdient een klein salaris bij het garagebedrijf. Hij krijgt ook studiefinanciering van DUO. Als hij slaagt, krijgt hij een mbo-2-diploma.
+  questions:
+    - questiontext: "Welke opleiding doet Ahmed?"
+      options:
+        - label: A
+          text: "Automonteur."
+        - label: B
+          text: "Kok."
+        - label: C
+          text: "Verpleegkundige."
+      correct_answer: A
+    - questiontext: "Hoeveel dagen per week werkt Ahmed?"
+      options:
+        - label: A
+          text: "Twee dagen."
+        - label: B
+          text: "Drie dagen."
+        - label: C
+          text: "Vijf dagen."
+      correct_answer: C
+    - questiontext: "Wat krijgt Ahmed van DUO?"
+      options:
+        - label: A
+          text: "Een salaris."
+        - label: B
+          text: "Studiefinanciering."
+        - label: C
+          text: "Een diploma."
+      correct_answer: C
+
+- id: 96
+  title: "Inburgeringscursus en inburgeringsplicht"
+  difficulty: medium
+  text: |
+    Maria is vorig jaar naar Nederland gekomen. Ze komt uit Brazilië. Ze moet inburgeren. Dat betekent dat ze een inburgeringscursus moet doen. De cursus duurt ongeveer een jaar. Maria leert Nederlands, over de Nederlandse cultuur en over werken in Nederland. Aan het eind doet ze het inburgeringsexamen. Als ze slaagt, krijgt ze een diploma. Mensen die niet inburgeren, kunnen een boete krijgen van de gemeente. Maria oefent elke dag met de computer en gaat twee keer per week naar de taalschool in Rotterdam.
+  questions:
+    - questiontext: "Waarom moet Maria inburgeren?"
+      options:
+        - label: A
+          text: "Ze wil een Nederlands paspoort."
+        - label: B
+          text: "Ze is nieuw in Nederland en moet inburgeren."
+        - label: C
+          text: "Ze wil studeren."
+      correct_answer: C
+    - questiontext: "Wat leert Maria in de cursus?"
+      options:
+        - label: A
+          text: "Alleen Nederlands."
+        - label: B
+          text: "Nederlands, cultuur en werken."
+        - label: C
+          text: "Alleen over werken."
+      correct_answer: C
+    - questiontext: "Wat gebeurt er als iemand niet inburgert?"
+      options:
+        - label: A
+          text: "Niets."
+        - label: B
+          text: "De persoon moet het land verlaten."
+        - label: C
+          text: "De persoon kan een boete krijgen."
+      correct_answer: C
+
+- id: 99
+  title: "VOG en vergunning aanvragen"
+  difficulty: medium
+  text: |
+    Fatima wil als vrijwilliger werken met kinderen. De sportclub vraagt om een VOG. Dat is een Verklaring Omtrent het Gedrag. Fatima vraagt de VOG aan via de gemeente. Ze betaalt €41,35 aan leges. De gemeente stuurt de aanvraag naar Justis. Justis kijkt of Fatima strafbare feiten heeft gepleegd. Na vier weken krijgt ze de VOG per post. Daarnaast heeft Fatima een vergunning nodig voor een straatfeest in haar buurt. Die vergunning vraagt ze ook aan bij de gemeente. Dat kost €25 en duurt zes weken.
+  questions:
+    - questiontext: "Waarom heeft Fatima een VOG nodig?"
+      options:
+        - label: A
+          text: "Voor een nieuwe baan."
+        - label: B
+          text: "Om als vrijwilliger met kinderen te werken."
+        - label: C
+          text: "Voor een reis naar het buitenland."
+      correct_answer: C
+    - questiontext: "Wie kijkt of Fatima strafbare feiten heeft gepleegd?"
+      options:
+        - label: A
+          text: "De gemeente."
+        - label: B
+          text: "Justis."
+        - label: C
+          text: "De politie."
+      correct_answer: C
+    - questiontext: "Hoe lang duurt het voordat Fatima de vergunning voor het straatfeest krijgt?"
+      options:
+        - label: A
+          text: "Vier weken."
+        - label: B
+          text: "Zes weken."
+        - label: C
+          text: "Twee weken."
+      correct_answer: B
+
+- id: 102
+  title: "Leges en aangifte doen bij de politie"
+  difficulty: medium
+  text: |
+    De fiets van Karim is gestolen. Hij gaat naar het politiebureau in Den Haag om aangifte te doen. Hij neemt zijn identiteitskaart mee en het framenummer van de fiets. De politieagent schrijft alles op en geeft Karim een proces-verbaal. Met dit document kan Karim een nieuwe fiets claimen bij de verzekering. Aangifte doen is gratis. Wel moet Karim leges betalen voor een nieuw identiteitsbewijs, want zijn oude is verlopen. De leges voor een identiteitskaart zijn €63,10 bij de gemeente.
+  questions:
+    - questiontext: "Wat neemt Karim mee naar het politiebureau?"
+      options:
+        - label: A
+          text: "Alleen zijn identiteitskaart."
+        - label: B
+          text: "Zijn identiteitskaart en het framenummer."
+        - label: C
+          text: "Het aankoopbewijs van de fiets."
+      correct_answer: B
+    - questiontext: "Wat kan Karim doen met het proces-verbaal?"
+      options:
+        - label: A
+          text: "Een nieuwe fiets kopen."
+        - label: B
+          text: "Een nieuwe fiets claimen bij de verzekering."
+        - label: C
+          text: "Naar de rechtbank gaan."
+      correct_answer: B
+    - questiontext: "Hoeveel betaalt Karim voor de identiteitskaart?"
+      options:
+        - label: A
+          text: "€41,35"
+        - label: B
+          text: "€53,10"
+        - label: C
+          text: "€63,10"
+      correct_answer: C
+
+- id: 105
+  title: "Prinsjesdag"
+  difficulty: medium
+  text: |
+    Op de derde dinsdag van september is het Prinsjesdag. De Koning rijdt in de Gouden Koets door Den Haag naar de Ridderzaal. Daar leest hij de Troonrede voor. In de Troonrede staan de plannen van de regering voor het komende jaar. Ook presenteert de minister van Financiën de Miljoenennota. Daar staat in hoeveel geld er is voor scholen, ziekenhuizen en wegen. Mensen kijken op televisie. Buiten staan veel mensen te kijken naar de koets. Kinderen hebben een vrije dag van school.
+  questions:
+    - questiontext: "Wanneer is Prinsjesdag?"
+      options:
+        - label: A
+          text: "Op de eerste dinsdag van september."
+        - label: B
+          text: "Op de derde dinsdag van september."
+        - label: C
+          text: "Op de derde maandag van september."
+      correct_answer: B
+    - questiontext: "Wat staat er in de Troonrede?"
+      options:
+        - label: A
+          text: "De geschiedenis van Nederland."
+        - label: B
+          text: "De plannen van de regering voor het komende jaar."
+        - label: C
+          text: "De namen van alle ministers."
+      correct_answer: B
+
+- id: 108
+  title: "Dodenherdenking en Bevrijdingsdag"
+  difficulty: medium
+  text: |
+    Op 4 mei is het Dodenherdenking. Om 20.00 uur staat heel Nederland twee minuten stil. De Koning en Koningin leggen een krans bij het Nationaal Monument op de Dam in Amsterdam. Mensen herdenken alle Nederlanders die zijn omgekomen sinds het begin van de Tweede Wereldoorlog. De volgende dag, 5 mei, is het Bevrijdingsdag. Dan vieren we dat Nederland vrij is sinds 1945. Er zijn festivals in het hele land. Bevrijdingsdag is elke vijf jaar een officiële vrije dag.
+  questions:
+    - questiontext: "Wat doen mensen om 20.00 uur op 4 mei?"
+      options:
+        - label: A
+          text: "Ze zingen het volkslied."
+        - label: B
+          text: "Ze staan twee minuten stil."
+        - label: C
+          text: "Ze gaan naar een festival."
+      correct_answer: B
+    - questiontext: "Wanneer is Bevrijdingsdag een officiële vrije dag?"
+      options:
+        - label: A
+          text: "Elk jaar."
+        - label: B
+          text: "Elke vijf jaar."
+        - label: C
+          text: "Elke tien jaar."
+      correct_answer: B
+
+- id: 110
+  title: "Carnaval en Suikerfeest"
+  difficulty: medium
+  text: |
+    In februari is er carnaval in het zuiden van Nederland. In Maastricht en Den Bosch is het drie dagen feest. Mensen verkleden zich en lopen in optochten door de straten. Veel scholen en winkels zijn dicht. In het voorjaar is er ook het Suikerfeest. Dit is een islamitisch feest na de ramadan. De ramadan duurt een maand. Tijdens de ramadan vasten moslims van zonsopgang tot zonsondergang. Na de ramadan vieren ze het Suikerfeest. Mensen bezoeken familie en eten zoetigheden.
+  questions:
+    - questiontext: "Waar is carnaval het populairst?"
+      options:
+        - label: A
+          text: "In het noorden van Nederland."
+        - label: B
+          text: "In het zuiden van Nederland."
+        - label: C
+          text: "In het westen van Nederland."
+      correct_answer: B
+    - questiontext: "Wat doen moslims tijdens de ramadan?"
+      options:
+        - label: A
+          text: "Ze eten de hele dag."
+        - label: B
+          text: "Ze vasten van zonsopgang tot zonsondergang."
+        - label: C
+          text: "Ze gaan op vakantie."
+      correct_answer: B
+
+- id: 112
+  title: "Fietscultuur in Nederland"
+  difficulty: medium
+  text: |
+    Nederlanders houden van fietsen. Er zijn meer fietsen dan mensen in Nederland. In steden als Amsterdam en Utrecht zijn speciale fietspaden. Mensen fietsen naar werk, school en de winkel. Een goede fiets kost tussen de €500 en €1000. Veel mensen kopen een tweedehands fiets voor €150. Het is belangrijk om een goed slot te kopen, want fietsdiefstal komt veel voor. Een verzekering voor de fiets kost ongeveer €5 per maand.
+  questions:
+    - questiontext: "Hoeveel fietsen zijn er in Nederland?"
+      options:
+        - label: A
+          text: "Minder dan het aantal mensen."
+        - label: B
+          text: "Meer dan het aantal mensen."
+        - label: C
+          text: "Precies evenveel als mensen."
+      correct_answer: B
+
+# ============================================================
+# HARD QUESTIONS (19 total)
+# ============================================================
+
+- id: 113
+  title: "WMO-aanvraag en PGB"
+  difficulty: hard
+  text: |
+    Mevrouw de Boer is 75 jaar en woont alleen. Ze kan niet meer goed schoonmaken en boodschappen doen. Ze vraagt hulp aan bij de gemeente via de Wet Maatschappelijke Ondersteuning (WMO). De gemeente stuurt een consulent die haar situatie thuis beoordeelt. De consulent zegt dat mevrouw de Boer recht heeft op hulp. Ze kan kiezen: de gemeente regelt een hulp via een zorginstelling, of mevrouw de Boer krijgt een persoonsgebonden budget (PGB). Met een PGB kan ze zelf iemand inhuren, bijvoorbeeld een buurvrouw. Het PGB is €12 per uur. De buurvrouw helpt drie uur per week. Mevrouw de Boer kiest voor het PGB, want ze kent de buurvrouw al en vertrouwt haar. De gemeente controleert elk half jaar of het geld goed wordt besteed.
+  questions:
+    - questiontext: "Waarom vraagt mevrouw de Boer hulp aan?"
+      options:
+        - label: A
+          text: "Ze is ziek en moet naar het ziekenhuis."
+        - label: B
+          text: "Ze kan niet meer goed schoonmaken en boodschappen doen."
+        - label: C
+          text: "Ze wil verhuizen naar een verzorgingstehuis."
+      correct_answer: B
+    - questiontext: "Wat is het verschil tussen de twee opties?"
+      options:
+        - label: A
+          text: "Bij de eerste optie regelt de gemeente de hulp, bij de tweede optie huurt mevrouw de Boer zelf iemand in."
+        - label: B
+          text: "De eerste optie is gratis, de tweede optie kost geld."
+        - label: C
+          text: "De eerste optie is voor jonge mensen, de tweede voor ouderen."
+      correct_answer: A
+    - questiontext: "Waarom kiest mevrouw de Boer voor het PGB?"
+      options:
+        - label: A
+          text: "Omdat het meer geld oplevert."
+        - label: B
+          text: "Omdat ze de buurvrouw al kent en vertrouwt."
+        - label: C
+          text: "Omdat de gemeente dat verplicht stelt."
+      correct_answer: B
+
+- id: 116
+  title: "Kraamzorg na de geboorte"
+  difficulty: hard
+  text: |
+    Sarah is net bevallen van haar eerste kindje. Ze heeft recht op kraamzorg. De kraamhulp komt acht dagen langs. De eerste drie dagen helpt de kraamhulp de hele dag, de laatste vijf dagen komt ze een paar uur. De kraamhulp helpt met de verzorging van de baby, geeft advies over voeding en doet lichte huishoudelijke taken. De kosten worden betaald vanuit de zorgverzekering, maar Sarah moet wel het eigen risico betalen. De kraamhulp leert Sarah ook hoe ze de baby moet wassen en voeden. Als er complicaties zijn, kan de kraamzorg langer duren, maar dat moet de arts dan wel goedkeuren.
+  questions:
+    - questiontext: "Hoe lang komt de kraamhulp in totaal?"
+      options:
+        - label: A
+          text: "Drie dagen."
+        - label: B
+          text: "Vijf dagen."
+        - label: C
+          text: "Acht dagen."
+      correct_answer: C
+    - questiontext: "Wat moet Sarah betalen vanuit haar verzekering?"
+      options:
+        - label: A
+          text: "Niets, alles wordt vergoed."
+        - label: B
+          text: "Het eigen risico."
+        - label: C
+          text: "De helft van de kosten."
+      correct_answer: B
+
+- id: 118
+  title: "Studiefinanciering van DUO"
+  difficulty: hard
+  text: |
+    Fatima is 18 jaar en gaat studeren aan de Universiteit van Amsterdam. Ze vraagt studiefinanciering aan bij DUO. Ze krijgt een basisbeurs van €296,36 per maand. Daarnaast kan ze een aanvullende beurs krijgen als haar ouders minder verdienen. Fatima's moeder verdient €35.000 per jaar, dus Fatima krijgt ook een aanvullende beurs van €150 per maand. Ze kan ook een studentenreisproduct krijgen voor het ov. Dit is een lening die ze later moet terugbetalen als ze werkt. DUO betaalt het ov-product direct aan de vervoerder. Fatima moet elk jaar haar inkomen doorgeven, anders stopt de beurs. Als ze binnen tien jaar afstudeert, wordt de lening omgezet in een gift.
+  questions:
+    - questiontext: "Hoeveel krijgt Fatima in totaal per maand aan beurzen?"
+      options:
+        - label: A
+          text: "€296,36"
+        - label: B
+          text: "€446,36"
+        - label: C
+          text: "€550,00"
+      correct_answer: B
+    - questiontext: "Wanneer wordt de lening omgezet in een gift?"
+      options:
+        - label: A
+          text: "Als Fatima binnen vijf jaar afstudeert."
+        - label: B
+          text: "Als Fatima binnen tien jaar afstudeert."
+        - label: C
+          text: "Als Fatima gaat werken."
+      correct_answer: B
+
+- id: 121
+  title: "NT2-examen en diploma laten waarderen"
+  difficulty: hard
+  text: |
+    Ahmed wil gaan werken als verpleegkundige in Nederland. Hij heeft een diploma uit Marokko. Voordat hij kan werken, moet hij twee dingen doen. Ten eerste moet hij het NT2-examen doen op niveau B1. Dat examen heeft vier onderdelen: lezen, luisteren, spreken en schrijven. Ahmed oefent zes maanden en doet het examen bij DUO in Utrecht. Hij haalt alle onderdelen. Ten tweede moet hij zijn Marokkaanse diploma laten waarderen door IDW. Dat duurt acht weken en kost €160. IDW vergelijkt het diploma met Nederlandse diploma's. Ahmed zijn diploma is gelijk aan een mbo-4-niveau. Nu kan hij solliciteren als verpleegkundige.
+  questions:
+    - questiontext: "Welke twee dingen moet Ahmed doen voordat hij kan werken?"
+      options:
+        - label: A
+          text: "Het NT2-examen doen en solliciteren."
+        - label: B
+          text: "Het NT2-examen doen en zijn diploma laten waarderen."
+        - label: C
+          text: "Zijn diploma laten waarderen en een cursus volgen."
+      correct_answer: B
+    - questiontext: "Hoeveel onderdelen heeft het NT2-examen?"
+      options:
+        - label: A
+          text: "Twee onderdelen."
+        - label: B
+          text: "Drie onderdelen."
+        - label: C
+          text: "Vier onderdelen."
+      correct_answer: C
+    - questiontext: "Wat doet IDW?"
+      options:
+        - label: A
+          text: "Geeft taallessen."
+        - label: B
+          text: "Vergelijkt buitenlandse diploma's met Nederlandse diploma's."
+        - label: C
+          text: "Regelt werk voor buitenlandse gediplomeerden."
+      correct_answer: B
+
+- id: 124
+  title: "Bezwaar maken tegen een beslissing"
+  difficulty: hard
+  text: |
+    Kees krijgt een brief van de gemeente. Ze zeggen dat hij meer gemeentebelasting moet betalen. Kees is het niet eens met de berekening. Hij wil bezwaar maken. Dat moet binnen zes weken na de datum van de brief. Kees schrijft een brief aan de gemeente waarin hij uitlegt waarom hij het niet eens is. Hij stuurt de brief per aangetekende post, want dan heeft hij bewijs dat de brief is verstuurd. De gemeente heeft zes weken de tijd om te reageren. Als de gemeente niet reageert, krijgt Kees automatisch gelijk. Als de gemeente wel reageert maar Kees het er nog steeds niet mee eens is, kan hij naar de rechter stappen. Dat moet dan binnen zes weken na de beslissing op bezwaar.
+  questions:
+    - questiontext: "Binnen hoeveel weken moet Kees bezwaar maken?"
+      options:
+        - label: A
+          text: "Binnen vier weken."
+        - label: B
+          text: "Binnen zes weken."
+        - label: C
+          text: "Binnen acht weken."
+      correct_answer: B
+    - questiontext: "Waarom stuurt Kees de brief per aangetekende post?"
+      options:
+        - label: A
+          text: "Omdat dat sneller is."
+        - label: B
+          text: "Omdat hij dan bewijs heeft dat de brief is verstuurd."
+        - label: C
+          text: "Omdat de gemeente dat verplicht stelt."
+      correct_answer: B
+    - questiontext: "Wat gebeurt er als de gemeente niet reageert?"
+      options:
+        - label: A
+          text: "Kees moet opnieuw bezwaar maken."
+        - label: B
+          text: "Kees krijgt automatisch gelijk."
+        - label: C
+          text: "Kees moet naar de rechter."
+      correct_answer: B
+
+- id: 127
+  title: "Naturalisatie tot Nederlander"
+  difficulty: hard
+  text: |
+    Maria woont al vijf jaar in Nederland. Ze komt uit Colombia. Ze wil Nederlands worden en vraagt naturalisatie aan bij de gemeente. Dat kost €1.025 voor een volwassene. Voordat ze kan aanvragen, moet ze aan een aantal voorwaarden voldoen. Ze moet een geldige verblijfsvergunning hebben. Ze moet het inburgeringsexamen hebben gehaald. Ze mag de laatste vier jaar geen strafblad hebben gehad. De gemeente stuurt de aanvraag naar de IND. De IND onderzoekt of Maria aan alle voorwaarden voldoet. Dat duurt ongeveer negen maanden. Als de IND akkoord is, moet Maria binnen zes maanden de naturalisatieoptie ondertekenen bij de gemeente. Als ze dat niet doet, vervalt de aanvraag. Bij de ondertekening doet Maria de naturalisatieceremonie en krijgt ze het Nederlandse paspoort.
+  questions:
+    - questiontext: "Hoeveel kost naturalisatie voor een volwassene?"
+      options:
+        - label: A
+          text: "€525"
+        - label: B
+          text: "€1.025"
+        - label: C
+          text: "€1.525"
+      correct_answer: B
+    - questiontext: "Hoelang duurt het onderzoek van de IND?"
+      options:
+        - label: A
+          text: "Ongeveer drie maanden."
+        - label: B
+          text: "Ongeveer zes maanden."
+        - label: C
+          text: "Ongeveer negen maanden."
+      correct_answer: C
+
+- id: 129
+  title: "Waterschap en referendum"
+  difficulty: hard
+  text: |
+    In Nederland zijn er 21 waterschappen. Die zorgen voor droge voeten en schoon water. Elke vier jaar zijn er verkiezingen voor het waterschap. Mensen kunnen stemmen op een partij die zich bezighoudt met waterbeheer. Soms is er ook een referendum. Dat is een volksraadpleging over een belangrijk onderwerp. In 2018 was er in Utrecht een referendum over de bouw van een nieuw tramlijn. Mensen konden stemmen: voor of tegen. Een referendum is niet bindend, dat betekent dat de gemeente niet verplicht is om de uitslag te volgen. Maar meestal houden ze zich er wel aan. Om te mogen stemmen bij een referendum moet je 16 jaar of ouder zijn en in de gemeente wonen.
+  questions:
+    - questiontext: "Waar zorgen waterschappen voor?"
+      options:
+        - label: A
+          text: "Voor wegen en bruggen."
+        - label: B
+          text: "Voor droge voeten en schoon water."
+        - label: C
+          text: "Voor scholen en ziekenhuizen."
+      correct_answer: B
+    - questiontext: "Wat betekent het dat een referendum niet bindend is?"
+      options:
+        - label: A
+          text: "De gemeente moet de uitslag altijd volgen."
+        - label: B
+          text: "De gemeente is niet verplicht om de uitslag te volgen."
+        - label: C
+          text: "Het referendum is ongeldig."
+      correct_answer: B
+
+- id: 130
+  title: "Directheid en borrelcultuur"
+  difficulty: hard
+  text: |
+    Nederlanders staan bekend om hun directheid. Ze zeggen wat ze denken, ook als dat niet altijd aardig is. Buitenlanders vinden dit soms onbeleefd, maar Nederlanders zien het als eerlijk en open. Als een collega een fout maakt, zegt de baas dat direct. Op het werk is er ook een borrelcultuur. Na het werk gaan collega's soms samen een biertje drinken. Dit heet een borrel. Het is een manier om te ontspannen en elkaar beter te leren kennen. Niet iedereen doet mee, en dat is ook prima. De borrel is meestal op vrijdagmiddag.
+  questions:
+    - questiontext: "Hoe zien Nederlanders hun directheid?"
+      options:
+        - label: A
+          text: "Als onbeleefd en kwetsend."
+        - label: B
+          text: "Als eerlijk en open."
+        - label: C
+          text: "Als een manier om ruzie te maken."
+      correct_answer: B
+    - questiontext: "Wat is het doel van de borrelcultuur?"
+      options:
+        - label: A
+          text: "Om te werken tot laat."
+        - label: B
+          text: "Om te ontspannen en elkaar beter te leren kennen."
+        - label: C
+          text: "Om ruzie te maken met collega's."
+      correct_answer: B
