@@ -144,11 +144,7 @@ export function ExamPage() {
   };
 
   const handleSubmitClick = () => {
-    if (unansweredCount > 0) {
-      setShowConfirm(true);
-    } else {
-      handleSubmit();
-    }
+    setShowConfirm(true);
   };
 
   const { minutes, seconds, isWarning, isDanger } = useTimer(
@@ -287,12 +283,23 @@ export function ExamPage() {
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/30">
           <div className="bg-white rounded-xl shadow-xl border border-gray-200 p-6 max-w-sm mx-4">
             <h2 className="text-lg font-semibold text-gray-900 mb-2">
-              Weet u het zeker?
+              {state.bookmarks.length > 0 ? "Verwijder bladwijzers" : "Weet u het zeker?"}
             </h2>
-            <p className="text-sm text-gray-600 mb-6">
-              U heeft <span className="font-semibold text-exam-warning">{unansweredCount}</span> van de {totalQuestions} vragen nog niet beantwoord.
-              Wilt u toch inleveren?
-            </p>
+            {state.bookmarks.length > 0 ? (
+              <p className="text-sm text-gray-600 mb-6">
+                U heeft <span className="font-semibold text-exam-warning">{state.bookmarks.length}</span> {state.bookmarks.length === 1 ? "vraag" : "vragen"} met een bladwijzer.
+                Verwijder alle bladwijzers voordat u inlevert.
+              </p>
+            ) : unansweredCount > 0 ? (
+              <p className="text-sm text-gray-600 mb-6">
+                U heeft <span className="font-semibold text-exam-warning">{unansweredCount}</span> van de {totalQuestions} vragen nog niet beantwoord.
+                Wilt u toch inleveren?
+              </p>
+            ) : (
+              <p className="text-sm text-gray-600 mb-6">
+                U staat op het punt de toets in te leveren. U kunt daarna geen antwoorden meer wijzigen.
+              </p>
+            )}
             <div className="flex gap-3">
               <button
                 type="button"
@@ -301,13 +308,15 @@ export function ExamPage() {
               >
                 Terug
               </button>
-              <button
-                type="button"
-                onClick={handleSubmit}
-                className="flex-1 py-2.5 rounded-lg text-sm font-semibold bg-exam-danger text-white hover:bg-red-700 transition-colors"
-              >
-                Toch inleveren
-              </button>
+              {state.bookmarks.length === 0 && (
+                <button
+                  type="button"
+                  onClick={handleSubmit}
+                  className="flex-1 py-2.5 rounded-lg text-sm font-semibold bg-exam-blue text-white hover:bg-blue-800 transition-colors"
+                >
+                  Inleveren
+                </button>
+              )}
             </div>
           </div>
         </div>
