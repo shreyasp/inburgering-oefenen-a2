@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-exam-blue: #1e5fbb;
+  --color-exam-blue-light: #eaf1fb;
+  --color-exam-blue-border: #c8daf5;
+  --color-exam-bg: #f8f9fa;
+  --color-exam-gray: #6b7280;
+  --color-exam-success: #16a34a;
+  --color-exam-success-light: #dcfce7;
+  --color-exam-danger: #dc2626;
+  --color-exam-danger-light: #fee2e2;
+  --color-exam-warning: #d97706;
+  --color-exam-amber-light: #fef3c7;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.reading-text {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* Timer monospace */
+.font-timer {
+  font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
+  font-variant-numeric: tabular-nums;
+}
