@@ -13,6 +13,7 @@ import { Timer } from "../components/Timer";
 import { ProgressDots } from "../components/ProgressDots";
 import { ReadingText } from "../components/ReadingText";
 import { QuestionCard } from "../components/QuestionCard";
+import { NavBar } from "../components/NavBar";
 
 const EXAM_DURATION = 65 * 60; // 65 minutes
 
@@ -169,6 +170,7 @@ export function ExamPage() {
 
   return (
     <main className="min-h-screen bg-white flex flex-col">
+      <NavBar />
       {/* Top bar */}
       <header className="border-b border-gray-200 bg-white sticky top-0 z-10">
         <div className="max-w-full mx-auto px-4 py-2 flex items-center gap-4">

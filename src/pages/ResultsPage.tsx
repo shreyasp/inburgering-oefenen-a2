@@ -4,6 +4,7 @@ import { loadQuestionBank, getQuestionById, recordAttempt, type BankEntry } from
 import { useExam, useExamActions, saveAttemptHistory } from "../context/ExamContext";
 import { AnswerReview } from "../components/AnswerReview";
 import { ReadingText } from "../components/ReadingText";
+import { NavBar } from "../components/NavBar";
 
 function answerKey(entryId: number, qIdx: number): string {
   return `${entryId}:${qIdx}`;
@@ -110,6 +111,7 @@ export function ResultsPage() {
 
   return (
     <main className="min-h-screen bg-exam-bg">
+      <NavBar />
       <div className="max-w-3xl mx-auto px-4 py-8">
         {/* Score header */}
         <section className="bg-white rounded-lg border border-gray-200 p-6 mb-6 text-center">
