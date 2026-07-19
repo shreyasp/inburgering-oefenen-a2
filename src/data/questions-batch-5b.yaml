@@ -4,13 +4,12 @@
   text: |
     NS Dienstregeling Amsterdam - Rotterdam
 
-    Vertrekstation   | Vertrektijd | Aankomststation | Aankomsttijd | Treintype
-    -----------------|-------------|-----------------|--------------|----------
-    Amsterdam Centraal | 08:15     | Rotterdam Centraal | 09:30      | Intercity
-    Amsterdam Centraal | 09:00     | Rotterdam Centraal | 10:15      | Sprinter
-    Amsterdam Centraal | 10:30     | Rotterdam Centraal | 11:45      | Intercity
-    Amsterdam Zuid     | 08:30     | Rotterdam Centraal | 09:35      | Intercity
-    Amsterdam Zuid     | 09:15     | Rotterdam Centraal | 10:20      | Sprinter
+    Vertrekstation      Vertrektijd   Aankomststation     Aankomsttijd  Treintype
+    Amsterdam Centraal  08:15         Rotterdam Centraal  09:30         Intercity
+    Amsterdam Centraal  09:00         Rotterdam Centraal  10:15         Sprinter
+    Amsterdam Centraal  10:30         Rotterdam Centraal  11:45         Intercity
+    Amsterdam Zuid      08:30         Rotterdam Centraal  09:35         Intercity
+    Amsterdam Zuid      09:15         Rotterdam Centraal  10:20         Sprinter
 
     Reistijd met Intercity: 1 uur 15 minuten
     Reistijd met Sprinter: 1 uur 15 minuten
@@ -82,13 +81,12 @@
   text: |
     Stadsbus Amsterdam - Lijnen en haltes
 
-    Lijn | Route                              | Eerste bus | Laatste bus | Frequentie
-    -----|------------------------------------|------------|-------------|------------
-    12   | Centraal Station - Leidseplein     | 06:00      | 00:30       | 10 min
-    18   | Centraal Station - Sloterdijk      | 06:15      | 00:15       | 12 min
-    22   | Centraal Station - Surinameplein   | 06:30      | 23:45       | 15 min
-    30   | Muiderpoortstation - Lelylaan      | 07:00      | 23:30       | 8 min
-    65   | Bijlmermeer - Amstelveen           | 06:45      | 23:00       | 20 min
+    Lijn  Route                              Eerste bus  Laatste bus  Frequentie
+    12    Centraal Station - Leidseplein     06:00       00:30        10 min
+    18    Centraal Station - Sloterdijk      06:15       00:15        12 min
+    22    Centraal Station - Surinameplein   06:30       23:45        15 min
+    30    Muiderpoortstation - Lelylaan      07:00       23:30        8 min
+    65    Bijlmermeer - Amstelveen           06:45       23:00        20 min
 
     Nachtbus N47: Centraal Station - Schiphol (01:00 - 05:00, elke 30 min)
     Kinderen t/m 11 jaar: gratis reizen
@@ -160,11 +158,10 @@
   text: |
     Amsterdam Music Festival - Programma
 
-    Podium         | 14:00 - 15:30        | 16:00 - 17:30        | 18:00 - 19:30
-    ---------------|----------------------|----------------------|---------------------
-    Main Stage     | DJ Martin            | The Rockers          | Electronic Dreams
-    Jazz Tent      | Piano Quartet        | Saxophone Trio       | Blues Brothers
-    Dance Floor    | Hip Hop Crew         | House Masters        | Techno Night
+    Podium       14:00 - 15:30    16:00 - 17:30    18:00 - 19:30
+    Main Stage   DJ Martin        The Rockers      Electronic Dreams
+    Jazz Tent    Piano Quartet    Saxophone Trio   Blues Brothers
+    Dance Floor  Hip Hop Crew     House Masters    Techno Night
 
     Toegangsprijzen:
     - Dagkaart: € 45
@@ -226,13 +223,12 @@
   text: |
     Lesrooster Klas 3B - Maandag t/m Vrijdag
 
-    Dag       | 08:30 - 10:00 | 10:15 - 11:45 | 12:30 - 14:00
-    ----------|---------------|---------------|---------------
-    Maandag   | Nederlands    | Wiskunde      | Engels
-    Dinsdag   | Geschiedenis  | Nederlands    | Sport
-    Woensdag  | Wiskunde      | Aardrijkskunde| Biologie
-    Donderdag | Engels        | Wiskunde      | Nederlands
-    Vrijdag   | Sport         | Geschiedenis  | Kunst
+    Dag        08:30 - 10:00  10:15 - 11:45   12:30 - 14:00
+    Maandag    Nederlands     Wiskunde        Engels
+    Dinsdag    Geschiedenis   Nederlands      Sport
+    Woensdag   Wiskunde       Aardrijkskunde  Biologie
+    Donderdag  Engels         Wiskunde        Nederlands
+    Vrijdag    Sport          Geschiedenis    Kunst
 
     Lokaalwijzigingen:
     - Biologie: lokaal 205 (tweede verdieping)
@@ -299,13 +295,12 @@
   text: |
     Medicijnschema - Patiënt: J. de Vries
 
-    Medicijn       | Dosering    | Tijdstip        | Voor/Na eten   | Bijzonderheden
-    ---------------|-------------|-----------------|----------------|------------------
-    Paracetamol    | 500 mg      | 08:00, 14:00    | Na eten        | Max 4x per dag
-    Omeprazol      | 20 mg       | 07:30           | Voor eten      | Nuchter innemen
-    Metformine     | 500 mg      | 08:00, 20:00    | Tijdens eten   | Bij diabetes
-    Vitamine D     | 25 mcg      | 12:00           | Na eten        | 1x per dag
-    Aspirine       | 80 mg       | 22:00           | Na eten        | Bloedverdunner
+    Medicijn     Dosering    Tijdstip        Voor/Na eten   Bijzonderheden
+    Paracetamol  500 mg      08:00, 14:00    Na eten        Max 4x per dag
+    Omeprazol    20 mg       07:30           Voor eten      Nuchter innemen
+    Metformine   500 mg      08:00, 20:00    Tijdens eten   Bij diabetes
+    Vitamine D   25 mcg      12:00           Na eten        1x per dag
+    Aspirine     80 mg       22:00           Na eten        Bloedverdunner
 
     Waarschuwingen:
     - Geen alcohol bij Paracetamol
@@ -379,16 +374,15 @@
   text: |
     Cafetaria De Gouden Frit - Prijslijst
 
-    Product              | Klein      | Groot      | Extra
-    ---------------------|------------|------------|------------
-    Friet                | € 2,50     | € 3,50     | -
-    Patatje Oorlog       | € 3,00     | € 4,00     | -
-    Frikandel            | € 1,80     | € 2,50     | -
-    Kroket               | € 2,00     | € 2,80     | -
-    Kaassoufflé          | € 2,20     | € 3,00     | -
-    Hamburger            | -          | € 4,50     | +€ 0,50 kaas
-    Kipfilet             | -          | € 5,00     | +€ 0,50 saus
-    Visfilet             | -          | € 4,80     | +€ 0,50 tartarsaus
+    Product         Klein     Groot     Extra
+    Friet           € 2,50    € 3,50    -
+    Patatje Oorlog  € 3,00    € 4,00    -
+    Frikandel       € 1,80    € 2,50    -
+    Kroket          € 2,00    € 2,80    -
+    Kaassoufflé     € 2,20    € 3,00    -
+    Hamburger       -         € 4,50    +€ 0,50 kaas
+    Kipfilet        -         € 5,00    +€ 0,50 saus
+    Visfilet        -         € 4,80    +€ 0,50 tartarsaus
 
     Dranken:
     - Frisdrank: € 1,50
