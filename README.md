@@ -99,7 +99,7 @@ Voeg een `table`-veld toe met `headers` en `rows`. De vragen moeten alleen te be
 
 ## Tech stack
 
-- React 19 + TypeScript
+- React 19 + TypeScript 7
 - Vite 6 + Tailwind CSS 4
 - React Router 7
 - js-yaml (YAML-parsing)
