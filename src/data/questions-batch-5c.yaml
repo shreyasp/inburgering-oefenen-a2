@@ -3,17 +3,17 @@
   difficulty: medium
   text: 'Hier is het weerbericht voor de komende vijf dagen in verschillende Nederlandse steden.
 
-    Dag        | Stad       | Temperatuur | Neerslag
-    Maandag    | Amsterdam  | 18 graden   | Geen
-    Maandag    | Rotterdam  | 19 graden   | Lichte regen
-    Dinsdag    | Utrecht    | 16 graden   | Regen
-    Dinsdag    | Groningen  | 15 graden   | Geen
-    Woensdag   | Den Haag   | 20 graden   | Zonnig
-    Woensdag   | Maastricht | 22 graden   | Zonnig
-    Donderdag  | Amsterdam  | 17 graden   | Bewolkt
-    Donderdag  | Eindhoven  | 18 graden   | Geen
-    Vrijdag    | Rotterdam  | 21 graden   | Zonnig
-    Vrijdag    | Utrecht    | 20 graden   | Lichte regen
+    Dag        Stad       Temperatuur   Neerslag
+    Maandag    Amsterdam  18 graden     Geen
+    Maandag    Rotterdam  19 graden     Lichte regen
+    Dinsdag    Utrecht    16 graden     Regen
+    Dinsdag    Groningen  15 graden     Geen
+    Woensdag   Den Haag   20 graden     Zonnig
+    Woensdag   Maastricht 22 graden     Zonnig
+    Donderdag  Amsterdam  17 graden     Bewolkt
+    Donderdag  Eindhoven  18 graden     Geen
+    Vrijdag    Rotterdam  21 graden     Zonnig
+    Vrijdag    Utrecht    20 graden     Lichte regen
 
     '
   table:
@@ -66,10 +66,10 @@
   difficulty: medium
   text: 'De gemeente heeft verschillende parkeerzones met verschillende tarieven.
 
-    Zone       | Per uur   | Per dag (max)
-    Centrum    | € 4,50    | € 35,00
-    Rand       | € 2,50    | € 20,00
-    Buiten     | € 1,00    | € 8,00
+    Zone     Per uur    Per dag (max)
+    Centrum  € 4,50     € 35,00
+    Rand     € 2,50     € 20,00
+    Buiten   € 1,00     € 8,00
 
     Parkeren in het centrum is het duurst. Buiten de stad is het goedkoopst. Je kunt per dag betalen of per uur. Als je langer dan acht uur in het centrum parkeert, is het dagtarief goedkoper.
 
@@ -116,12 +116,12 @@
   difficulty: easy
   text: 'De afvalkalender laat zien welke dag welke bak wordt opgehaald in verschillende wijken.
 
-    Week       | Wijk Noord     | Wijk Zuid      | Wijk Oost
-    Maandag    | GFT            | Restafval      | Plastic
-    Dinsdag    | Papier         | GFT            | Restafval
-    Woensdag   | Restafval      | Plastic        | GFT
-    Donderdag  | Plastic        | Papier         | Papier
-    Vrijdag    | GFT            | Restafval      | Plastic
+    Week       Wijk Noord   Wijk Zuid    Wijk Oost
+    Maandag    GFT          Restafval    Plastic
+    Dinsdag    Papier       GFT          Restafval
+    Woensdag   Restafval    Plastic      GFT
+    Donderdag  Plastic      Papier       Papier
+    Vrijdag    GFT          Restafval    Plastic
 
     In Wijk Noord wordt op dinsdag papier opgehaald. In Wijk Zuid is woensdag plastic aan de beurt. In Wijk Oost halen ze op vrijdag weer plastic op.
 
@@ -171,12 +171,12 @@
   difficulty: medium
   text: 'Dit is de stand in de Eredivisie na twintig speelronden.
 
-    Club           | Gespeeld | Gewonnen | Gelijk | Verloren | Punten | Doelsaldo
-    Ajax           | 20       | 14       | 4      | 2        | 46     | +25
-    PSV            | 20       | 13       | 5      | 2        | 44     | +22
-    Feyenoord      | 20       | 12       | 4      | 4        | 40     | +15
-    AZ             | 20       | 10       | 6      | 4        | 36     | +10
-    FC Twente      | 20       | 8        | 7      | 5        | 31     | +5
+    Club        Gespeeld  Gewonnen  Gelijk  Verloren  Punten  Doelsaldo
+    Ajax        20        14        4       2         46      +25
+    PSV         20        13        5       2         44      +22
+    Feyenoord   20        12        4       4         40      +15
+    AZ          20        10        6       4         36      +10
+    FC Twente   20        8         7       5         31      +5
 
     Ajax staat bovenaan met 46 punten. PSV volgt op de tweede plaats. Feyenoord heeft drie punten minder dan PSV.
 
@@ -220,10 +220,10 @@
   difficulty: hard
   text: 'Drie energiebedrijven bieden verschillende contracten aan voor huishoudens.
 
-    Aanbieder      | Prijs per kWh | Vastrecht per maand | Looptijd
-    GreenPower     | € 0,35        | € 45,00             | 1 jaar
-    EcoEnergy      | € 0,38        | € 35,00             | 3 jaar
-    BudgetStroom   | € 0,32        | € 55,00             | 1 jaar
+    Aanbieder     Prijs per kWh   Vastrecht per maand   Looptijd
+    GreenPower    € 0,35          € 45,00               1 jaar
+    EcoEnergy     € 0,38          € 35,00               3 jaar
+    BudgetStroom  € 0,32          € 55,00               1 jaar
 
     GreenPower heeft een gemiddelde prijs per kWh en een laag vastrecht. EcoEnergy is duurder per kWh maar heeft een lager vastrecht. BudgetStroom is het goedkoopst per kWh maar heeft het hoogste vastrecht. De looptijd is bij EcoEnergy het langst.
 
@@ -271,12 +271,12 @@
   difficulty: easy
   text: 'Het kantoor verhuist volgende week. Dit is het rooster wie wanneer helpt en welke kamer ze inpakken.
 
-    Dag        | Wie helpt      | Kamer          | Wat doen
-    Maandag    | Jan en Piet    | Kamer 101      | Boeken inpakken
-    Dinsdag    | Maria en Lisa  | Kamer 102      | Computers inpakken
-    Woensdag   | Tom en Sara    | Kamer 103      | Meubels demonteren
-    Donderdag  | Jan en Maria   | Kamer 104      | Documenten sorteren
-    Vrijdag    | Iedereen       | Alle kamers    | Schoonmaken
+    Dag        Wie helpt        Kamer          Wat doen
+    Maandag    Jan en Piet      Kamer 101      Boeken inpakken
+    Dinsdag    Maria en Lisa    Kamer 102      Computers inpakken
+    Woensdag   Tom en Sara      Kamer 103      Meubels demonteren
+    Donderdag  Jan en Maria     Kamer 104      Documenten sorteren
+    Vrijdag    Iedereen         Alle kamers    Schoonmaken
 
     Op maandag helpen Jan en Piet met de boeken in kamer 101. Dinsdag pakken Maria en Lisa de computers in. Woensdag demonteren Tom en Sara de meubels. Donderdag sorteren Jan en Maria de documenten. Vrijdag helpt iedereen met schoonmaken.
 
