@@ -1,0 +1,1344 @@
+# Batch 1 — Extracted from test2.ts, test3.ts, test4.ts
+# 30 reading texts, 75 questions total
+# Difficulty: easy / medium / hard
+
+# ──────────────────────────────────────────────
+# test2.ts — Texts 1-10
+# ──────────────────────────────────────────────
+
+- id: 1
+  title: "Afval scheiden"
+  difficulty: easy
+  text: |
+    Rachid krijgt een folder van de gemeente over afval.
+
+    Afval scheiden: zo doet u dat!
+
+    In onze gemeente scheiden wij afval. Dat is goed voor het milieu.
+
+    - Groene bak: groente, fruit, etensresten en tuinafval.
+    - Blauwe bak: papier en karton.
+    - Oranje bak: plastic, metaal en drinkpakken.
+    - Grijze bak: al het andere afval.
+
+    Glas brengt u naar de glasbak in de straat. Klein chemisch afval (batterijen, verf) brengt u naar de milieustraat.
+    De grijze bak wordt 1 keer per week geleegd. De andere bakken 1 keer per 2 weken.
+  questions:
+    - questiontext: "In welke bak moet Rachid een leeg plastic flesje doen?"
+      options:
+        - label: A
+          text: "De groene bak."
+        - label: B
+          text: "De blauwe bak."
+        - label: C
+          text: "De oranje bak."
+        - label: D
+          text: "De grijze bak."
+      correct_answer: C
+    - questiontext: "Wat moet Rachid doen met oude batterijen?"
+      options:
+        - label: A
+          text: "In de grijze bak doen."
+        - label: B
+          text: "Naar de glasbak brengen."
+        - label: C
+          text: "Naar de milieustraat brengen."
+      correct_answer: C
+
+- id: 2
+  title: "Naar de huisarts"
+  difficulty: easy
+  text: |
+    Elena is verkouden en wil naar de huisarts. Zij leest deze informatie op de website van de huisartsenpraktijk.
+
+    Huisartsenpraktijk Gezondheid
+
+    Wilt u een afspraak maken? Bel ons tussen 08.00 en 10.30 uur op werkdagen: 020-555 12 34.
+
+    Spoedgevallen: bel direct 020-555 12 35. Buiten kantoortijden belt u de huisartsenpost: 088-003 06 00.
+
+    Voor een herhaalrecept kunt u bellen van 14.00 tot 16.00 uur.
+  questions:
+    - questiontext: "Elena wil een afspraak maken. Wanneer moet zij bellen?"
+      options:
+        - label: A
+          text: "Tussen 08.00 en 10.30 uur."
+        - label: B
+          text: "Tussen 14.00 en 16.00 uur."
+        - label: C
+          text: "Tussen 10.30 en 14.00 uur."
+      correct_answer: A
+    - questiontext: "Het is zaterdagavond en Elena is erg ziek. Welk nummer moet zij bellen?"
+      options:
+        - label: A
+          text: "020-555 12 34."
+        - label: B
+          text: "020-555 12 35."
+        - label: C
+          text: "088-003 06 00."
+      correct_answer: C
+
+- id: 3
+  title: "Sollicitatie"
+  difficulty: medium
+  text: |
+    Ahmed ziet deze vacature op internet.
+
+    Gezocht: medewerker magazijn (parttime)
+
+    Bedrijf: LogiServe B.V.
+    Werk: producten sorteren en verpakken.
+    Uren: 20 uur per week, werktijden in overleg.
+    Salaris: € 12,50 per uur.
+    Eisen: goede conditie, beheersing Nederlandse taal.
+    Reageren: stuur uw CV en motivatie naar werken@logiserve.nl vóór 15 oktober.
+  questions:
+    - questiontext: "Hoeveel uur per week gaat Ahmed werken als hij deze baan krijgt?"
+      options:
+        - label: A
+          text: "12,5 uur."
+        - label: B
+          text: "20 uur."
+        - label: C
+          text: "40 uur."
+      correct_answer: B
+    - questiontext: "Wat moet Ahmed meesturen met zijn reactie?"
+      options:
+        - label: A
+          text: "Alleen zijn CV."
+        - label: B
+          text: "Zijn CV en een motivatie."
+        - label: C
+          text: "Zijn CV, motivatie en een paspoort."
+      correct_answer: B
+    - questiontext: "Uiterlijk wanneer moet Ahmed reageren?"
+      options:
+        - label: A
+          text: "Voor 12 oktober."
+        - label: B
+          text: "Voor 15 oktober."
+        - label: C
+          text: "Voor 20 oktober."
+      correct_answer: B
+
+- id: 4
+  title: "Verkiezingen"
+  difficulty: medium
+  text: |
+    Fatima mag voor het eerst stemmen. Zij leest informatie van de gemeente.
+
+    Gemeenteraadsverkiezingen — 16 maart
+
+    Op 16 maart zijn er verkiezingen voor de gemeenteraad. U stemt op de partij die u het beste vindt. De gemeenteraad beslist over belangrijke dingen in uw buurt: nieuwe huizen, parken, scholen en sportvelden.
+
+    Hoe stemt u?
+    - U krijgt thuis een stempas.
+    - Ga naar het stembureau in uw buurt.
+    - Neem uw stempas en uw ID-kaart of paspoort mee.
+    - U mag stemmen van 07.30 tot 21.00 uur.
+    - Kunt u niet zelf stemmen? Machtig iemand anders. Vul de achterkant van de stempas in.
+  questions:
+    - questiontext: "Waarover beslist de gemeenteraad?"
+      options:
+        - label: A
+          text: "Over politie en het leger."
+        - label: B
+          text: "Over nieuwe huizen, parken en scholen."
+        - label: C
+          text: "Over belasting in heel Nederland."
+      correct_answer: B
+    - questiontext: "Wat moet Fatima meenemen naar het stembureau?"
+      options:
+        - label: A
+          text: "Alleen haar stempas."
+        - label: B
+          text: "Haar stempas en een pen."
+        - label: C
+          text: "Haar stempas en ID-kaart of paspoort."
+      correct_answer: C
+
+- id: 5
+  title: "Kinderopvang"
+  difficulty: medium
+  text: |
+    Samira zoekt kinderopvang voor haar dochter Lisa (2 jaar). Zij leest deze informatie.
+
+    Kinderdagverblijf 'De Blije Bij'
+
+    Wij zorgen voor uw kind van 0 tot 4 jaar.
+    Openingstijden: maandag t/m vrijdag van 07.00 tot 18.30 uur.
+    Kosten: € 8,25 per uur. U kunt kinderopvangtoeslag aanvragen bij de Belastingdienst.
+    Wij hebben warme maaltijden, een grote tuin en professionele leidsters.
+    Wachtlijst: 3 maanden.
+    Inschrijven: www.deblijebij.nl/inschrijven
+  questions:
+    - questiontext: "Tot welke leeftijd kan Lisa naar 'De Blije Bij'?"
+      options:
+        - label: A
+          text: "Tot 2 jaar."
+        - label: B
+          text: "Tot 4 jaar."
+        - label: C
+          text: "Tot 7 jaar."
+      correct_answer: B
+    - questiontext: "Het is 18.00 uur. Kan Samira Lisa nog ophalen?"
+      options:
+        - label: A
+          text: "Ja, de opvang is open tot 18.30 uur."
+        - label: B
+          text: "Nee, de opvang is om 18.00 uur dicht."
+        - label: C
+          text: "Ja, op vrijdag is de opvang langer open."
+      correct_answer: A
+    - questiontext: "Wat kan Samira aanvragen bij de Belastingdienst?"
+      options:
+        - label: A
+          text: "Een goedkopere opvang."
+        - label: B
+          text: "Een kinderbijslag."
+        - label: C
+          text: "Kinderopvangtoeslag."
+      correct_answer: C
+
+- id: 6
+  title: "Openbaar vervoer"
+  difficulty: easy
+  text: |
+    Ali gaat met de trein naar Amsterdam. Hij leest dit bericht van NS.
+
+    Werkzaamheden: geen treinen tussen Utrecht en Amsterdam
+
+    Van 10 tot 13 november rijden er geen treinen tussen Utrecht Centraal en Amsterdam Centraal. Dit komt door werkzaamheden aan het spoor. Er rijden bussen in plaats van treinen. Houd rekening met extra reistijd van ongeveer 30 minuten.
+
+    U kunt ook reizen via Hilversum. Die route is langer maar u blijft dan in de trein zitten.
+
+    Meer informatie: www.ns.nl of bel 030-751 51 55.
+  questions:
+    - questiontext: "Waarom rijden er geen treinen tussen Utrecht en Amsterdam?"
+      options:
+        - label: A
+          text: "Er is een ongeluk gebeurd."
+        - label: B
+          text: "Er is een staking van het personeel."
+        - label: C
+          text: "Er zijn werkzaamheden aan het spoor."
+      correct_answer: C
+    - questiontext: "Hoeveel extra tijd kost de reis met de bus?"
+      options:
+        - label: A
+          text: "Ongeveer 10 minuten."
+        - label: B
+          text: "Ongeveer 30 minuten."
+        - label: C
+          text: "Ongeveer 60 minuten."
+      correct_answer: B
+
+- id: 7
+  title: "Brief van de gemeente"
+  difficulty: hard
+  text: |
+    Yuri krijgt een brief van de gemeente.
+
+    Gemeente Den Haag
+    Afdeling Burgerzaken
+
+    Geachte heer Yuri Petrov,
+
+    U staat ingeschreven in onze gemeente sinds 2020. Wij hebben van u nog geen zorgverzekering in ons systeem staan. In Nederland is een zorgverzekering verplicht voor iedereen van 18 jaar en ouder.
+
+    U moet binnen 3 maanden een zorgverzekering afsluiten. Doet u dat niet? Dan krijgt u een boete van € 402,24. U krijgt dan ook een brief van het CAK. Het CAK kan u ook nog een tweede boete sturen.
+
+    Heeft u al een zorgverzekering? Stuur dan een kopie van uw polis naar burgerzaken@denhaag.nl.
+
+    Met vriendelijke groet,
+    Afdeling Burgerzaken
+  questions:
+    - questiontext: "Wat ontbreekt er volgens de gemeente bij Yuri?"
+      options:
+        - label: A
+          text: "Een ID-kaart."
+        - label: B
+          text: "Een inschrijving bij de gemeente."
+        - label: C
+          text: "Een zorgverzekering."
+      correct_answer: C
+    - questiontext: "Hoeveel bedraagt de boete als Yuri geen zorgverzekering afsluit?"
+      options:
+        - label: A
+          text: "€ 200."
+        - label: B
+          text: "€ 402,24."
+        - label: C
+          text: "€ 500."
+      correct_answer: B
+    - questiontext: "Yuri heeft wél een zorgverzekering. Wat moet hij doen?"
+      options:
+        - label: A
+          text: "Een nieuwe verzekering afsluiten."
+        - label: B
+          text: "Een kopie van zijn polis naar de gemeente sturen."
+        - label: C
+          text: "Naar het gemeentehuis gaan."
+      correct_answer: B
+
+- id: 8
+  title: "Burenoverlast"
+  difficulty: medium
+  text: |
+    Mo ziet dit bericht van de woningbouwvereniging in de hal van zijn flat.
+
+    Beste bewoners van de Eikenflat,
+
+    Wij krijgen veel klachten over geluidsoverlast in de flat. Vooral 's avonds en 's nachts. Denk aan harde muziek, schreeuwen en bonken op de vloer.
+
+    Wilt u rekening houden met uw buren?
+
+    Regels in onze flat:
+    - Geen harde muziek na 22.00 uur.
+    - Van 22.00 tot 07.00 uur is het stil in huis.
+    - Gebruik een vloerkleed als u op de bovenste verdieping woont.
+    - Zet de wasmachine niet aan na 22.00 uur.
+
+    Krijgen wij nog meer klachten? Dan kunnen wij een boete geven van € 150.
+
+    Met vriendelijke groet,
+    Woonplus B.V.
+  questions:
+    - questiontext: "Vanaf hoe laat moet het stil zijn in de flat?"
+      options:
+        - label: A
+          text: "Vanaf 20.00 uur."
+        - label: B
+          text: "Vanaf 22.00 uur."
+        - label: C
+          text: "Vanaf 00.00 uur."
+      correct_answer: B
+    - questiontext: "Mo woont op de bovenste verdieping. Wat moet hij doen volgens de regels?"
+      options:
+        - label: A
+          text: "Geen wasmachine gebruiken."
+        - label: B
+          text: "Een vloerkleed gebruiken."
+        - label: C
+          text: "Een boete van € 150 betalen."
+      correct_answer: B
+
+- id: 9
+  title: "Koningsdag"
+  difficulty: easy
+  text: |
+    Svetlana leest over Koningsdag in een tijdschrift.
+
+    Koningsdag — 27 april!
+
+    Op 27 april viert Nederland de verjaardag van koning Willem-Alexander. Dit feest heet Koningsdag. Het hele land is oranje! Wat kunt u doen op Koningsdag?
+
+    - De vrijmarkt: Overal in Nederland verkopen mensen oude spullen op straat. Iedereen mag gratis verkopen. U hoeft geen vergunning te hebben.
+    - Festivals: In elke grote stad zijn er muziekfestivals. In Amsterdam is het grootste feest.
+    - Oranje kleding dragen: Bijna iedereen draagt oranje kleren, een oranje hoed of een oranje pruik.
+    - Oranje eten: U kunt oranje tompoucen eten. Dat is een typische lekkernij op Koningsdag.
+
+    Let op: de meeste winkels zijn dicht. Supermarkten zijn vaak wel open, maar tot 18.00 uur.
+  questions:
+    - questiontext: "Waarom viert Nederland Koningsdag?"
+      options:
+        - label: A
+          text: "Omdat de koning jarig is."
+        - label: B
+          text: "Omdat Nederland jarig is."
+        - label: C
+          text: "Omdat de koningin jarig is."
+      correct_answer: A
+    - questiontext: "Mag Svetlana gratis spullen verkopen op straat?"
+      options:
+        - label: A
+          text: "Ja, dat mag, zij heeft geen vergunning nodig."
+        - label: B
+          text: "Nee, zij moet eerst een vergunning kopen."
+        - label: C
+          text: "Ja, maar alleen in Amsterdam."
+      correct_answer: A
+
+- id: 10
+  title: "Bankrekening openen"
+  difficulty: medium
+  text: |
+    Jean wil een Nederlandse bankrekening openen. Hij leest deze informatie op de website van de bank.
+
+    Een betaalrekening openen bij NL Bank
+
+    U wilt een betaalrekening openen bij NL Bank? Dat kan online of in een van onze kantoren.
+
+    Wat heeft u nodig?
+    - Een geldig paspoort of ID-kaart.
+    - Uw BSN (burgerservicenummer).
+    - Uw adres in Nederland.
+
+    U krijgt binnen 5 werkdagen uw bankpas thuisgestuurd. U activeert de pas met de app van NL Bank. Kosten: € 2,50 per maand.
+
+    Heeft u nog vragen? Bel ons op 0800-1234 (gratis).
+  questions:
+    - questiontext: "Wat heeft Jean nodig om een rekening te openen?"
+      options:
+        - label: A
+          text: "Alleen een paspoort."
+        - label: B
+          text: "Een paspoort, BSN en adres."
+        - label: C
+          text: "Een paspoort en een werkcontract."
+      correct_answer: B
+    - questiontext: "Hoe lang duurt het voordat Jean zijn bankpas thuis krijgt?"
+      options:
+        - label: A
+          text: "Binnen 1 werkdag."
+        - label: B
+          text: "Binnen 5 werkdagen."
+        - label: C
+          text: "Binnen 10 werkdagen."
+      correct_answer: B
+    - questiontext: "Hoeveel kost de betaalrekening per maand?"
+      options:
+        - label: A
+          text: "€ 2,50."
+        - label: B
+          text: "€ 5,00."
+        - label: C
+          text: "Het is gratis."
+      correct_answer: A
+    - questiontext: "Wat is het telefoonnummer van de bank?"
+      options:
+        - label: A
+          text: "0900-1234."
+        - label: B
+          text: "0800-1234."
+        - label: C
+          text: "088-1234."
+      correct_answer: B
+
+# ──────────────────────────────────────────────
+# test3.ts — Texts 11-20
+# ──────────────────────────────────────────────
+
+- id: 11
+  title: "Verkeersboete"
+  difficulty: medium
+  text: |
+    Beste meneer Jansen,
+
+    Op 12 maart 2025 heeft u een boete gekregen. U reed 80 km/u op de Wittenburglaan in Amsterdam. De maximumsnelheid daar is 50 km/u. De boete is € 145.
+
+    U kunt de boete betalen via de website www.cjib.nl. U heeft 8 weken om te betalen. Als u te laat betaalt, wordt de boete hoger.
+
+    Bent u het niet eens met de boete? Dan kunt u bezwaar maken. Stuur een brief naar het CJIB in Leeuwarden. U moet dit binnen 6 weken doen.
+
+    Met vriendelijke groet,
+    Centraal Justitieel Incassobureau
+  questions:
+    - questiontext: "Waarom krijgt meneer Jansen een boete?"
+      options:
+        - label: A
+          text: "Hij reed door rood licht."
+        - label: B
+          text: "Hij reed te snel."
+        - label: C
+          text: "Hij parkeerde fout."
+      correct_answer: B
+    - questiontext: "Hoeveel moet meneer Jansen betalen?"
+      options:
+        - label: A
+          text: "€ 50"
+        - label: B
+          text: "€ 80"
+        - label: C
+          text: "€ 145"
+      correct_answer: C
+    - questiontext: "Wat kan meneer Jansen doen als hij het niet eens is met de boete?"
+      options:
+        - label: A
+          text: "Hij kan bezwaar maken met een brief."
+        - label: B
+          text: "Hij kan bellen met de politie."
+        - label: C
+          text: "Hij kan naar de rechter gaan zonder brief."
+      correct_answer: A
+
+- id: 12
+  title: "Sportabonnement"
+  difficulty: easy
+  text: |
+    FitCenter Amsterdam
+    Keizersgracht 48, 1015 CS Amsterdam
+    www.fitcenter-amsterdam.nl
+
+    Openingstijden:
+    Maandag t/m vrijdag: 07:00 - 22:00
+    Zaterdag en zondag: 09:00 - 18:00
+
+    Abonnementen:
+    Basis: € 29 per maand (alleen fitness)
+    Plus: € 45 per maand (fitness + groepslessen)
+    Premium: € 65 per maand (alles + sauna + zwembad)
+
+    Groepslessen:
+    Yoga: maandag en woensdag om 18:00
+    Spinning: dinsdag en donderdag om 19:00
+    Zumba: zaterdag om 10:00
+
+    Eerste keer gratis proberen! Bel 020-555 1234.
+  questions:
+    - questiontext: "Hoe laat gaat FitCenter open op zaterdag?"
+      options:
+        - label: A
+          text: "Om 07:00"
+        - label: B
+          text: "Om 09:00"
+        - label: C
+          text: "Om 10:00"
+      correct_answer: B
+    - questiontext: "Welk abonnement heeft ook groepslessen?"
+      options:
+        - label: A
+          text: "Basis"
+        - label: B
+          text: "Premium"
+        - label: C
+          text: "Plus"
+      correct_answer: C
+
+- id: 13
+  title: "Belastingaangifte"
+  difficulty: medium
+  text: |
+    Belastingdienst
+    Postbus 100
+    6400 DA Heerlen
+
+    Geachte heer/mevrouw,
+
+    U moet voor 1 mei 2025 belastingaangifte doen over het jaar 2024. Dit kan online via MijnBelastingdienst.nl. U heeft uw DigiD nodig om in te loggen.
+
+    Heeft u geen DigiD? Vraag er een aan op www.digid.nl. Het duurt ongeveer 5 werkdagen voordat u uw DigiD krijgt.
+
+    Kunt u de aangifte niet op tijd doen? Bel dan met de BelastingTelefoon: 0800-0543. Dit nummer is gratis. U kunt ook uitstel vragen. Dat doet u via de website.
+
+    Met vriendelijke groet,
+    Belastingdienst
+  questions:
+    - questiontext: "Voor welke datum moet u aangifte doen?"
+      options:
+        - label: A
+          text: "1 april 2025"
+        - label: B
+          text: "1 mei 2025"
+        - label: C
+          text: "1 juni 2025"
+      correct_answer: B
+    - questiontext: "Wat heeft u nodig om in te loggen?"
+      options:
+        - label: A
+          text: "Een paspoort"
+        - label: B
+          text: "Een bankrekening"
+        - label: C
+          text: "Een DigiD"
+      correct_answer: C
+    - questiontext: "Wat is het telefoonnummer van de BelastingTelefoon?"
+      options:
+        - label: A
+          text: "0800-0543"
+        - label: B
+          text: "020-555 1234"
+        - label: C
+          text: "0900-1234"
+      correct_answer: A
+
+- id: 14
+  title: "Trouwerij"
+  difficulty: easy
+  text: |
+    Lieve familie en vrienden,
+
+    Wij gaan trouwen! Pieter de Vries en Maria Bakker willen jullie graag uitnodigen voor onze bruiloft.
+
+    De ceremonie is op zaterdag 14 juni 2025 om 14:00 uur in het Stadhuis van Amsterdam op de Dam. Daarna is er een feest in Restaurant De Gouden Eet aan de Prinsengracht 88.
+
+    Het feest begint om 16:00 uur en duurt tot 23:00 uur. Er is eten, drinken en muziek.
+
+    Graag horen we voor 1 juni of je komt. Stuur een bericht naar maria.bakker@email.nl of bel 06-12345678.
+
+    Wij hopen dat jullie erbij zijn!
+
+    Liefs,
+    Pieter en Maria
+  questions:
+    - questiontext: "Waar is de bruiloftsceremonie?"
+      options:
+        - label: A
+          text: "In een restaurant"
+        - label: B
+          text: "In een kerk"
+        - label: C
+          text: "In het stadhuis"
+      correct_answer: C
+    - questiontext: "Hoe laat begint het feest?"
+      options:
+        - label: A
+          text: "14:00 uur"
+        - label: B
+          text: "16:00 uur"
+        - label: C
+          text: "23:00 uur"
+      correct_answer: B
+
+- id: 15
+  title: "Huurverhoging"
+  difficulty: hard
+  text: |
+    Woningbouwvereniging Amsterdam-Noord
+    Nieuwe Leeuwarderweg 15
+    1012 RB Amsterdam
+
+    Geachte huurder,
+
+    Op 1 juli 2025 gaat uw huur omhoog. Uw huidige huur is € 680 per maand. De nieuwe huur wordt € 720 per maand. Dat is een verhoging van € 40.
+
+    De verhoging komt door de gestegen kosten voor onderhoud en energie. Wij moeten het geld gebruiken voor reparaties en isolatie van de woningen.
+
+    Bent u het niet eens met de verhoging? Dan kunt u een brief sturen naar de Huurcommissie. Dit moet voor 1 juli 2025. Het adres is:
+    Huurcommissie
+    Postbus 90800
+    2509 LV Den Haag
+
+    Met vriendelijke groet,
+    Woningbouwvereniging Amsterdam-Noord
+  questions:
+    - questiontext: "Hoeveel wordt de huurverhoging per maand?"
+      options:
+        - label: A
+          text: "€ 20"
+        - label: B
+          text: "€ 40"
+        - label: C
+          text: "€ 680"
+      correct_answer: B
+    - questiontext: "Waarom gaat de huur omhoog?"
+      options:
+        - label: A
+          text: "De kosten voor onderhoud en energie zijn gestegen."
+        - label: B
+          text: "De woning is groter geworden."
+        - label: C
+          text: "De huurder heeft te laat betaald."
+      correct_answer: A
+    - questiontext: "Waar moet u heen als u het niet eens bent met de verhoging?"
+      options:
+        - label: A
+          text: "Naar de Belastingdienst"
+        - label: B
+          text: "Naar het gemeentehuis"
+        - label: C
+          text: "Naar de Huurcommissie"
+      correct_answer: C
+
+- id: 16
+  title: "Bibliotheek"
+  difficulty: easy
+  text: |
+    Openbare Bibliotheek Amsterdam
+    Oosterdokskade 143
+    1011 DL Amsterdam
+
+    Lid worden van de bibliotheek
+
+    Een lidmaatschap kost € 20 per jaar voor volwassenen. Kinderen tot 18 jaar zijn gratis lid.
+
+    Als lid kunt u:
+    - 5 boeken lenen voor 3 weken
+    - 3 dvd's lenen voor 1 week
+    - Gratis wifi gebruiken
+    - Studieruimte reserveren
+
+    Openingstijden:
+    Maandag t/m vrijdag: 10:00 - 20:00
+    Zaterdag: 10:00 - 17:00
+    Zondag: gesloten
+
+    U kunt zich aanmelden aan de balie of op www.oba.nl. Neem uw identiteitsbewijs mee.
+
+    Boeken te laat? Dan betaalt u € 0,50 per dag per boek.
+  questions:
+    - questiontext: "Hoeveel kost een lidmaatschap voor een volwassene?"
+      options:
+        - label: A
+          text: "€ 20 per jaar"
+        - label: B
+          text: "Gratis"
+        - label: C
+          text: "€ 20 per maand"
+      correct_answer: A
+    - questiontext: "Hoe lang mag u een boek lenen?"
+      options:
+        - label: A
+          text: "1 week"
+        - label: B
+          text: "2 weken"
+        - label: C
+          text: "3 weken"
+      correct_answer: C
+
+- id: 17
+  title: "Nieuwe baan"
+  difficulty: medium
+  text: |
+    Van: hr@techbedrijf.nl
+    Aan: fatima.ahmed@email.nl
+    Onderwerp: Welkom bij TechBedrijf Amsterdam
+
+    Beste Fatima,
+
+    Welkom bij TechBedrijf! Wij zijn blij dat u bij ons komt werken. Hier is informatie over uw eerste werkdag.
+
+    Uw eerste dag is maandag 3 maart 2025. U begint om 09:00 uur. Kom naar de receptie op de begane grond. Vraag naar mevrouw De Boer. Zij laat u de kantoren zien.
+
+    Neem mee:
+    - Uw identiteitsbewijs
+    - Uw bankrekeningnummer (IBAN)
+    - Een pen en notitieboekje
+
+    Uw werkplek is op de 4e verdieping. U krijgt een laptop en een telefoon van het bedrijf.
+
+    De lunch is in de kantine op de 2e verdieping. De eerste dag lunchen we samen met het team.
+
+    Tot maandag!
+
+    Groeten,
+    Afdeling HR
+    TechBedrijf Amsterdam
+  questions:
+    - questiontext: "Wanneer is de eerste werkdag van Fatima?"
+      options:
+        - label: A
+          text: "Maandag 3 maart 2025"
+        - label: B
+          text: "Vrijdag 28 februari 2025"
+        - label: C
+          text: "Dinsdag 4 maart 2025"
+      correct_answer: A
+    - questiontext: "Naar wie moet Fatima vragen bij de receptie?"
+      options:
+        - label: A
+          text: "Meneer De Boer"
+        - label: B
+          text: "De afdeling HR"
+        - label: C
+          text: "Mevrouw De Boer"
+      correct_answer: C
+    - questiontext: "Op welke verdieping is de kantine?"
+      options:
+        - label: A
+          text: "2e verdieping"
+        - label: B
+          text: "4e verdieping"
+        - label: C
+          text: "Begane grond"
+      correct_answer: A
+
+- id: 18
+  title: "Gezond eten"
+  difficulty: hard
+  text: |
+    Voedingscentrum
+    Advies voor gezond eten
+
+    Het Voedingscentrum geeft tips voor gezonde voeding:
+
+    1. Eet elke dag groente en fruit. U heeft 200 gram groente en 2 stuks fruit nodig per dag.
+
+    2. Drink genoeg water. Minimaal 1,5 liter per dag. Drink niet te veel frisdrank of sap.
+
+    3. Eet volkoren producten. Kies voor volkorenbrood in plaats van wit brood. Volkoren geeft meer energie.
+
+    4. Eet vis 1 keer per week. Vis is goed voor uw hart.
+
+    5. Eet niet te veel zout en suiker. Te veel zout is slecht voor uw bloeddruk.
+
+    6. Beweeg elke dag minimaal 30 minuten. Wandelen en fietsen zijn goed.
+
+    Meer informatie? Kijk op www.voedingscentrum.nl of bel 070-322 4444.
+  questions:
+    - questiontext: "Hoeveel groente moet u per dag eten volgens het Voedingscentrum?"
+      options:
+        - label: A
+          text: "100 gram"
+        - label: B
+          text: "500 gram"
+        - label: C
+          text: "200 gram"
+      correct_answer: C
+    - questiontext: "Waarom is volkorenbrood beter dan wit brood?"
+      options:
+        - label: A
+          text: "Het is goedkoper."
+        - label: B
+          text: "Het geeft meer energie."
+        - label: C
+          text: "Het smaakt beter."
+      correct_answer: B
+    - questiontext: "Hoeveel minuten moet u per dag bewegen?"
+      options:
+        - label: A
+          text: "15 minuten"
+        - label: B
+          text: "60 minuten"
+        - label: C
+          text: "30 minuten"
+      correct_answer: C
+
+- id: 19
+  title: "Vakantie"
+  difficulty: easy
+  text: |
+    SunTravel Reizen
+    Boeking bevestigd
+
+    Beste familie De Groot,
+
+    Bedankt voor uw boeking. Hier is uw reis informatie:
+
+    Vlucht:
+    Van: Schiphol (AMS)
+    Naar: Barcelona (BCN)
+    Datum: 15 juli 2025
+    Vertrek: 08:30 uur
+    Aankomst: 10:45 uur
+    Vluchtnummer: ST 2045
+
+    Hotel:
+    Hotel Barcelona Center
+    Carrer de Balmes 55, Barcelona
+    Inchecken: 14:00 uur
+    Uitchecken: 11:00 uur
+    Kamer: 2-persoonskamer met ontbijt
+
+    Prijs: € 1.250 totaal (2 volwassenen, 5 nachten)
+
+    Neem uw paspoort mee naar het vliegveld. Wees 2 uur voor vertrek op Schiphol.
+
+    Goede reis!
+    SunTravel Reizen
+  questions:
+    - questiontext: "Hoe laat vertrekt het vliegtuig?"
+      options:
+        - label: A
+          text: "08:30 uur"
+        - label: B
+          text: "10:45 uur"
+        - label: C
+          text: "14:00 uur"
+      correct_answer: A
+    - questiontext: "Hoeveel nachten blijft de familie in het hotel?"
+      options:
+        - label: A
+          text: "3 nachten"
+        - label: B
+          text: "5 nachten"
+        - label: C
+          text: "7 nachten"
+      correct_answer: B
+
+- id: 20
+  title: "Energierekening"
+  difficulty: hard
+  text: |
+    EnergieBedrijf Nederland
+    Jaarafrekening 2024
+
+    Geachte heer/mevrouw,
+
+    Hier is uw jaarafrekening voor gas en elektriciteit over 2024.
+
+    Uw verbruik:
+    Elektriciteit: 3.200 kWh
+    Gas: 1.400 m³
+
+    Kosten:
+    Elektriciteit: € 896
+    Gas: € 1.120
+    Vaste kosten: € 180
+    Totaal: € 2.196
+
+    U heeft al € 1.800 betaald via automatische incasso. U moet nog € 396 betalen.
+
+    U kunt dit bedrag betalen voor 15 maart 2025. Maak het over naar rekening NL99 ENER 0123 4567 89.
+
+    Wilt u minder betalen volgend jaar? Bespaar op energie:
+    - Zet de verwarming 1 graad lager
+    - Doe de lampen uit als u weggaat
+    - Gebruik een waterbesparende douchekop
+
+    Vragen? Bel 0800-9003 (gratis).
+
+    Met vriendelijke groet,
+    EnergieBedrijf Nederland
+  questions:
+    - questiontext: "Hoeveel moet de klant nog betalen?"
+      options:
+        - label: A
+          text: "€ 396"
+        - label: B
+          text: "€ 1.800"
+        - label: C
+          text: "€ 2.196"
+      correct_answer: A
+    - questiontext: "Wat is een tip om energie te besparen?"
+      options:
+        - label: A
+          text: "Zet de verwarming 1 graad hoger."
+        - label: B
+          text: "Gebruik meer warm water."
+        - label: C
+          text: "Doe de lampen uit als u weggaat."
+      correct_answer: C
+
+# ──────────────────────────────────────────────
+# test4.ts — Texts 21-30
+# ──────────────────────────────────────────────
+
+- id: 21
+  title: "Verhuizing doorgeven"
+  difficulty: medium
+  text: |
+    Beste mevrouw Jansen,
+
+    Bedankt voor uw bericht. U verhuist van de Prinsengracht 42 naar de Keizersgracht 118 in Amsterdam. Geef uw verhuizing door via de website van de gemeente: www.amsterdam.nl/verhuizing.
+
+    U heeft uw DigiD nodig om in te loggen. De verhuizing is gratis. U moet dit binnen 5 dagen na de verhuizing doorgeven.
+
+    Na uw verhuizing krijgt u een nieuw adres op uw paspoort en rijbewijs. Dit duurt ongeveer 2 weken. Maak een afspraak via de website als u nieuwe documenten wilt.
+
+    Heeft u vragen? Bel 14 020.
+
+    Met vriendelijke groet,
+    Gemeente Amsterdam
+  questions:
+    - questiontext: "Waar moet mevrouw Jansen haar verhuizing doorgeven?"
+      options:
+        - label: A
+          text: "Bij de politie"
+        - label: B
+          text: "Op de website van de gemeente"
+        - label: C
+          text: "Bij de post"
+      correct_answer: B
+    - questiontext: "Wat heeft ze nodig om in te loggen?"
+      options:
+        - label: A
+          text: "Een paspoort"
+        - label: B
+          text: "Een rijbewijs"
+        - label: C
+          text: "Een DigiD"
+      correct_answer: C
+    - questiontext: "Hoe snel moet ze de verhuizing doorgeven?"
+      options:
+        - label: A
+          text: "Binnen 2 weken"
+        - label: B
+          text: "Binnen 5 dagen"
+        - label: C
+          text: "Binnen 1 maand"
+      correct_answer: B
+
+- id: 22
+  title: "Taalcursus Nederlands"
+  difficulty: medium
+  text: |
+    Taalhuis Amsterdam
+    Cursus Nederlands voor anderstaligen
+
+    Wij bieden cursussen van A0 tot B1. De cursussen zijn op maandag en woensdagavond, van 19.00 tot 21.00 uur. De cursus duurt 12 weken.
+
+    Locatie: Wibautstraat 130, Amsterdam. Dicht bij metrostation Amstelstation.
+
+    Prijzen:
+    - Cursus A2: € 350
+    - Cursus B1: € 420
+    - Boeken zijn niet inbegrepen. Boeken kosten € 45.
+
+    Inschrijven kan via www.taalhuisamsterdam.nl of bel 020-555 3344. De volgende cursus begint op 4 september. Inschrijven kan tot 28 augustus.
+
+    Bij ziekte kunt u de les inhalen op zaterdagochtend.
+  questions:
+    - questiontext: "Wanneer zijn de lessen?"
+      options:
+        - label: A
+          text: "Maandag en woensdag overdag"
+        - label: B
+          text: "Dinsdag en donderdag in de avond"
+        - label: C
+          text: "Maandag en woensdag in de avond"
+      correct_answer: C
+    - questiontext: "Wat kost de cursus A2 inclusief boeken?"
+      options:
+        - label: A
+          text: "€ 395"
+        - label: B
+          text: "€ 350"
+        - label: C
+          text: "€ 420"
+      correct_answer: A
+    - questiontext: "Wat kan een cursist doen bij ziekte?"
+      options:
+        - label: A
+          text: "De les inhalen op zaterdag"
+        - label: B
+          text: "Geld terugkrijgen"
+        - label: C
+          text: "Een andere cursus kiezen"
+      correct_answer: A
+
+- id: 23
+  title: "Internetabonnement"
+  difficulty: easy
+  text: |
+    Ziggo Internet — Nieuwe aanbieding
+
+    Wij hebben drie pakketten voor u:
+
+    Basis: 50 Mbit/s — € 30 per maand
+    Middel: 150 Mbit/s — € 40 per maand
+    Snel: 500 Mbit/s — € 55 per maand
+
+    Alle pakketten zijn inclusief wifi-modem. Installatie is gratis in de eerste maand.
+
+    Contractduur: 12 maanden. Na 12 maanden kunt u opzeggen. Opzeggen kan per e-mail of telefoon.
+
+    Wilt u ook televisie? Dat kost € 15 per maand extra.
+
+    Bestel op www.ziggo.nl/nieuw of bel 0800-0222.
+  questions:
+    - questiontext: "Welk pakket kost € 40 per maand?"
+      options:
+        - label: A
+          text: "Middel"
+        - label: B
+          text: "Basis"
+        - label: C
+          text: "Snel"
+      correct_answer: A
+    - questiontext: "Hoe lang duurt het contract?"
+      options:
+        - label: A
+          text: "12 maanden"
+        - label: B
+          text: "6 maanden"
+        - label: C
+          text: "24 maanden"
+      correct_answer: A
+
+- id: 24
+  title: "Buurtfeest"
+  difficulty: medium
+  text: |
+    Beste buurtbewoner,
+
+    Op zaterdag 21 juni is het weer Burendag! Wij organiseren een feest in het Vondelpark, bij het blauwe diaconissehuis.
+
+    Het feest begint om 14.00 uur en duurt tot 21.00 uur. Er is muziek, een barbecue en spelletjes voor de kinderen.
+
+    Iedereen neemt iets mee:
+    - Achternaam A t/m M: salade of brood
+    - Achternaam N t/m Z: drinken of vlees voor de barbecue
+
+    Kosten: € 5 per persoon. Kinderen tot 12 jaar zijn gratis.
+
+    Aanmelden voor 15 juni via buurtfeest@wijkcentrumwest.nl.
+
+    Tot ziens op 21 juni!
+
+    De buurtcommissie
+  questions:
+    - questiontext: "Waar is het buurtfeest?"
+      options:
+        - label: A
+          text: "In het wijkcentrum"
+        - label: B
+          text: "In het Vondelpark"
+        - label: C
+          text: "In de school"
+      correct_answer: B
+    - questiontext: "Wat moet iemand met de achternaam 'Bakker' meenemen?"
+      options:
+        - label: A
+          text: "Drinken of vlees"
+        - label: B
+          text: "Salade of brood"
+        - label: C
+          text: "Niets, het is gratis"
+      correct_answer: B
+
+- id: 25
+  title: "Tandarts"
+  difficulty: hard
+  text: |
+    Tandartspraktijk De Pijl
+    Amsteldijk 88, 1079 AA Amsterdam
+    Telefoon: 020-671 4455
+
+    Beste heer De Vries,
+
+    Dit is een herinnering voor uw afspraak op dinsdag 10 september om 10.30 uur.
+
+    Bij uw afspraak doen wij een controle en een gebitsreiniging. De kosten voor een controle zijn € 23. Een gebitsreiniging kost € 48. Totaal: € 71.
+
+    U betaalt dit zelf. De verzekering betaalt de controle, maar niet de reiniging. U krijgt een factuur per e-mail na uw bezoek.
+
+    Kunt u niet komen? Bel ons dan minimaal 24 uur van tevoren. Anders rekenen wij € 25.
+
+    Met vriendelijke groet,
+    Mevrouw Van Dijk, tandarts
+  questions:
+    - questiontext: "Wanneer is de afspraak?"
+      options:
+        - label: A
+          text: "Dinsdag 10 september om 10.30 uur"
+        - label: B
+          text: "Donderdag 12 september om 14.00 uur"
+        - label: C
+          text: "Maandag 9 september om 9.00 uur"
+      correct_answer: A
+    - questiontext: "Wat betaalt de verzekering?"
+      options:
+        - label: A
+          text: "Alleen de reiniging"
+        - label: B
+          text: "Alleen de controle"
+        - label: C
+          text: "De controle en de reiniging"
+      correct_answer: B
+    - questiontext: "Wat gebeurt er als u niet belt en niet komt?"
+      options:
+        - label: A
+          text: "U krijgt een nieuwe afspraak"
+        - label: B
+          text: "Niets"
+        - label: C
+          text: "U moet € 25 betalen"
+      correct_answer: C
+
+- id: 26
+  title: "OV-chipkaart"
+  difficulty: hard
+  text: |
+    Hoe koopt en gebruikt u een OV-chipkaart?
+
+    Een OV-chipkaart is nodig voor de bus, tram, metro en trein in heel Nederland.
+
+    Stap 1: Koop een kaart bij de automaat in het station of bij de supermarkt. Een lege kaart kost € 7,50.
+    Stap 2: Zet er geld op (opladen). Dit kan bij de automaat of online op www.ov-chipkaart.nl.
+    Stap 3: Check in bij het instappen en check uit bij het uitstappen.
+
+    Let op: u moet minimaal € 4 op uw kaart hebben om in te checken.
+
+    Anonieme kaart: voor iedereen, niet op naam.
+    Persoonlijke kaart: op uw naam, met foto. Kost € 10. U kunt hiermee ook abonnementen kopen.
+
+    Kaart kwijt? Bij een persoonlijke kaart kunt u het geld terugkrijgen.
+  questions:
+    - questiontext: "Wat kost een lege OV-chipkaart?"
+      options:
+        - label: A
+          text: "€ 4"
+        - label: B
+          text: "€ 10"
+        - label: C
+          text: "€ 7,50"
+      correct_answer: C
+    - questiontext: "Wat moet u doen bij het instappen?"
+      options:
+        - label: A
+          text: "Geld op de kaart zetten"
+        - label: B
+          text: "Een kaart kopen"
+        - label: C
+          text: "Inchecken"
+      correct_answer: C
+    - questiontext: "Wat is het voordeel van een persoonlijke kaart?"
+      options:
+        - label: A
+          text: "U kunt abonnementen kopen en geld terugkrijgen bij verlies"
+        - label: B
+          text: "Hij is goedkoper"
+        - label: C
+          text: "U hoeft niet in te checken"
+      correct_answer: A
+
+- id: 27
+  title: "Pakket ontvangen"
+  difficulty: medium
+  text: |
+    Van: PostNL <info@postnl.nl>
+    Aan: m.jansen@email.nl
+    Onderwerp: Uw pakket kan niet worden bezorgd
+
+    Beste mevrouw Jansen,
+
+    Wij hebben vandaag geprobeerd uw pakket te bezorgen op uw adres: Keizersgracht 118, Amsterdam. Helaas was er niemand thuis.
+
+    Het pakket is nu bij een PostNL-afhaalpunt in de buurt:
+    Albert Heijn, Vijzelstraat 32, Amsterdam.
+
+    U kunt het pakket ophalen tot en met zaterdag 14 september. Neem uw identiteitsbewijs mee en de e-mail met de code: NL4488221.
+
+    Wilt u een nieuwe bezorgafspraak maken? Ga naar www.postnl.nl/tracktrace en vul uw barcode in: 3SNEJM1234567890.
+
+    Met vriendelijke groet,
+    PostNL
+  questions:
+    - questiontext: "Waarom is het pakket niet bezorgd?"
+      options:
+        - label: A
+          text: "Er was niemand thuis"
+        - label: B
+          text: "Het adres was fout"
+        - label: C
+          text: "Het pakket was te groot"
+      correct_answer: A
+    - questiontext: "Wat moet mevrouw Jansen meenemen om het pakket op te halen?"
+      options:
+        - label: A
+          text: "Alleen de e-mail met de code"
+        - label: B
+          text: "Alleen haar identiteitsbewijs"
+        - label: C
+          text: "Haar identiteitsbewijs en de e-mail met de code"
+      correct_answer: C
+
+- id: 28
+  title: "Ouderavond"
+  difficulty: easy
+  text: |
+    Basisschool De Regenboog
+    Tweede Jan van der Heijdenstraat 28, Amsterdam
+
+    Beste ouders,
+
+    Op donderdag 12 oktober is er een ouderavond voor alle ouders van groep 5. De avond begint om 19.30 uur in de schoolkantine.
+
+    Wat bespreken wij?
+    - Het nieuwe lesprogramma van dit jaar
+    - De regels voor huiswerk
+    - Een schoolreisje in mei naar het NEMO museum
+
+    Na de presentatie kunt u met de leerkracht praten over uw kind. Dit is een 10-minutengesprek. Wilt u een gesprek? Maak een afspraak via ouderavond@desregenboog.nl.
+
+    Graag zien wij u op 12 oktober.
+
+    Met vriendelijke groet,
+    Mevrouw Bakker, leerkracht groep 5
+  questions:
+    - questiontext: "Waar is de ouderavond?"
+      options:
+        - label: A
+          text: "In het NEMO museum"
+        - label: B
+          text: "In het klaslokaal"
+        - label: C
+          text: "In de schoolkantine"
+      correct_answer: C
+    - questiontext: "Hoe kunt u een gesprek met de leerkracht krijgen?"
+      options:
+        - label: A
+          text: "Bel de school"
+        - label: B
+          text: "Kom gewoon langs"
+        - label: C
+          text: "Stuur een e-mail"
+      correct_answer: C
+
+- id: 29
+  title: "Rijbewijs — theorie-examen"
+  difficulty: hard
+  text: |
+    CBR — Informatie theorie-examen auto
+
+    Wilt u een rijbewijs halen? Dan moet u eerst het theorie-examen doen bij het CBR.
+
+    Het examen duurt 30 minuten. Er zijn 25 vragen over verkeersregels en 12 vragen over gevaarherkenning. U moet minimaal 13 van de 25 vragen goed hebben en 6 van de 12 vragen over gevaar.
+
+    Kosten: € 39,50. U betaalt online bij het aanmelden.
+
+    Aanmelden: www.cbr.nl/theorie. U heeft uw DigiD nodig.
+
+    Neem op de dag van het examen een geldig identiteitsbewijs mee. Zonder identiteitsbewijs kunt u niet deelnemen.
+
+    Uitslag: u weet direct of u geslaagd bent. Bij een onvoldoende kunt u opnieuw examen doen na 4 weken.
+  questions:
+    - questiontext: "Hoe lang duurt het theorie-examen?"
+      options:
+        - label: A
+          text: "20 minuten"
+        - label: B
+          text: "45 minuten"
+        - label: C
+          text: "30 minuten"
+      correct_answer: C
+    - questiontext: "Hoeveel vragen over gevaarherkenning moet u goed hebben?"
+      options:
+        - label: A
+          text: "Minimaal 6 van de 12"
+        - label: B
+          text: "Minimaal 10 van de 12"
+        - label: C
+          text: "Minimaal 12 van de 12"
+      correct_answer: A
+    - questiontext: "Wat moet u meenemen op de dag van het examen?"
+      options:
+        - label: A
+          text: "Een identiteitsbewijs"
+        - label: B
+          text: "Een rijbewijs"
+        - label: C
+          text: "Een DigiD"
+      correct_answer: A
+
+- id: 30
+  title: "Vrijwilligerswerk"
+  difficulty: easy
+  text: |
+    Buurthuis De Brug zoekt vrijwilligers!
+
+    Wij zijn een buurthuis in Amsterdam-Oost. Wij zoeken mensen die willen helpen.
+
+    Wat kunt u doen?
+    - Koffie schenken bij activiteiten (dinsdag en donderdag, 10.00-12.00 uur)
+    - Helpen bij de computerles voor ouderen (woensdagmiddag, 14.00-16.00 uur)
+    - Meewerken in de tuin (zaterdagochtend, 9.00-12.00 uur)
+
+    Wij bieden:
+    - Een leuke plek om mensen te ontmoeten
+    - Een vergoeding van € 5 per dag voor reiskosten
+    - Een gratis lunch
+
+    Interesse? Neem contact op met mevrouw De Groot: 020-444 1122 of vrijwilligers@debrug.nl.
+
+    Wij hopen u snel te zien!
+  questions:
+    - questiontext: "Wanneer is de computerles voor ouderen?"
+      options:
+        - label: A
+          text: "Woensdagmiddag"
+        - label: B
+          text: "Dinsdagochtend"
+        - label: C
+          text: "Zaterdagochtend"
+      correct_answer: A
+    - questiontext: "Wat krijgen vrijwilligers?"
+      options:
+        - label: A
+          text: "Een salaris van € 5 per uur"
+        - label: B
+          text: "Alleen een gratis lunch"
+        - label: C
+          text: "Een vergoeding van € 5 per dag en een gratis lunch"
+      correct_answer: C
