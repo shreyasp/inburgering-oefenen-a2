@@ -1,12 +1,13 @@
 - id: 31
   title: Vakantie en ziekte op het werk
   difficulty: easy
-  text: >
+  text: >-
     Fatima werkt bij een supermarkt in Utrecht. Ze heeft recht op 20 vakantiedagen per jaar. In juli wil ze 10 dagen op
     vakantie naar Marokko. Ze vraagt haar manager, meneer De Vries, om vakantie. Dat mag.
 
     Als Fatima ziek is, moet ze zich voor 9:00 uur 's ochtends ziek melden. Ze belt dan naar het werk. Niet appen, niet
     mailen, maar bellen. Na drie dagen heeft ze een verklaring van de dokter nodig.
+     Ze meldt zich ziek door te bellen. Na 3 dagen ziekte moet ze een verklaring hebben.
   questions:
     - questiontext: Hoeveel vakantiedagen heeft Fatima per jaar?
       options:
@@ -130,12 +131,13 @@
 - id: 42
   title: Inschrijving bij woningcorporatie
   difficulty: easy
-  text: >
+  text: >-
     Khalid zoekt een sociale huurwoning in Rotterdam. Hij schrijft zich in bij woningcorporatie Haven. De inschrijving
     is gratis. Hij moet 18 jaar of ouder zijn en een inkomen hebben van maximaal € 44.000 per jaar.
 
     Na inschrijving krijgt Khalid een nummer. Hoe langer hij wacht, hoe hoger zijn nummer. Gemiddeld wacht hij 8 jaar op
     een woning. Hij reageert elke week op woningen via de website.
+     De inschrijving kost niets, het is gratis.
   questions:
     - questiontext: Wat kost de inschrijving bij woningcorporatie Haven?
       options:
