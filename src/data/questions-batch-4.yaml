@@ -1,1089 +1,1032 @@
 - id: 81
   title: Biologische appels kopen
   difficulty: easy
-  text: 'Bij de supermarkt staan twee soorten appels. De gewone appels kosten € 1,50
-    per kilo. De biologische appels kosten € 2,20 per kilo. Op de biologische appels
-    staat een logo: een groen blaadje. Dit betekent dat de appels zonder bestrijdingsmiddelen
-    zijn geteeld. Veel mensen kiezen voor biologisch omdat het beter is voor het milieu.
-
-    '
+  text: >-
+    Bij de supermarkt staan twee soorten appels. De gewone appels kosten € 1,50 per kilo. De biologische appels kosten €
+    2,20 per kilo. Op de biologische appels staat een logo: een groen blaadje. Dit betekent dat de appels zonder
+    bestrijdingsmiddelen zijn geteeld. Veel mensen kiezen voor biologisch omdat het beter is voor het milieu.
+     Reizen.
   questions:
-  - questiontext: Hoeveel kosten de biologische appels per kilo?
-    options:
-    - label: A
-      text: € 1,50.
-    - label: B
-      text: € 2,20.
-    - label: C
-      text: € 2,50.
-    correct_answer: A
-  - questiontext: Waarom kiezen mensen voor biologische appels?
-    options:
-    - label: A
-      text: Omdat ze goedkoper zijn.
-    - label: B
-      text: Omdat ze beter zijn voor het milieu.
-    - label: C
-      text: Omdat ze zoeter smaken.
-    correct_answer: B
-  - questiontext: Wat is het onderwerp van deze tekst?
-    options:
-    - label: A
-      text: Boodschappen doen.
-    - label: B
-      text: Sporten.
-    - label: C
-      text: Reizen.
-    correct_answer: C
+    - questiontext: Hoeveel kosten de biologische appels per kilo?
+      options:
+        - label: A
+          text: € 1,50.
+        - label: B
+          text: € 2,20.
+        - label: C
+          text: € 2,50.
+      correct_answer: A
+    - questiontext: Waarom kiezen mensen voor biologische appels?
+      options:
+        - label: A
+          text: Omdat ze goedkoper zijn.
+        - label: B
+          text: Omdat ze beter zijn voor het milieu.
+        - label: C
+          text: Omdat ze zoeter smaken.
+      correct_answer: B
+    - questiontext: Wat is het onderwerp van deze tekst?
+      options:
+        - label: A
+          text: Boodschappen doen.
+        - label: B
+          text: Sporten.
+        - label: C
+          text: Reizen.
+      correct_answer: C
 - id: 82
   title: Kleding ruilen in de winkel
   difficulty: easy
-  text: 'Maria koopt een trui in een kledingwinkel. De trui kost € 35. Thuis ziet
-    ze dat de trui te klein is. Ze gaat terug naar de winkel. De verkoper zegt: "U
-    kunt de trui ruilen binnen 14 dagen. Neem uw bon mee en de trui moet nog nieuw
+  text: >-
+    Maria koopt een trui in een kledingwinkel. De trui kost € 35. Thuis ziet ze dat de trui te klein is. Ze gaat terug
+    naar de winkel. De verkoper zegt: "U kunt de trui ruilen binnen 14 dagen. Neem uw bon mee en de trui moet nog nieuw
     zijn." Maria heeft de bon nog en de trui heeft ze niet gedragen.
-
-    '
+     Reizen.
   questions:
-  - questiontext: Hoeveel dagen heeft Maria om de trui te ruilen?
-    options:
-    - label: A
-      text: 7 dagen.
-    - label: B
-      text: 14 dagen.
-    - label: C
-      text: 30 dagen.
-    correct_answer: A
-  - questiontext: Wat moet Maria meenemen naar de winkel?
-    options:
-    - label: A
-      text: Alleen de trui.
-    - label: B
-      text: De bon en de trui.
-    - label: C
-      text: Alleen de bon.
-    correct_answer: B
-  - questiontext: Wat is het onderwerp van deze tekst?
-    options:
-    - label: A
-      text: Boodschappen doen.
-    - label: B
-      text: Sporten.
-    - label: C
-      text: Reizen.
-    correct_answer: C
+    - questiontext: Hoeveel dagen heeft Maria om de trui te ruilen?
+      options:
+        - label: A
+          text: 7 dagen.
+        - label: B
+          text: 14 dagen.
+        - label: C
+          text: 30 dagen.
+      correct_answer: A
+    - questiontext: Wat moet Maria meenemen naar de winkel?
+      options:
+        - label: A
+          text: Alleen de trui.
+        - label: B
+          text: De bon en de trui.
+        - label: C
+          text: Alleen de bon.
+      correct_answer: B
+    - questiontext: Wat is het onderwerp van deze tekst?
+      options:
+        - label: A
+          text: Boodschappen doen.
+        - label: B
+          text: Sporten.
+        - label: C
+          text: Reizen.
+      correct_answer: C
 - id: 83
   title: Sportclub lidmaatschap
   difficulty: easy
-  text: 'Tom wil lid worden van een sportclub. Hij leest de informatie op de website.
-    Lidmaatschap kost € 25 per maand. Studenten betalen € 18 per maand. Je kunt ook
-    een jaarabonnement nemen: € 240 voor het hele jaar. Dat is goedkoper dan per maand
-    betalen. Inschrijven kan online of bij de receptie.
-
-    '
+  text: >-
+    Tom wil lid worden van een sportclub. Hij leest de informatie op de website. Lidmaatschap kost € 25 per maand.
+    Studenten betalen € 18 per maand. Je kunt ook een jaarabonnement nemen: € 240 voor het hele jaar. Dat is goedkoper
+    dan per maand betalen. Inschrijven kan online of bij de receptie.
+     Reizen.
   questions:
-  - questiontext: Hoeveel betaalt een student per maand?
-    options:
-    - label: A
-      text: € 18.
-    - label: B
-      text: € 25.
-    - label: C
-      text: € 240.
-    correct_answer: A
-  - questiontext: 'Wat is goedkoper: per maand betalen of een jaarabonnement?'
-    options:
-    - label: A
-      text: Per maand betalen.
-    - label: B
-      text: Een jaarabonnement.
-    - label: C
-      text: Dat is even duur.
-    correct_answer: B
-  - questiontext: Wat is het onderwerp van deze tekst?
-    options:
-    - label: A
-      text: Boodschappen doen.
-    - label: B
-      text: Sporten.
-    - label: C
-      text: Reizen.
-    correct_answer: C
+    - questiontext: Hoeveel betaalt een student per maand?
+      options:
+        - label: A
+          text: € 18.
+        - label: B
+          text: € 25.
+        - label: C
+          text: € 240.
+      correct_answer: A
+    - questiontext: 'Wat is goedkoper: per maand betalen of een jaarabonnement?'
+      options:
+        - label: A
+          text: Per maand betalen.
+        - label: B
+          text: Een jaarabonnement.
+        - label: C
+          text: Dat is even duur.
+      correct_answer: B
+    - questiontext: Wat is het onderwerp van deze tekst?
+      options:
+        - label: A
+          text: Boodschappen doen.
+        - label: B
+          text: Sporten.
+        - label: C
+          text: Reizen.
+      correct_answer: C
 - id: 84
   title: Huisartsenpost bellen
   difficulty: easy
-  text: 'Het is zaterdagavond en Lisa heeft koorts. De huisarts is dicht. Lisa belt
-    de huisartsenpost. Het telefoonnummer is 0900-112 03 33. De assistent vraagt:
-    "Wat is uw probleem?" Lisa vertelt over de koorts. De assistent zegt: "Kom morgenochtend
-    om 9 uur naar de praktijk."
-
-    '
+  text: >-
+    Het is zaterdagavond en Lisa heeft koorts. De huisarts is dicht. Lisa belt de huisartsenpost. Het telefoonnummer is
+    0900-112 03 33. De assistent vraagt: "Wat is uw probleem?" Lisa vertelt over de koorts. De assistent zegt: "Kom
+    morgenochtend om 9 uur naar de praktijk."
+     Omdat de huisarts dicht is. Zondagochtend.
   questions:
-  - questiontext: Waarom belt Lisa de huisartsenpost?
-    options:
-    - label: A
-      text: Omdat de huisarts dicht is.
-    - label: B
-      text: Omdat het goedkoper is.
-    - label: C
-      text: Omdat ze een recept nodig heeft.
-    correct_answer: A
-  - questiontext: Wanneer moet Lisa naar de praktijk komen?
-    options:
-    - label: A
-      text: Zaterdagavond.
-    - label: B
-      text: Zondagochtend.
-    - label: C
-      text: Maandagochtend om 9 uur.
-    correct_answer: B
+    - questiontext: Waarom belt Lisa de huisartsenpost?
+      options:
+        - label: A
+          text: Omdat de huisarts dicht is.
+        - label: B
+          text: Omdat het goedkoper is.
+        - label: C
+          text: Omdat ze een recept nodig heeft.
+      correct_answer: A
+    - questiontext: Wanneer moet Lisa naar de praktijk komen?
+      options:
+        - label: A
+          text: Zaterdagavond.
+        - label: B
+          text: Zondagochtend.
+        - label: C
+          text: Maandagochtend om 9 uur.
+      correct_answer: B
 - id: 85
   title: Museumkaart kopen
   difficulty: easy
-  text: 'Anna houdt van musea. Zij koopt een Museumkaart. De kaart kost € 64,90 voor
-    volwassenen en € 32,45 voor jongeren tot 18 jaar. Met de Museumkaart kun je gratis
-    naar veel musea in Nederland. De kaart is een jaar geldig. Anna betaalt de kaart
-    met haar pinpas.
-
-    '
+  text: >-
+    Anna houdt van musea. Zij koopt een Museumkaart. De kaart kost € 64,90 voor volwassenen en € 32,45 voor jongeren tot
+    18 jaar. Met de Museumkaart kun je gratis naar veel musea in Nederland. De kaart is een jaar geldig. Anna betaalt de
+    kaart met haar pinpas.
+     € 100. Een maand.
   questions:
-  - questiontext: Hoeveel kost een Museumkaart voor een volwassene?
-    options:
-    - label: A
-      text: € 32,45.
-    - label: B
-      text: € 64,90.
-    - label: C
-      text: € 100.
-    correct_answer: C
-  - questiontext: Hoe lang is de Museumkaart geldig?
-    options:
-    - label: A
-      text: Een maand.
-    - label: B
-      text: Een half jaar.
-    - label: C
-      text: Een jaar.
-    correct_answer: A
+    - questiontext: Hoeveel kost een Museumkaart voor een volwassene?
+      options:
+        - label: A
+          text: € 32,45.
+        - label: B
+          text: € 64,90.
+        - label: C
+          text: € 100.
+      correct_answer: C
+    - questiontext: Hoe lang is de Museumkaart geldig?
+      options:
+        - label: A
+          text: Een maand.
+        - label: B
+          text: Een half jaar.
+        - label: C
+          text: Een jaar.
+      correct_answer: A
 - id: 86
   title: Online bestelling retour sturen
   difficulty: easy
-  text: 'Fatima bestelt een jurk online. De jurk kost € 45. Als de jurk aankomt, vindt
-    ze hem niet mooi. Ze leest op de website: "U kunt uw bestelling binnen 14 dagen
-    retour sturen. De kosten voor retourzending zijn voor uw eigen rekening." Fatima
-    stuurt de jurk terug met PostNL.
-
-    '
+  text: >
+    Fatima bestelt een jurk online. De jurk kost € 45. Als de jurk aankomt, vindt ze hem niet mooi. Ze leest op de
+    website: "U kunt uw bestelling binnen 14 dagen retour sturen. De kosten voor retourzending zijn voor uw eigen
+    rekening." Fatima stuurt de jurk terug met PostNL.
   questions:
-  - questiontext: Hoeveel dagen heeft Fatima om de jurk retour te sturen?
-    options:
-    - label: A
-      text: 7 dagen.
-    - label: B
-      text: 14 dagen.
-    - label: C
-      text: 30 dagen.
-    correct_answer: B
-  - questiontext: Wie betaalt de kosten voor het retour sturen?
-    options:
-    - label: A
-      text: De webshop.
-    - label: B
-      text: Fatima zelf.
-    - label: C
-      text: PostNL.
-    correct_answer: C
+    - questiontext: Hoeveel dagen heeft Fatima om de jurk retour te sturen?
+      options:
+        - label: A
+          text: 7 dagen.
+        - label: B
+          text: 14 dagen.
+        - label: C
+          text: 30 dagen.
+      correct_answer: B
+    - questiontext: Wie betaalt de kosten voor het retour sturen?
+      options:
+        - label: A
+          text: De webshop.
+        - label: B
+          text: Fatima zelf.
+        - label: C
+          text: PostNL.
+      correct_answer: C
 - id: 87
   title: Brandmelder installeren
   difficulty: easy
-  text: 'In elk huis moet een brandmelder hangen. Een brandmelder kost tussen € 10
-    en € 25. Je kunt een brandmelder zelf ophangen aan het plafond. De brandmelder
-    maakt een hard geluid als er rook is. Test de brandmelder elke maand door op de
-    knop te drukken. Vervang de batterij elk jaar.
-
-    '
+  text: >-
+    In elk huis moet een brandmelder hangen. Een brandmelder kost tussen € 10 en € 25. Je kunt een brandmelder zelf
+    ophangen aan het plafond. De brandmelder maakt een hard geluid als er rook is. Test de brandmelder elke maand door
+    op de knop te drukken. Vervang de batterij elk jaar.
+     Aan de muur. Elk half jaar.
   questions:
-  - questiontext: Waar moet je een brandmelder ophangen?
-    options:
-    - label: A
-      text: Aan de muur.
-    - label: B
-      text: Aan het plafond.
-    - label: C
-      text: Op de vloer.
-    correct_answer: A
-  - questiontext: Hoe vaak moet je de batterij vervangen?
-    options:
-    - label: A
-      text: Elke maand.
-    - label: B
-      text: Elk half jaar.
-    - label: C
-      text: Elk jaar.
-    correct_answer: B
+    - questiontext: Waar moet je een brandmelder ophangen?
+      options:
+        - label: A
+          text: Aan de muur.
+        - label: B
+          text: Aan het plafond.
+        - label: C
+          text: Op de vloer.
+      correct_answer: A
+    - questiontext: Hoe vaak moet je de batterij vervangen?
+      options:
+        - label: A
+          text: Elke maand.
+        - label: B
+          text: Elk half jaar.
+        - label: C
+          text: Elk jaar.
+      correct_answer: B
 - id: 88
   title: Taalcafé bezoeken
   difficulty: easy
-  text: 'In het buurthuis is elke woensdagavond een taalcafé. Van 19.00 tot 21.00
-    uur kun je daar Nederlands oefenen. De toegang is gratis. Er zijn ook vrijwilligers
-    die helpen met oefenen. Je hoeft je niet van tevoren aan te melden. Neem een vriend
-    of vriendin mee als je wilt.
-
-    '
+  text: >-
+    In het buurthuis is elke woensdagavond een taalcafé. Van 19.00 tot 21.00 uur kun je daar Nederlands oefenen. De
+    toegang is gratis. Er zijn ook vrijwilligers die helpen met oefenen. Je hoeft je niet van tevoren aan te melden.
+    Neem een vriend of vriendin mee als je wilt.
+     Elke vrijdagavond. Ja, dat moet.
   questions:
-  - questiontext: Wanneer is het taalcafé?
-    options:
-    - label: A
-      text: Elke maandagavond.
-    - label: B
-      text: Elke woensdagavond.
-    - label: C
-      text: Elke vrijdagavond.
-    correct_answer: C
-  - questiontext: Moet je je aanmelden voor het taalcafé?
-    options:
-    - label: A
-      text: Ja, dat moet.
-    - label: B
-      text: Nee, dat hoeft niet.
-    - label: C
-      text: Alleen als je met een vriend komt.
-    correct_answer: A
+    - questiontext: Wanneer is het taalcafé?
+      options:
+        - label: A
+          text: Elke maandagavond.
+        - label: B
+          text: Elke woensdagavond.
+        - label: C
+          text: Elke vrijdagavond.
+      correct_answer: C
+    - questiontext: Moet je je aanmelden voor het taalcafé?
+      options:
+        - label: A
+          text: Ja, dat moet.
+        - label: B
+          text: Nee, dat hoeft niet.
+        - label: C
+          text: Alleen als je met een vriend komt.
+      correct_answer: A
 - id: 89
   title: Supermarktaanbieding begrijpen
   difficulty: medium
-  text: 'In de supermarkt is een aanbieding: "Koop 2, betaal 1" op alle yoghurt. De
-    yoghurt kost normaal € 1,80 per stuk. Dat betekent dat je twee pakken yoghurt
-    krijgt voor de prijs van één. De aanbieding geldt van maandag tot en met woensdag.
-    Op de verpakking staat: "Ten minste houdbaar tot 15 maart." Je moet de yoghurt
-    dus voor die datum opmaken.
-
-    '
+  text: >-
+    In de supermarkt is een aanbieding: "Koop 2, betaal 1" op alle yoghurt. De yoghurt kost normaal € 1,80 per stuk. Dat
+    betekent dat je twee pakken yoghurt krijgt voor de prijs van één. De aanbieding geldt van maandag tot en met
+    woensdag. Op de verpakking staat: "Ten minste houdbaar tot 15 maart." Je moet de yoghurt dus voor die datum opmaken.
+     € 3,60. Een week.
   questions:
-  - questiontext: Hoeveel betaal je voor twee pakken yoghurt tijdens de aanbieding?
-    options:
-    - label: A
-      text: € 1,80.
-    - label: B
-      text: € 3,60.
-    - label: C
-      text: € 0,90.
-    correct_answer: B
-  - questiontext: Hoelang geldt de aanbieding?
-    options:
-    - label: A
-      text: Eén dag.
-    - label: B
-      text: Drie dagen.
-    - label: C
-      text: Een week.
-    correct_answer: C
+    - questiontext: Hoeveel betaal je voor twee pakken yoghurt tijdens de aanbieding?
+      options:
+        - label: A
+          text: € 1,80.
+        - label: B
+          text: € 3,60.
+        - label: C
+          text: € 0,90.
+      correct_answer: B
+    - questiontext: Hoelang geldt de aanbieding?
+      options:
+        - label: A
+          text: Eén dag.
+        - label: B
+          text: Drie dagen.
+        - label: C
+          text: Een week.
+      correct_answer: C
 - id: 90
   title: Garantie claimen op laptop
   difficulty: medium
-  text: 'Ahmed koopt een laptop van € 600. De verkoper zegt: "U heeft twee jaar garantie
-    op de laptop." Na acht maanden werkt het toetsenbord niet meer. Ahmed gaat terug
-    naar de winkel met de laptop en de bon. De verkoper kijkt en zegt: "Dit valt onder
-    de garantie. Wij repareren de laptop gratis of u krijgt een nieuwe." Ahmed is
-    blij dat hij de bon heeft bewaard.
-
-    '
+  text: >-
+    Ahmed koopt een laptop van € 600. De verkoper zegt: "U heeft twee jaar garantie op de laptop." Na acht maanden werkt
+    het toetsenbord niet meer. Ahmed gaat terug naar de winkel met de laptop en de bon. De verkoper kijkt en zegt: "Dit
+    valt onder de garantie. Wij repareren de laptop gratis of u krijgt een nieuwe." Ahmed is blij dat hij de bon heeft
+    bewaard.
+     Eén jaar.
   questions:
-  - questiontext: Hoeveel jaar garantie heeft Ahmed op de laptop?
-    options:
-    - label: A
-      text: Eén jaar.
-    - label: B
-      text: Twee jaar.
-    - label: C
-      text: Drie jaar.
-    correct_answer: A
-  - questiontext: Wanneer krijgt het toetsenbord een probleem?
-    options:
-    - label: A
-      text: Na vier maanden.
-    - label: B
-      text: Na acht maanden.
-    - label: C
-      text: Na twaalf maanden.
-    correct_answer: B
+    - questiontext: Hoeveel jaar garantie heeft Ahmed op de laptop?
+      options:
+        - label: A
+          text: Eén jaar.
+        - label: B
+          text: Twee jaar.
+        - label: C
+          text: Drie jaar.
+      correct_answer: A
+    - questiontext: Wanneer krijgt het toetsenbord een probleem?
+      options:
+        - label: A
+          text: Na vier maanden.
+        - label: B
+          text: Na acht maanden.
+        - label: C
+          text: Na twaalf maanden.
+      correct_answer: B
 - id: 91
   title: Fietsroute plannen
   difficulty: medium
-  text: 'Lisa wil een fietsroute maken van Amsterdam naar Utrecht. Zij gebruikt de
-    website RouteYou. De route is 50 kilometer lang en gaat door de weilanden. Onderweg
-    zijn drie plekken om te pauzeren: een café na 15 kilometer, een picknickplaats
-    na 30 kilometer en een restaurant na 45 kilometer. Lisa neemt water en snacks
-    mee. Ze denkt dat de tocht ongeveer vier uur duurt.
-
-    '
+  text: >
+    Lisa wil een fietsroute maken van Amsterdam naar Utrecht. Zij gebruikt de website RouteYou. De route is 50 kilometer
+    lang en gaat door de weilanden. Onderweg zijn drie plekken om te pauzeren: een café na 15 kilometer, een
+    picknickplaats na 30 kilometer en een restaurant na 45 kilometer. Lisa neemt water en snacks mee. Ze denkt dat de
+    tocht ongeveer vier uur duurt.
   questions:
-  - questiontext: Hoe lang is de fietsroute?
-    options:
-    - label: A
-      text: 30 kilometer.
-    - label: B
-      text: 45 kilometer.
-    - label: C
-      text: 50 kilometer.
-    correct_answer: C
-  - questiontext: Waar kun je na 30 kilometer pauzeren?
-    options:
-    - label: A
-      text: In een café.
-    - label: B
-      text: Op een picknickplaats.
-    - label: C
-      text: In een restaurant.
-    correct_answer: A
+    - questiontext: Hoe lang is de fietsroute?
+      options:
+        - label: A
+          text: 30 kilometer.
+        - label: B
+          text: 45 kilometer.
+        - label: C
+          text: 50 kilometer.
+      correct_answer: C
+    - questiontext: Waar kun je na 30 kilometer pauzeren?
+      options:
+        - label: A
+          text: In een café.
+        - label: B
+          text: Op een picknickplaats.
+        - label: C
+          text: In een restaurant.
+      correct_answer: A
 - id: 92
   title: Phishing mail herkennen
   difficulty: medium
-  text: 'Sara krijgt een e-mail van "info@bank-nederland.nl". In de mail staat: "Geachte
-    klant, uw rekening is geblokkeerd. Klik hier om uw gegevens te controleren." Sara
-    twijfelt. Ze kijkt goed naar het e-mailadres. Het adres eindigt niet op @abn.nl
-    of @ing.nl, maar op @bank-nederland.nl. Dat is niet de echte bank. Sara verwijdert
-    de mail en belt haar eigen bank om te vragen of er een probleem is.
-
-    '
+  text: >-
+    Sara krijgt een e-mail van "info@bank-nederland.nl". In de mail staat: "Geachte klant, uw rekening is geblokkeerd.
+    Klik hier om uw gegevens te controleren." Sara twijfelt. Ze kijkt goed naar het e-mailadres. Het adres eindigt niet
+    op @abn.nl of @ing.nl, maar op @bank-nederland.nl. Dat is niet de echte bank. Sara verwijdert de mail en belt haar
+    eigen bank om te vragen of er een probleem is.
+     Omdat het e-mailadres niet van de echte bank is.
   questions:
-  - questiontext: Waarom twijfelt Sara aan de e-mail?
-    options:
-    - label: A
-      text: Omdat de mail in het Engels is.
-    - label: B
-      text: Omdat het e-mailadres niet van de echte bank is.
-    - label: C
-      text: Omdat er geen naam in de mail staat.
-    correct_answer: B
-  - questiontext: Wat doet Sara met de e-mail?
-    options:
-    - label: A
-      text: Ze klikt op de link.
-    - label: B
-      text: Ze stuurt de mail door naar een vriend.
-    - label: C
-      text: Ze verwijdert de mail en belt haar bank.
-    correct_answer: C
+    - questiontext: Waarom twijfelt Sara aan de e-mail?
+      options:
+        - label: A
+          text: Omdat de mail in het Engels is.
+        - label: B
+          text: Omdat het e-mailadres niet van de echte bank is.
+        - label: C
+          text: Omdat er geen naam in de mail staat.
+      correct_answer: B
+    - questiontext: Wat doet Sara met de e-mail?
+      options:
+        - label: A
+          text: Ze klikt op de link.
+        - label: B
+          text: Ze stuurt de mail door naar een vriend.
+        - label: C
+          text: Ze verwijdert de mail en belt haar bank.
+      correct_answer: C
 - id: 93
   title: Wandeltocht organiseren
   difficulty: medium
-  text: 'Het buurthuis organiseert een wandeltocht op zaterdag 12 mei. De tocht is
-    10 kilometer lang en begint om 10.00 uur bij het buurthuis. Deelname kost € 5
-    per persoon. Kinderen tot 12 jaar lopen gratis mee. Onderweg is er een pauze met
-    koffie en iets lekkers. Aanmelden kan tot 8 mei via info@buurthuiscentraal.nl
-    of door te bellen naar 020-555 98 76.
-
-    '
+  text: >-
+    Het buurthuis organiseert een wandeltocht op zaterdag 12 mei. De tocht is 10 kilometer lang en begint om 10.00 uur
+    bij het buurthuis. Deelname kost € 5 per persoon. Kinderen tot 12 jaar lopen gratis mee. Onderweg is er een pauze
+    met koffie en iets lekkers. Aanmelden kan tot 8 mei via info@buurthuiscentraal.nl of door te bellen naar 020-555 98
+    76.
+     € 2,50.
   questions:
-  - questiontext: Wanneer is de wandeltocht?
-    options:
-    - label: A
-      text: Op zaterdag 5 mei.
-    - label: B
-      text: Op zaterdag 12 mei.
-    - label: C
-      text: Op zondag 12 mei.
-    correct_answer: A
-  - questiontext: Hoeveel betaalt een kind van 10 jaar?
-    options:
-    - label: A
-      text: € 5.
-    - label: B
-      text: € 2,50.
-    - label: C
-      text: Niets.
-    correct_answer: B
+    - questiontext: Wanneer is de wandeltocht?
+      options:
+        - label: A
+          text: Op zaterdag 5 mei.
+        - label: B
+          text: Op zaterdag 12 mei.
+        - label: C
+          text: Op zondag 12 mei.
+      correct_answer: A
+    - questiontext: Hoeveel betaalt een kind van 10 jaar?
+      options:
+        - label: A
+          text: € 5.
+        - label: B
+          text: € 2,50.
+        - label: C
+          text: Niets.
+      correct_answer: B
 - id: 94
   title: DigiD gebruiken voor MijnOverheid
   difficulty: medium
-  text: 'Omar wil zijn belastingaangifte doen via MijnOverheid. Daarvoor heeft hij
-    DigiD nodig. DigiD is een digitale identiteit waarmee je kunt inloggen op overheidswebsites.
-    Omar vraagt DigiD aan op www.digid.nl. Hij krijgt een activatiecode per post.
-    Na een week komt de brief met de code. Omar vult de code in op de website en kan
-    nu inloggen. Hij bewaart zijn gebruikersnaam en wachtwoord goed.
-
-    '
+  text: >-
+    Omar wil zijn belastingaangifte doen via MijnOverheid. Daarvoor heeft hij DigiD nodig. DigiD is een digitale
+    identiteit waarmee je kunt inloggen op overheidswebsites. Omar vraagt DigiD aan op www.digid.nl. Hij krijgt een
+    activatiecode per post. Na een week komt de brief met de code. Omar vult de code in op de website en kan nu
+    inloggen. Hij bewaart zijn gebruikersnaam en wachtwoord goed.
+     Om te mailen met de belastingdienst. Per e-mail.
   questions:
-  - questiontext: Waarvoor heeft Omar DigiD nodig?
-    options:
-    - label: A
-      text: Om te internetbankieren.
-    - label: B
-      text: Om in te loggen op MijnOverheid.
-    - label: C
-      text: Om te mailen met de belastingdienst.
-    correct_answer: C
-  - questiontext: Hoe krijgt Omar zijn activatiecode?
-    options:
-    - label: A
-      text: Per e-mail.
-    - label: B
-      text: Per sms.
-    - label: C
-      text: Per post.
-    correct_answer: A
+    - questiontext: Waarvoor heeft Omar DigiD nodig?
+      options:
+        - label: A
+          text: Om te internetbankieren.
+        - label: B
+          text: Om in te loggen op MijnOverheid.
+        - label: C
+          text: Om te mailen met de belastingdienst.
+      correct_answer: C
+    - questiontext: Hoe krijgt Omar zijn activatiecode?
+      options:
+        - label: A
+          text: Per e-mail.
+        - label: B
+          text: Per sms.
+        - label: C
+          text: Per post.
+      correct_answer: A
 - id: 95
   title: Abonnement sportschool opzeggen
   difficulty: medium
-  text: 'Nina wil haar abonnement bij de sportschool opzeggen. Ze leest de voorwaarden
-    op de website. "U kunt uw abonnement maandelijks opzeggen met een opzegtermijn
-    van één maand." Nina stuurt een e-mail naar info@sportschoolfit.nl. Ze schrijft:
-    "Hierbij zeg ik mijn abonnement op per 1 juni." De sportschool bevestigt de opzegging
-    per e-mail. Nina betaalt nog één maand en dan is het abonnement afgelopen.
-
-    '
+  text: >-
+    Nina wil haar abonnement bij de sportschool opzeggen. Ze leest de voorwaarden op de website. "U kunt uw abonnement
+    maandelijks opzeggen met een opzegtermijn van één maand." Nina stuurt een e-mail naar info@sportschoolfit.nl. Ze
+    schrijft: "Hierbij zeg ik mijn abonnement op per 1 juni." De sportschool bevestigt de opzegging per e-mail. Nina
+    betaalt nog één maand en dan is het abonnement afgelopen.
+     Drie maanden.
   questions:
-  - questiontext: Hoe zegt Nina haar abonnement op?
-    options:
-    - label: A
-      text: Per telefoon.
-    - label: B
-      text: Per e-mail.
-    - label: C
-      text: Persoonlijk bij de sportschool.
-    correct_answer: B
-  - questiontext: Wat is de opzegtermijn?
-    options:
-    - label: A
-      text: Eén week.
-    - label: B
-      text: Eén maand.
-    - label: C
-      text: Drie maanden.
-    correct_answer: C
+    - questiontext: Hoe zegt Nina haar abonnement op?
+      options:
+        - label: A
+          text: Per telefoon.
+        - label: B
+          text: Per e-mail.
+        - label: C
+          text: Persoonlijk bij de sportschool.
+      correct_answer: B
+    - questiontext: Wat is de opzegtermijn?
+      options:
+        - label: A
+          text: Eén week.
+        - label: B
+          text: Eén maand.
+        - label: C
+          text: Drie maanden.
+      correct_answer: C
 - id: 96
   title: Pinpas blokkeren na verlies
   difficulty: medium
-  text: 'David is zijn pinpas kwijt. Hij zoekt overal maar kan de pas niet vinden.
-    Hij belt meteen Card Stop: 088-555 00 10. De medewerker vraagt naar zijn rekeningnummer
-    en geboortedatum. David geeft de informatie. De medewerker zegt: "Uw pas is nu
-    geblokkeerd. U kunt een nieuwe pas aanvragen bij uw bank." David gaat naar zijn
-    bank en vraagt een nieuwe pas aan. De nieuwe pas komt binnen vijf werkdagen.
-
-    '
+  text: >
+    David is zijn pinpas kwijt. Hij zoekt overal maar kan de pas niet vinden. Hij belt meteen Card Stop: 088-555 00 10.
+    De medewerker vraagt naar zijn rekeningnummer en geboortedatum. David geeft de informatie. De medewerker zegt: "Uw
+    pas is nu geblokkeerd. U kunt een nieuwe pas aanvragen bij uw bank." David gaat naar zijn bank en vraagt een nieuwe
+    pas aan. De nieuwe pas komt binnen vijf werkdagen.
   questions:
-  - questiontext: Waarom belt David Card Stop?
-    options:
-    - label: A
-      text: Om een nieuwe pas aan te vragen.
-    - label: B
-      text: Om zijn pas te blokkeren.
-    - label: C
-      text: Om te vragen waar zijn pas is.
-    correct_answer: A
-  - questiontext: Welke informatie moet David geven?
-    options:
-    - label: A
-      text: Alleen zijn naam.
-    - label: B
-      text: Zijn rekeningnummer en geboortedatum.
-    - label: C
-      text: Zijn adres en telefoonnummer.
-    correct_answer: B
+    - questiontext: Waarom belt David Card Stop?
+      options:
+        - label: A
+          text: Om een nieuwe pas aan te vragen.
+        - label: B
+          text: Om zijn pas te blokkeren.
+        - label: C
+          text: Om te vragen waar zijn pas is.
+      correct_answer: A
+    - questiontext: Welke informatie moet David geven?
+      options:
+        - label: A
+          text: Alleen zijn naam.
+        - label: B
+          text: Zijn rekeningnummer en geboortedatum.
+        - label: C
+          text: Zijn adres en telefoonnummer.
+      correct_answer: B
 - id: 97
   title: Vrijwilligerswerk in het buurthuis
   difficulty: medium
-  text: 'Het buurthuis zoekt vrijwilligers voor verschillende activiteiten. Je kunt
-    helpen bij de koffieochtend op dinsdag van 10.00 tot 12.00 uur. Of je helpt bij
-    de computercursus op donderdag van 14.00 tot 16.00 uur. Vrijwilligers krijgen
-    een kleine vergoeding van € 5 per keer. Je hoeft geen ervaring te hebben, het
-    buurthuis geeft uitleg. Aanmelden kan via vrijwilliger@buurthuis.nl of bel 020-555
-    44 33.
-
-    '
+  text: >-
+    Het buurthuis zoekt vrijwilligers voor verschillende activiteiten. Je kunt helpen bij de koffieochtend op dinsdag
+    van 10.00 tot 12.00 uur. Of je helpt bij de computercursus op donderdag van 14.00 tot 16.00 uur. Vrijwilligers
+    krijgen een kleine vergoeding van € 5 per keer. Je hoeft geen ervaring te hebben, het buurthuis geeft uitleg.
+    Aanmelden kan via vrijwilliger@buurthuis.nl of bel 020-555 44 33.
+     Op vrijdagmiddag.
   questions:
-  - questiontext: Wanneer is de koffieochtend?
-    options:
-    - label: A
-      text: Op dinsdagochtend.
-    - label: B
-      text: Op donderdagochtend.
-    - label: C
-      text: Op vrijdagmiddag.
-    correct_answer: C
-  - questiontext: Hoeveel vergoeding krijgen vrijwilligers?
-    options:
-    - label: A
-      text: € 3 per keer.
-    - label: B
-      text: € 5 per keer.
-    - label: C
-      text: € 10 per keer.
-    correct_answer: A
+    - questiontext: Wanneer is de koffieochtend?
+      options:
+        - label: A
+          text: Op dinsdagochtend.
+        - label: B
+          text: Op donderdagochtend.
+        - label: C
+          text: Op vrijdagmiddag.
+      correct_answer: C
+    - questiontext: Hoeveel vergoeding krijgen vrijwilligers?
+      options:
+        - label: A
+          text: € 3 per keer.
+        - label: B
+          text: € 5 per keer.
+        - label: C
+          text: € 10 per keer.
+      correct_answer: A
 - id: 98
   title: 'Online veiligheid: wachtwoorden'
   difficulty: medium
-  text: 'Een goed wachtwoord is belangrijk voor online veiligheid. Gebruik geen makkelijke
-    woorden zoals je naam of geboortedatum. Een sterk wachtwoord heeft minimaal 12
-    tekens en bevat hoofdletters, kleine letters, cijfers en speciale tekens. Bijvoorbeeld:
-    "BlauweF!ets2024". Gebruik voor elke website een ander wachtwoord. Schrijf je
-    wachtwoorden niet op een papiertje op je bureau. Gebruik een wachtwoordmanager
-    om ze veilig te bewaren.
-
-    '
+  text: >-
+    Een goed wachtwoord is belangrijk voor online veiligheid. Gebruik geen makkelijke woorden zoals je naam of
+    geboortedatum. Een sterk wachtwoord heeft minimaal 12 tekens en bevat hoofdletters, kleine letters, cijfers en
+    speciale tekens. Bijvoorbeeld: "BlauweF!ets2024". Gebruik voor elke website een ander wachtwoord. Schrijf je
+    wachtwoorden niet op een papiertje op je bureau. Gebruik een wachtwoordmanager om ze veilig te bewaren.
+     Alleen cijfers.
   questions:
-  - questiontext: Hoeveel tekens moet een sterk wachtwoord minimaal hebben?
-    options:
-    - label: A
-      text: 8 tekens.
-    - label: B
-      text: 10 tekens.
-    - label: C
-      text: 12 tekens.
-    correct_answer: B
-  - questiontext: Wat moet een sterk wachtwoord bevatten?
-    options:
-    - label: A
-      text: Alleen kleine letters.
-    - label: B
-      text: Hoofdletters, kleine letters, cijfers en speciale tekens.
-    - label: C
-      text: Alleen cijfers.
-    correct_answer: C
+    - questiontext: Hoeveel tekens moet een sterk wachtwoord minimaal hebben?
+      options:
+        - label: A
+          text: 8 tekens.
+        - label: B
+          text: 10 tekens.
+        - label: C
+          text: 12 tekens.
+      correct_answer: B
+    - questiontext: Wat moet een sterk wachtwoord bevatten?
+      options:
+        - label: A
+          text: Alleen kleine letters.
+        - label: B
+          text: Hoofdletters, kleine letters, cijfers en speciale tekens.
+        - label: C
+          text: Alleen cijfers.
+      correct_answer: C
 - id: 99
   title: Tandarts spoedafspraak
   difficulty: medium
-  text: 'Youssef heeft plotseling veel pijn aan zijn tand. Het is woensdagmiddag en
-    hij belt de tandarts. De assistent zegt: "Wij hebben vandaag geen plek meer, maar
-    u kunt terecht bij de spoeddienst. Het telefoonnummer is 0900-123 45 67. De spoeddienst
-    is open tot 22.00 uur. Een spoedbehandeling kost € 35 als u geen verzekering heeft."
-    Youssef belt de spoeddienst en maakt een afspraak voor vanavond.
-
-    '
+  text: >-
+    Youssef heeft plotseling veel pijn aan zijn tand. Het is woensdagmiddag en hij belt de tandarts. De assistent zegt:
+    "Wij hebben vandaag geen plek meer, maar u kunt terecht bij de spoeddienst. Het telefoonnummer is 0900-123 45 67. De
+    spoeddienst is open tot 22.00 uur. Een spoedbehandeling kost € 35 als u geen verzekering heeft." Youssef belt de
+    spoeddienst en maakt een afspraak voor vanavond.
+     Omdat de tandarts dicht is. Tot 20.00 uur.
   questions:
-  - questiontext: Waarom kan Youssef niet naar zijn eigen tandarts?
-    options:
-    - label: A
-      text: Omdat de tandarts dicht is.
-    - label: B
-      text: Omdat er vandaag geen plek meer is.
-    - label: C
-      text: Omdat de tandarts op vakantie is.
-    correct_answer: A
-  - questiontext: Tot hoe laat is de spoeddienst open?
-    options:
-    - label: A
-      text: Tot 18.00 uur.
-    - label: B
-      text: Tot 20.00 uur.
-    - label: C
-      text: Tot 22.00 uur.
-    correct_answer: B
+    - questiontext: Waarom kan Youssef niet naar zijn eigen tandarts?
+      options:
+        - label: A
+          text: Omdat de tandarts dicht is.
+        - label: B
+          text: Omdat er vandaag geen plek meer is.
+        - label: C
+          text: Omdat de tandarts op vakantie is.
+      correct_answer: A
+    - questiontext: Tot hoe laat is de spoeddienst open?
+      options:
+        - label: A
+          text: Tot 18.00 uur.
+        - label: B
+          text: Tot 20.00 uur.
+        - label: C
+          text: Tot 22.00 uur.
+      correct_answer: B
 - id: 100
   title: Klacht indienen bij webshop
   difficulty: medium
-  text: 'Karim bestelt een telefoonhoesje online. Het hoort binnen drie dagen te komen,
-    maar na een week is er nog niets. Karim stuurt een e-mail naar de webshop: "Ik
-    heb op 1 maart besteld, maar mijn bestelling is niet aangekomen. Graag hoor ik
-    wanneer ik mijn bestelling ontvang." De webshop antwoordt na twee dagen: "Onze
-    excuses. Uw bestelling is onderweg en komt morgen." Karim wacht nog een dag, maar
-    er komt niets. Hij stuurt een klacht via het contactformulier op de website.
-
-    '
+  text: >-
+    Karim bestelt een telefoonhoesje online. Het hoort binnen drie dagen te komen, maar na een week is er nog niets.
+    Karim stuurt een e-mail naar de webshop: "Ik heb op 1 maart besteld, maar mijn bestelling is niet aangekomen. Graag
+    hoor ik wanneer ik mijn bestelling ontvang." De webshop antwoordt na twee dagen: "Onze excuses. Uw bestelling is
+    onderweg en komt morgen." Karim wacht nog een dag, maar er komt niets. Hij stuurt een klacht via het
+    contactformulier op de website.
+     Eén dag.
   questions:
-  - questiontext: Wanneer heeft Karim besteld?
-    options:
-    - label: A
-      text: Op 1 maart.
-    - label: B
-      text: Op 3 maart.
-    - label: C
-      text: Op 8 maart.
-    correct_answer: C
-  - questiontext: Hoelang wacht de webshop met antwoorden?
-    options:
-    - label: A
-      text: Eén dag.
-    - label: B
-      text: Twee dagen.
-    - label: C
-      text: Drie dagen.
-    correct_answer: A
-  - questiontext: Wat doet Karim als er nog niets komt?
-    options:
-    - label: A
-      text: Hij belt de webshop.
-    - label: B
-      text: Hij stuurt een klacht via het contactformulier.
-    - label: C
-      text: Hij annuleert de bestelling.
-    correct_answer: B
+    - questiontext: Wanneer heeft Karim besteld?
+      options:
+        - label: A
+          text: Op 1 maart.
+        - label: B
+          text: Op 3 maart.
+        - label: C
+          text: Op 8 maart.
+      correct_answer: C
+    - questiontext: Hoelang wacht de webshop met antwoorden?
+      options:
+        - label: A
+          text: Eén dag.
+        - label: B
+          text: Twee dagen.
+        - label: C
+          text: Drie dagen.
+      correct_answer: A
+    - questiontext: Wat doet Karim als er nog niets komt?
+      options:
+        - label: A
+          text: Hij belt de webshop.
+        - label: B
+          text: Hij stuurt een klacht via het contactformulier.
+        - label: C
+          text: Hij annuleert de bestelling.
+      correct_answer: B
 - id: 101
   title: Wifi thuis instellen
   difficulty: medium
-  text: 'Fatima heeft een nieuwe router voor wifi thuis. Ze leest de handleiding.
-    Stap 1: sluit de router aan op het stopcontact en de internetkabel. Stap 2: wacht
-    twee minuten tot het lampje groen is. Stap 3: zoek op je telefoon naar het wifi-netwerk.
-    De naam staat op de onderkant van de router. Stap 4: vul het wachtwoord in dat
-    ook op de router staat. Stap 5: test of internet werkt door een website te openen.
-
-    '
+  text: >-
+    Fatima heeft een nieuwe router voor wifi thuis. Ze leest de handleiding. Stap 1: sluit de router aan op het
+    stopcontact en de internetkabel. Stap 2: wacht twee minuten tot het lampje groen is. Stap 3: zoek op je telefoon
+    naar het wifi-netwerk. De naam staat op de onderkant van de router. Stap 4: vul het wachtwoord in dat ook op de
+    router staat. Stap 5: test of internet werkt door een website te openen.
+     Het wachtwoord invullen.
   questions:
-  - questiontext: Wat moet je doen in stap 2?
-    options:
-    - label: A
-      text: De router aanzetten.
-    - label: B
-      text: Wachten tot het lampje groen is.
-    - label: C
-      text: Het wachtwoord invullen.
-    correct_answer: C
-  - questiontext: Waar staat de naam van het wifi-netwerk?
-    options:
-    - label: A
-      text: In de handleiding.
-    - label: B
-      text: Op de onderkant van de router.
-    - label: C
-      text: Op de website van de provider.
-    correct_answer: A
-  - questiontext: Hoe test je of internet werkt?
-    options:
-    - label: A
-      text: Door de router uit en aan te zetten.
-    - label: B
-      text: Door een website te openen.
-    - label: C
-      text: Door het lampje te controleren.
-    correct_answer: B
+    - questiontext: Wat moet je doen in stap 2?
+      options:
+        - label: A
+          text: De router aanzetten.
+        - label: B
+          text: Wachten tot het lampje groen is.
+        - label: C
+          text: Het wachtwoord invullen.
+      correct_answer: C
+    - questiontext: Waar staat de naam van het wifi-netwerk?
+      options:
+        - label: A
+          text: In de handleiding.
+        - label: B
+          text: Op de onderkant van de router.
+        - label: C
+          text: Op de website van de provider.
+      correct_answer: A
+    - questiontext: Hoe test je of internet werkt?
+      options:
+        - label: A
+          text: Door de router uit en aan te zetten.
+        - label: B
+          text: Door een website te openen.
+        - label: C
+          text: Door het lampje te controleren.
+      correct_answer: B
 - id: 102
   title: Inbraak voorkomen
   difficulty: medium
-  text: 'De politie geeft tips om inbraak te voorkomen. Sluit altijd alle deuren en
-    ramen als je weggaat, ook als je maar even weg bent. Gebruik goedgekeurd hang-
-    en sluitwerk met het SKG-logo. Laat een lamp branden met een tijdschakelaar als
-    je ''s avonds weg bent. Vraag de buren om op je huis te letten. Zet geen ladder
-    of vuilnisbak buiten, daar kunnen inbrekers mee bij het raam komen.
-
-    '
+  text: >-
+    De politie geeft tips om inbraak te voorkomen. Sluit altijd alle deuren en ramen als je weggaat, ook als je maar
+    even weg bent. Gebruik goedgekeurd hang- en sluitwerk met het SKG-logo. Laat een lamp branden met een tijdschakelaar
+    als je 's avonds weg bent. Vraag de buren om op je huis te letten. Zet geen ladder of vuilnisbak buiten, daar kunnen
+    inbrekers mee bij het raam komen.
+     De ramen open laten voor frisse lucht. Dat het goedkoop is. Omdat inbrekers de ladder kunnen gebruiken.
   questions:
-  - questiontext: Wat moet je doen als je weggaat?
-    options:
-    - label: A
-      text: Alleen de voordeur sluiten.
-    - label: B
-      text: Alle deuren en ramen sluiten.
-    - label: C
-      text: De ramen open laten voor frisse lucht.
-    correct_answer: C
-  - questiontext: Wat betekent het SKG-logo?
-    options:
-    - label: A
-      text: Dat het goedkoop is.
-    - label: B
-      text: Dat het goedgekeurd hang- en sluitwerk is.
-    - label: C
-      text: Dat het mooi is.
-    correct_answer: A
-  - questiontext: Waarom moet je geen ladder buiten zetten?
-    options:
-    - label: A
-      text: Omdat de ladder dan nat wordt.
-    - label: B
-      text: Omdat inbrekers de ladder kunnen gebruiken.
-    - label: C
-      text: Omdat de buren dat niet mooi vinden.
-    correct_answer: B
+    - questiontext: Wat moet je doen als je weggaat?
+      options:
+        - label: A
+          text: Alleen de voordeur sluiten.
+        - label: B
+          text: Alle deuren en ramen sluiten.
+        - label: C
+          text: De ramen open laten voor frisse lucht.
+      correct_answer: C
+    - questiontext: Wat betekent het SKG-logo?
+      options:
+        - label: A
+          text: Dat het goedkoop is.
+        - label: B
+          text: Dat het goedgekeurd hang- en sluitwerk is.
+        - label: C
+          text: Dat het mooi is.
+      correct_answer: A
+    - questiontext: Waarom moet je geen ladder buiten zetten?
+      options:
+        - label: A
+          text: Omdat de ladder dan nat wordt.
+        - label: B
+          text: Omdat inbrekers de ladder kunnen gebruiken.
+        - label: C
+          text: Omdat de buren dat niet mooi vinden.
+      correct_answer: B
 - id: 103
   title: Hardloopevenement inschrijven
   difficulty: medium
-  text: 'Op 15 juni is er een hardloopevenement in het park. Je kunt kiezen uit drie
-    afstanden: 5 kilometer, 10 kilometer of 15 kilometer. Inschrijven kost € 12 voor
-    de 5 km, € 15 voor de 10 km en € 18 voor de 15 km. Studenten krijgen 20% korting.
-    Inschrijven kan tot 10 juni op www.hardlopeninhetpark.nl. Op de dag zelf kun je
-    ook inschrijven, maar dan betaal je € 3 extra.
-
-    '
+  text: >-
+    Op 15 juni is er een hardloopevenement in het park. Je kunt kiezen uit drie afstanden: 5 kilometer, 10 kilometer of
+    15 kilometer. Inschrijven kost € 12 voor de 5 km, € 15 voor de 10 km en € 18 voor de 15 km. Studenten krijgen 20%
+    korting. Inschrijven kan tot 10 juni op www.hardlopeninhetpark.nl. Op de dag zelf kun je ook inschrijven, maar dan
+    betaal je € 3 extra.
+     Vier. Je betaalt € 3 extra.
   questions:
-  - questiontext: Hoeveel afstanden kun je kiezen?
-    options:
-    - label: A
-      text: Twee.
-    - label: B
-      text: Drie.
-    - label: C
-      text: Vier.
-    correct_answer: C
-  - questiontext: Hoeveel betaalt een student voor de 10 km?
-    options:
-    - label: A
-      text: € 12.
-    - label: B
-      text: € 15.
-    - label: C
-      text: € 18.
-    correct_answer: A
-  - questiontext: Wat gebeurt er als je op de dag zelf inschrijft?
-    options:
-    - label: A
-      text: Je krijgt korting.
-    - label: B
-      text: Je betaalt € 3 extra.
-    - label: C
-      text: Je kunt alleen de 5 km lopen.
-    correct_answer: B
+    - questiontext: Hoeveel afstanden kun je kiezen?
+      options:
+        - label: A
+          text: Twee.
+        - label: B
+          text: Drie.
+        - label: C
+          text: Vier.
+      correct_answer: C
+    - questiontext: Hoeveel betaalt een student voor de 10 km?
+      options:
+        - label: A
+          text: € 12.
+        - label: B
+          text: € 15.
+        - label: C
+          text: € 18.
+      correct_answer: A
+    - questiontext: Wat gebeurt er als je op de dag zelf inschrijft?
+      options:
+        - label: A
+          text: Je krijgt korting.
+        - label: B
+          text: Je betaalt € 3 extra.
+        - label: C
+          text: Je kunt alleen de 5 km lopen.
+      correct_answer: B
 - id: 104
   title: Lekkage melden bij woningbouw
   difficulty: medium
-  text: 'In de keuken druppelt water uit het plafond. Maria belt de woningbouwvereniging.
-    Het telefoonnummer voor reparaties is 088-200 30 40, bereikbaar van maandag tot
-    vrijdag van 08.00 tot 17.00 uur. Maria vertelt over de lekkage. De medewerker
-    zegt: "Wij sturen morgen een monteur. Hij komt tussen 09.00 en 12.00 uur. Zorg
-    dat iemand thuis is." Maria noteert de afspraak en wacht op de monteur.
-
-    '
+  text: >-
+    In de keuken druppelt water uit het plafond. Maria belt de woningbouwvereniging. Het telefoonnummer voor reparaties
+    is 088-200 30 40, bereikbaar van maandag tot vrijdag van 08.00 tot 17.00 uur. Maria vertelt over de lekkage. De
+    medewerker zegt: "Wij sturen morgen een monteur. Hij komt tussen 09.00 en 12.00 uur. Zorg dat iemand thuis is."
+    Maria noteert de afspraak en wacht op de monteur.
+     Om te klagen over de buren. Vandaag tussen 09.00 en 12.00 uur. Zorgen dat iemand thuis is.
   questions:
-  - questiontext: Waarom belt Maria de woningbouw?
-    options:
-    - label: A
-      text: Om huur te betalen.
-    - label: B
-      text: Om een lekkage te melden.
-    - label: C
-      text: Om te klagen over de buren.
-    correct_answer: C
-  - questiontext: Wanneer komt de monteur?
-    options:
-    - label: A
-      text: Vandaag tussen 09.00 en 12.00 uur.
-    - label: B
-      text: Morgen tussen 09.00 en 12.00 uur.
-    - label: C
-      text: Morgen tussen 13.00 en 17.00 uur.
-    correct_answer: A
-  - questiontext: Wat moet Maria doen op het moment dat de monteur komt?
-    options:
-    - label: A
-      text: Niets, de monteur komt vanzelf.
-    - label: B
-      text: Zorgen dat iemand thuis is.
-    - label: C
-      text: Zelf de lekkage repareren.
-    correct_answer: B
+    - questiontext: Waarom belt Maria de woningbouw?
+      options:
+        - label: A
+          text: Om huur te betalen.
+        - label: B
+          text: Om een lekkage te melden.
+        - label: C
+          text: Om te klagen over de buren.
+      correct_answer: C
+    - questiontext: Wanneer komt de monteur?
+      options:
+        - label: A
+          text: Vandaag tussen 09.00 en 12.00 uur.
+        - label: B
+          text: Morgen tussen 09.00 en 12.00 uur.
+        - label: C
+          text: Morgen tussen 13.00 en 17.00 uur.
+      correct_answer: A
+    - questiontext: Wat moet Maria doen op het moment dat de monteur komt?
+      options:
+        - label: A
+          text: Niets, de monteur komt vanzelf.
+        - label: B
+          text: Zorgen dat iemand thuis is.
+        - label: C
+          text: Zelf de lekkage repareren.
+      correct_answer: B
 - id: 105
   title: 'Phishing mail herkennen: subtiele signalen'
   difficulty: hard
-  text: 'Ali krijgt een e-mail die lijkt van zijn bank te komen. De mail zegt dat
-    zijn rekening is geblokkeerd en hij moet snel zijn gegevens controleren. Er staat
-    een link in de mail. Ali twijfelt. Hij kijkt goed naar het e-mailadres: het is
-    info@bank-nederland.nl, niet @abn.nl of @ing.nl. De mail zegt ook: "U moet binnen
-    24 uur reageren, anders wordt uw rekening permanent geblokkeerd." Ali weet dat
-    echte banken nooit zo''n druk uitoefenen. Hij klikt niet op de link, maar gaat
-    zelf naar de website van zijn bank door het adres in te typen. Daar ziet hij dat
-    er geen probleem is.
-
-    '
+  text: >
+    Ali krijgt een e-mail die lijkt van zijn bank te komen. De mail zegt dat zijn rekening is geblokkeerd en hij moet
+    snel zijn gegevens controleren. Er staat een link in de mail. Ali twijfelt. Hij kijkt goed naar het e-mailadres: het
+    is info@bank-nederland.nl, niet @abn.nl of @ing.nl. De mail zegt ook: "U moet binnen 24 uur reageren, anders wordt
+    uw rekening permanent geblokkeerd." Ali weet dat echte banken nooit zo'n druk uitoefenen. Hij klikt niet op de link,
+    maar gaat zelf naar de website van zijn bank door het adres in te typen. Daar ziet hij dat er geen probleem is.
   questions:
-  - questiontext: Waarom is deze e-mail waarschijnlijk phishing?
-    options:
-    - label: A
-      text: Omdat de bank nooit e-mails stuurt.
-    - label: B
-      text: Omdat het e-mailadres niet van de echte bank is en er druk wordt uitgeoefend.
-    - label: C
-      text: Omdat er een spelfout in de e-mail staat.
-    - label: D
-      text: Omdat Ali geen rekening bij deze bank heeft.
-    correct_answer: C
-  - questiontext: Wat doet Ali in plaats van op de link klikken?
-    options:
-    - label: A
-      text: Hij verwijdert de mail.
-    - label: B
-      text: Hij belt de bank.
-    - label: C
-      text: Hij gaat zelf naar de website van zijn bank.
-    - label: D
-      text: Hij stuurt de mail door naar een vriend.
-    correct_answer: A
-  - questiontext: Wat is de hoofdboodschap van deze tekst?
-    options:
-    - label: A
-      text: Wees voorzichtig met online activiteiten.
-    - label: B
-      text: Lees altijd de voorwaarden.
-    - label: C
-      text: Bel altijd de klantenservice.
-    - label: D
-      text: Bewaar alle bonnen.
-    correct_answer: B
+    - questiontext: Waarom is deze e-mail waarschijnlijk phishing?
+      options:
+        - label: A
+          text: Omdat de bank nooit e-mails stuurt.
+        - label: B
+          text: Omdat het e-mailadres niet van de echte bank is en er druk wordt uitgeoefend.
+        - label: C
+          text: Omdat er een spelfout in de e-mail staat.
+        - label: D
+          text: Omdat Ali geen rekening bij deze bank heeft.
+      correct_answer: C
+    - questiontext: Wat doet Ali in plaats van op de link klikken?
+      options:
+        - label: A
+          text: Hij verwijdert de mail.
+        - label: B
+          text: Hij belt de bank.
+        - label: C
+          text: Hij gaat zelf naar de website van zijn bank.
+        - label: D
+          text: Hij stuurt de mail door naar een vriend.
+      correct_answer: A
+    - questiontext: Wat is de hoofdboodschap van deze tekst?
+      options:
+        - label: A
+          text: Wees voorzichtig met online activiteiten.
+        - label: B
+          text: Lees altijd de voorwaarden.
+        - label: C
+          text: Bel altijd de klantenservice.
+        - label: D
+          text: Bewaar alle bonnen.
+      correct_answer: B
 - id: 106
   title: 'Consumentenbond: klacht indienen'
   difficulty: hard
-  text: 'Fatima koopt een wasmachine van € 500. Na drie maanden gaat de machine kapot.
-    Ze belt de winkel, maar de verkoper zegt: "U moet maar naar de fabrikant bellen."
-    Fatima is niet tevreden. Ze raadpleegt de Consumentenbond. Daar leest ze: "Volgens
-    de wet is de verkoper verantwoordelijk voor garantie, niet de fabrikant." Fatima
-    stuurt een brief naar de winkel waarin ze verwijst naar de wet. De winkel biedt
-    aan de wasmachine gratis te repareren. Als de winkel dat niet had gedaan, kon
-    Fatima naar de Geschillencommissie gaan.
-
-    '
+  text: >
+    Fatima koopt een wasmachine van € 500. Na drie maanden gaat de machine kapot. Ze belt de winkel, maar de verkoper
+    zegt: "U moet maar naar de fabrikant bellen." Fatima is niet tevreden. Ze raadpleegt de Consumentenbond. Daar leest
+    ze: "Volgens de wet is de verkoper verantwoordelijk voor garantie, niet de fabrikant." Fatima stuurt een brief naar
+    de winkel waarin ze verwijst naar de wet. De winkel biedt aan de wasmachine gratis te repareren. Als de winkel dat
+    niet had gedaan, kon Fatima naar de Geschillencommissie gaan.
   questions:
-  - questiontext: Wie is volgens de wet verantwoordelijk voor garantie?
-    options:
-    - label: A
-      text: De fabrikant.
-    - label: B
-      text: De verkoper.
-    - label: C
-      text: De Consumentenbond.
-    - label: D
-      text: De klant zelf.
-    correct_answer: C
-  - questiontext: Wat doet Fatima als de winkel niet wil helpen?
-    options:
-    - label: A
-      text: Ze koopt een nieuwe wasmachine.
-    - label: B
-      text: Ze belt de fabrikant.
-    - label: C
-      text: Ze kan naar de Geschillencommissie gaan.
-    - label: D
-      text: Ze doet niets.
-    correct_answer: A
+    - questiontext: Wie is volgens de wet verantwoordelijk voor garantie?
+      options:
+        - label: A
+          text: De fabrikant.
+        - label: B
+          text: De verkoper.
+        - label: C
+          text: De Consumentenbond.
+        - label: D
+          text: De klant zelf.
+      correct_answer: C
+    - questiontext: Wat doet Fatima als de winkel niet wil helpen?
+      options:
+        - label: A
+          text: Ze koopt een nieuwe wasmachine.
+        - label: B
+          text: Ze belt de fabrikant.
+        - label: C
+          text: Ze kan naar de Geschillencommissie gaan.
+        - label: D
+          text: Ze doet niets.
+      correct_answer: A
 - id: 107
   title: 'Online bestellen: retourbeleid'
   difficulty: hard
-  text: 'Karim bestelt een laptop online van € 800. Hij krijgt de laptop thuis en
-    ziet dat het toetsenbord niet prettig typt. Hij wil de laptop retourneren. Op
-    de website staat: "U heeft 14 dagen bedenktijd. De laptop moet in originele verpakking
-    retour komen. De kosten voor retourzending zijn voor uw rekening." Karim stuurt
-    de laptop terug met PostNL. De kosten zijn € 15. Na een week krijgt hij zijn geld
-    terug: € 800. De retourkosten van € 15 krijgt hij niet terug. Karim is tevreden,
-    want hij heeft nu een andere laptop gekocht die wel goed werkt.
-
-    '
+  text: >
+    Karim bestelt een laptop online van € 800. Hij krijgt de laptop thuis en ziet dat het toetsenbord niet prettig typt.
+    Hij wil de laptop retourneren. Op de website staat: "U heeft 14 dagen bedenktijd. De laptop moet in originele
+    verpakking retour komen. De kosten voor retourzending zijn voor uw rekening." Karim stuurt de laptop terug met
+    PostNL. De kosten zijn € 15. Na een week krijgt hij zijn geld terug: € 800. De retourkosten van € 15 krijgt hij niet
+    terug. Karim is tevreden, want hij heeft nu een andere laptop gekocht die wel goed werkt.
   questions:
-  - questiontext: Hoeveel dagen bedenktijd heeft Karim?
-    options:
-    - label: A
-      text: 7 dagen.
-    - label: B
-      text: 14 dagen.
-    - label: C
-      text: 30 dagen.
-    - label: D
-      text: 60 dagen.
-    correct_answer: B
-  - questiontext: Wat krijgt Karim terug na retourname?
-    options:
-    - label: A
-      text: € 800 en de retourkosten.
-    - label: B
-      text: Alleen € 800.
-    - label: C
-      text: € 785.
-    - label: D
-      text: Niets.
-    correct_answer: C
+    - questiontext: Hoeveel dagen bedenktijd heeft Karim?
+      options:
+        - label: A
+          text: 7 dagen.
+        - label: B
+          text: 14 dagen.
+        - label: C
+          text: 30 dagen.
+        - label: D
+          text: 60 dagen.
+      correct_answer: B
+    - questiontext: Wat krijgt Karim terug na retourname?
+      options:
+        - label: A
+          text: € 800 en de retourkosten.
+        - label: B
+          text: Alleen € 800.
+        - label: C
+          text: € 785.
+        - label: D
+          text: Niets.
+      correct_answer: C
 - id: 108
   title: 'Tweefactorauthenticatie: hoe het werkt'
   difficulty: hard
-  text: 'Tweefactorauthenticatie (2FA) maakt inloggen veiliger. Je hebt dan twee dingen
-    nodig: iets dat je weet (je wachtwoord) en iets dat je hebt (je telefoon). Na
-    het invullen van je wachtwoord krijg je een code via sms of een app. Zelfs als
-    iemand je wachtwoord steelt, kan hij niet inloggen zonder je telefoon. Je kunt
-    2FA instellen bij de beveiligingsinstellingen van je account. Kies voor een app
-    in plaats van sms, want apps zijn veiliger. Sms''jes kunnen onderschept worden.
-    Bewaar je herstelcodes goed voor het geval je je telefoon kwijtraakt.
-
-    '
+  text: >
+    Tweefactorauthenticatie (2FA) maakt inloggen veiliger. Je hebt dan twee dingen nodig: iets dat je weet (je
+    wachtwoord) en iets dat je hebt (je telefoon). Na het invullen van je wachtwoord krijg je een code via sms of een
+    app. Zelfs als iemand je wachtwoord steelt, kan hij niet inloggen zonder je telefoon. Je kunt 2FA instellen bij de
+    beveiligingsinstellingen van je account. Kies voor een app in plaats van sms, want apps zijn veiliger. Sms'jes
+    kunnen onderschept worden. Bewaar je herstelcodes goed voor het geval je je telefoon kwijtraakt.
   questions:
-  - questiontext: Wat zijn de twee factoren bij 2FA?
-    options:
-    - label: A
-      text: Twee wachtwoorden.
-    - label: B
-      text: Iets dat je weet en iets dat je hebt.
-    - label: C
-      text: Je naam en geboortedatum.
-    - label: D
-      text: Je e-mailadres en telefoonnummer.
-    correct_answer: A
-  - questiontext: Waarom is een app veiliger dan sms?
-    options:
-    - label: A
-      text: Omdat een app sneller is.
-    - label: B
-      text: Omdat sms'jes onderschept kunnen worden.
-    - label: C
-      text: Omdat een app gratis is.
-    - label: D
-      text: Omdat een app mooier is.
-    correct_answer: B
+    - questiontext: Wat zijn de twee factoren bij 2FA?
+      options:
+        - label: A
+          text: Twee wachtwoorden.
+        - label: B
+          text: Iets dat je weet en iets dat je hebt.
+        - label: C
+          text: Je naam en geboortedatum.
+        - label: D
+          text: Je e-mailadres en telefoonnummer.
+      correct_answer: A
+    - questiontext: Waarom is een app veiliger dan sms?
+      options:
+        - label: A
+          text: Omdat een app sneller is.
+        - label: B
+          text: Omdat sms'jes onderschept kunnen worden.
+        - label: C
+          text: Omdat een app gratis is.
+        - label: D
+          text: Omdat een app mooier is.
+      correct_answer: B
 - id: 109
   title: 'Huisartsenpost: wanneer bellen?'
   difficulty: hard
-  text: 'De huisartsenpost is er voor spoedgevallen buiten kantoortijden. Je belt
-    de huisartsenpost als je ''s avonds, ''s nachts of in het weekend dringend een
-    huisarts nodig hebt. Bijvoorbeeld bij hoge koorts die niet zakt, ernstige pijn
-    of een wond die niet stopt met bloeden. De huisartsenpost is niet voor gewone
-    zaken zoals een verkoudheid of een herhaalrecept. Daarvoor kun je wachten tot
-    de huisarts weer open is. Als je belt, vraagt de assistent naar je klachten. Soms
-    moet je naar de post komen, soms geeft de assistent advies per telefoon.
-
-    '
+  text: >
+    De huisartsenpost is er voor spoedgevallen buiten kantoortijden. Je belt de huisartsenpost als je 's avonds, 's
+    nachts of in het weekend dringend een huisarts nodig hebt. Bijvoorbeeld bij hoge koorts die niet zakt, ernstige pijn
+    of een wond die niet stopt met bloeden. De huisartsenpost is niet voor gewone zaken zoals een verkoudheid of een
+    herhaalrecept. Daarvoor kun je wachten tot de huisarts weer open is. Als je belt, vraagt de assistent naar je
+    klachten. Soms moet je naar de post komen, soms geeft de assistent advies per telefoon.
   questions:
-  - questiontext: Wanneer bel je de huisartsenpost?
-    options:
-    - label: A
-      text: Voor een herhaalrecept.
-    - label: B
-      text: Voor een gewone verkoudheid.
-    - label: C
-      text: Bij spoedgevallen buiten kantoortijden.
-    - label: D
-      text: Om een afspraak te maken voor volgende week.
-    correct_answer: C
-  - questiontext: Wat is GEEN reden om de huisartsenpost te bellen?
-    options:
-    - label: A
-      text: Hoge koorts die niet zakt.
-    - label: B
-      text: Een wond die niet stopt met bloeden.
-    - label: C
-      text: Een verkoudheid.
-    - label: D
-      text: Ernstige pijn.
-    correct_answer: A
+    - questiontext: Wanneer bel je de huisartsenpost?
+      options:
+        - label: A
+          text: Voor een herhaalrecept.
+        - label: B
+          text: Voor een gewone verkoudheid.
+        - label: C
+          text: Bij spoedgevallen buiten kantoortijden.
+        - label: D
+          text: Om een afspraak te maken voor volgende week.
+      correct_answer: C
+    - questiontext: Wat is GEEN reden om de huisartsenpost te bellen?
+      options:
+        - label: A
+          text: Hoge koorts die niet zakt.
+        - label: B
+          text: Een wond die niet stopt met bloeden.
+        - label: C
+          text: Een verkoudheid.
+        - label: D
+          text: Ernstige pijn.
+      correct_answer: A
 - id: 110
   title: 'Koop op afstand: uitzonderingen'
   difficulty: hard
-  text: 'Bij koop op afstand heb je 14 dagen bedenktijd, maar er zijn uitzonderingen.
-    Je kunt bijvoorbeeld geen tickets voor concerten of vliegtuigmaatschappijen retourneren.
-    Ook bederfelijke producten zoals voedsel kun je niet terugsturen. Producten die
-    speciaal voor jou zijn gemaakt, zoals een trui met jouw naam erop, vallen ook
-    buiten het retourrecht. Digitale inhoud zoals muziek of software kun je niet retourneren
-    als je het al hebt gedownload. Lees altijd de voorwaarden voordat je iets koopt.
-
-    '
+  text: >
+    Bij koop op afstand heb je 14 dagen bedenktijd, maar er zijn uitzonderingen. Je kunt bijvoorbeeld geen tickets voor
+    concerten of vliegtuigmaatschappijen retourneren. Ook bederfelijke producten zoals voedsel kun je niet terugsturen.
+    Producten die speciaal voor jou zijn gemaakt, zoals een trui met jouw naam erop, vallen ook buiten het retourrecht.
+    Digitale inhoud zoals muziek of software kun je niet retourneren als je het al hebt gedownload. Lees altijd de
+    voorwaarden voordat je iets koopt.
   questions:
-  - questiontext: Welk product kun je NIET retourneren?
-    options:
-    - label: A
-      text: Een trui.
-    - label: B
-      text: Een ticket voor een concert.
-    - label: C
-      text: Een boek.
-    - label: D
-      text: Een laptop.
-    correct_answer: B
-  - questiontext: Waarom kun je bederfelijke producten niet retourneren?
-    options:
-    - label: A
-      text: Omdat ze te zwaar zijn.
-    - label: B
-      text: Omdat ze snel bederven.
-    - label: C
-      text: Omdat ze te goedkoop zijn.
-    - label: D
-      text: Omdat ze niet in de verpakking zitten.
-    correct_answer: C
+    - questiontext: Welk product kun je NIET retourneren?
+      options:
+        - label: A
+          text: Een trui.
+        - label: B
+          text: Een ticket voor een concert.
+        - label: C
+          text: Een boek.
+        - label: D
+          text: Een laptop.
+      correct_answer: B
+    - questiontext: Waarom kun je bederfelijke producten niet retourneren?
+      options:
+        - label: A
+          text: Omdat ze te zwaar zijn.
+        - label: B
+          text: Omdat ze snel bederven.
+        - label: C
+          text: Omdat ze te goedkoop zijn.
+        - label: D
+          text: Omdat ze niet in de verpakking zitten.
+      correct_answer: C
 - id: 111
   title: Brandveiligheid in huis
   difficulty: hard
-  text: 'Om brand te voorkomen, zijn er belangrijke regels. Rook niet in bed en zorg
-    dat sigaretten goed uit zijn. Laat kaarsen nooit onbebrand achter. Controleer
-    elektrische apparaten op beschadigde snoeren. Hang een brandmelder op elke verdieping
-    en test deze maandelijks. Maak een vluchtplan: weet hoe je het huis kunt verlaten
-    als er brand is. Oefen het plan met je gezin. Als er brand is: voel eerst of de
-    deur warm is voordat je hem opent. Als de deur warm is, is er brand aan de andere
-    kant. Gebruik dan een andere uitgang.
-
-    '
+  text: >
+    Om brand te voorkomen, zijn er belangrijke regels. Rook niet in bed en zorg dat sigaretten goed uit zijn. Laat
+    kaarsen nooit onbebrand achter. Controleer elektrische apparaten op beschadigde snoeren. Hang een brandmelder op
+    elke verdieping en test deze maandelijks. Maak een vluchtplan: weet hoe je het huis kunt verlaten als er brand is.
+    Oefen het plan met je gezin. Als er brand is: voel eerst of de deur warm is voordat je hem opent. Als de deur warm
+    is, is er brand aan de andere kant. Gebruik dan een andere uitgang.
   questions:
-  - questiontext: Wat moet je doen met kaarsen?
-    options:
-    - label: A
-      text: Ze onbebrand laten.
-    - label: B
-      text: Ze nooit onbebrand laten.
-    - label: C
-      text: Ze in bed zetten.
-    - label: D
-      text: Ze elke dag aansteken.
-    correct_answer: A
-  - questiontext: Hoe vaak moet je een brandmelder testen?
-    options:
-    - label: A
-      text: Elke week.
-    - label: B
-      text: Elke maand.
-    - label: C
-      text: Elk jaar.
-    - label: D
-      text: Nooit.
-    correct_answer: B
+    - questiontext: Wat moet je doen met kaarsen?
+      options:
+        - label: A
+          text: Ze onbebrand laten.
+        - label: B
+          text: Ze nooit onbebrand laten.
+        - label: C
+          text: Ze in bed zetten.
+        - label: D
+          text: Ze elke dag aansteken.
+      correct_answer: A
+    - questiontext: Hoe vaak moet je een brandmelder testen?
+      options:
+        - label: A
+          text: Elke week.
+        - label: B
+          text: Elke maand.
+        - label: C
+          text: Elk jaar.
+        - label: D
+          text: Nooit.
+      correct_answer: B
 - id: 112
   title: 'Internetbankieren: veiligheidsregels'
   difficulty: hard
-  text: 'Internetbankieren is handig, maar je moet veilig zijn. Gebruik nooit openbare
-    wifi om te bankieren, want die is niet veilig. Gebruik je eigen wifi thuis of
-    mobiele data. Controleer altijd of de website begint met https:// en een slotje
-    heeft. Dat betekent dat de verbinding veilig is. Deel nooit je wachtwoord of codes
-    met anderen, ook niet met de bank. De bank vraagt nooit om je wachtwoord. Gebruik
-    tweefactorauthenticatie voor extra beveiliging. Controleer regelmatig je afschriften
-    op onbekende transacties. Als je iets verdachts ziet, bel meteen je bank.
-
-    '
+  text: >
+    Internetbankieren is handig, maar je moet veilig zijn. Gebruik nooit openbare wifi om te bankieren, want die is niet
+    veilig. Gebruik je eigen wifi thuis of mobiele data. Controleer altijd of de website begint met https:// en een
+    slotje heeft. Dat betekent dat de verbinding veilig is. Deel nooit je wachtwoord of codes met anderen, ook niet met
+    de bank. De bank vraagt nooit om je wachtwoord. Gebruik tweefactorauthenticatie voor extra beveiliging. Controleer
+    regelmatig je afschriften op onbekende transacties. Als je iets verdachts ziet, bel meteen je bank.
   questions:
-  - questiontext: Waarom moet je geen openbare wifi gebruiken om te bankieren?
-    options:
-    - label: A
-      text: Omdat het te langzaam is.
-    - label: B
-      text: Omdat het niet veilig is.
-    - label: C
-      text: Omdat het te duur is.
-    - label: D
-      text: Omdat de bank dat niet toestaat.
-    correct_answer: C
-  - questiontext: Wat betekent https:// en een slotje?
-    options:
-    - label: A
-      text: Dat de website mooi is.
-    - label: B
-      text: Dat de verbinding veilig is.
-    - label: C
-      text: Dat de website snel is.
-    - label: D
-      text: Dat de website gratis is.
-    correct_answer: A
+    - questiontext: Waarom moet je geen openbare wifi gebruiken om te bankieren?
+      options:
+        - label: A
+          text: Omdat het te langzaam is.
+        - label: B
+          text: Omdat het niet veilig is.
+        - label: C
+          text: Omdat het te duur is.
+        - label: D
+          text: Omdat de bank dat niet toestaat.
+      correct_answer: C
+    - questiontext: Wat betekent https:// en een slotje?
+      options:
+        - label: A
+          text: Dat de website mooi is.
+        - label: B
+          text: Dat de verbinding veilig is.
+        - label: C
+          text: Dat de website snel is.
+        - label: D
+          text: Dat de website gratis is.
+      correct_answer: A
 - id: 113
   title: 'Garantie claimen: bewijslast'
   difficulty: hard
-  text: 'Als je garantie wilt claimen, moet je kunnen bewijzen dat je het product
-    hebt gekocht. Bewaar daarom altijd de bon of het aankoopbewijs. Zonder bon kan
-    de winkel weigeren om het product te repareren of vervangen. Sommige winkels bieden
-    een digitale bon aan via e-mail. Dat is ook geldig als bewijs. Als je de bon kwijt
-    bent, kun je proberen om het aankoopbewijs op te vragen bij je bank via je afschriften.
-    De winkel kan dan zien dat je iets hebt gekocht, maar ze zijn niet verplicht om
-    dat te accepteren.
-
-    '
+  text: >
+    Als je garantie wilt claimen, moet je kunnen bewijzen dat je het product hebt gekocht. Bewaar daarom altijd de bon
+    of het aankoopbewijs. Zonder bon kan de winkel weigeren om het product te repareren of vervangen. Sommige winkels
+    bieden een digitale bon aan via e-mail. Dat is ook geldig als bewijs. Als je de bon kwijt bent, kun je proberen om
+    het aankoopbewijs op te vragen bij je bank via je afschriften. De winkel kan dan zien dat je iets hebt gekocht, maar
+    ze zijn niet verplicht om dat te accepteren.
   questions:
-  - questiontext: Waarom moet je de bon bewaren?
-    options:
-    - label: A
-      text: Om het product te kunnen gebruiken.
-    - label: B
-      text: Om te bewijzen dat je het product hebt gekocht.
-    - label: C
-      text: Om korting te krijgen.
-    - label: D
-      text: Om het product te kunnen ruilen.
-    correct_answer: B
-  - questiontext: Wat kun je doen als je de bon kwijt bent?
-    options:
-    - label: A
-      text: Niets.
-    - label: B
-      text: Het aankoopbewijs opvragen bij je bank.
-    - label: C
-      text: Een nieuwe bon vragen.
-    - label: D
-      text: Het product terugbrengen zonder bewijs.
-    correct_answer: C
+    - questiontext: Waarom moet je de bon bewaren?
+      options:
+        - label: A
+          text: Om het product te kunnen gebruiken.
+        - label: B
+          text: Om te bewijzen dat je het product hebt gekocht.
+        - label: C
+          text: Om korting te krijgen.
+        - label: D
+          text: Om het product te kunnen ruilen.
+      correct_answer: B
+    - questiontext: Wat kun je doen als je de bon kwijt bent?
+      options:
+        - label: A
+          text: Niets.
+        - label: B
+          text: Het aankoopbewijs opvragen bij je bank.
+        - label: C
+          text: Een nieuwe bon vragen.
+        - label: D
+          text: Het product terugbrengen zonder bewijs.
+      correct_answer: C
