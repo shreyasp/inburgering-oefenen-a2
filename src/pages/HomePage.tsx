@@ -103,15 +103,13 @@ export function HomePage() {
               </div>
             </div>
 
-            {lifetime.attempts > 0 && (
-              <button
-                type="button"
-                onClick={() => { clearAllHistory(); refresh(); }}
-                className="mt-4 text-xs text-gray-400 hover:text-exam-danger transition-colors"
-              >
-                Reset statistieken
-              </button>
-            )}
+            <button
+              type="button"
+              onClick={() => { clearAllHistory(); refresh(); }}
+              className="mt-4 text-xs text-gray-400 hover:text-exam-danger transition-colors"
+            >
+              Reset statistieken
+            </button>
           </div>
           </>
         )}
