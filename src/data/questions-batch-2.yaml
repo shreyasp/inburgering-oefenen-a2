@@ -1,1201 +1,1110 @@
 - id: 31
   title: Vakantie en ziekte op het werk
   difficulty: easy
-  text: 'Fatima werkt bij een supermarkt in Utrecht. Ze heeft recht op 20 vakantiedagen
-    per jaar. In juli wil ze 10 dagen op vakantie naar Marokko. Ze vraagt haar manager,
-    meneer De Vries, om vakantie. Dat mag.
+  text: >
+    Fatima werkt bij een supermarkt in Utrecht. Ze heeft recht op 20 vakantiedagen per jaar. In juli wil ze 10 dagen op
+    vakantie naar Marokko. Ze vraagt haar manager, meneer De Vries, om vakantie. Dat mag.
 
-    Als Fatima ziek is, moet ze zich voor 9:00 uur ''s ochtends ziek melden. Ze belt
-    dan naar het werk. Niet appen, niet mailen, maar bellen. Na drie dagen heeft ze
-    een verklaring van de dokter nodig.
-
-    '
+    Als Fatima ziek is, moet ze zich voor 9:00 uur 's ochtends ziek melden. Ze belt dan naar het werk. Niet appen, niet
+    mailen, maar bellen. Na drie dagen heeft ze een verklaring van de dokter nodig.
   questions:
-  - questiontext: Hoeveel vakantiedagen heeft Fatima per jaar?
-    options:
-    - label: A
-      text: 20 dagen.
-    - label: B
-      text: 10 dagen.
-    - label: C
-      text: 30 dagen.
-    correct_answer: A
-  - questiontext: Hoe moet Fatima zich ziek melden?
-    options:
-    - label: A
-      text: Door te bellen.
-    - label: B
-      text: Per app.
-    - label: C
-      text: Per e-mail.
-    correct_answer: A
-  - questiontext: Wanneer heeft ze een doktersverklaring nodig?
-    options:
-    - label: A
-      text: Na 3 dagen ziekte.
-    - label: B
-      text: Na 1 dag ziekte.
-    - label: C
-      text: Na 5 dagen ziekte.
-    correct_answer: A
+    - questiontext: Hoeveel vakantiedagen heeft Fatima per jaar?
+      options:
+        - label: A
+          text: 20 dagen.
+        - label: B
+          text: 10 dagen.
+        - label: C
+          text: 30 dagen.
+      correct_answer: A
+    - questiontext: Hoe moet Fatima zich ziek melden?
+      options:
+        - label: A
+          text: Door te bellen.
+        - label: B
+          text: Per app.
+        - label: C
+          text: Per e-mail.
+      correct_answer: A
+    - questiontext: Wanneer heeft ze een doktersverklaring nodig?
+      options:
+        - label: A
+          text: Na 3 dagen ziekte.
+        - label: B
+          text: Na 1 dag ziekte.
+        - label: C
+          text: Na 5 dagen ziekte.
+      correct_answer: A
 - id: 34
   title: Kinderbijslag en sparen
   difficulty: easy
-  text: 'Leila heeft twee kinderen: Omar (6 jaar) en Youssef (9 jaar). Ze krijgt kinderbijslag
-    van de SVB. Voor Youssef krijgt ze € 380 per kwartaal en voor Omar € 290 per kwartaal.
-    Het geld komt elke drie maanden op haar rekening.
+  text: >
+    Leila heeft twee kinderen: Omar (6 jaar) en Youssef (9 jaar). Ze krijgt kinderbijslag van de SVB. Voor Youssef
+    krijgt ze € 380 per kwartaal en voor Omar € 290 per kwartaal. Het geld komt elke drie maanden op haar rekening.
 
-    Leila opent ook een spaarrekening voor de kinderen bij de ABN AMRO. De bank geeft
-    2,5% rente per jaar. Ze spaart elke maand € 50 voor hun verjaardagen. Over vijf
-    jaar heeft ze genoeg voor een grote fiets.
-
-    '
+    Leila opent ook een spaarrekening voor de kinderen bij de ABN AMRO. De bank geeft 2,5% rente per jaar. Ze spaart
+    elke maand € 50 voor hun verjaardagen. Over vijf jaar heeft ze genoeg voor een grote fiets.
   questions:
-  - questiontext: Hoeveel kinderbijslag krijgt Leila per kwartaal voor Youssef?
-    options:
-    - label: A
-      text: € 380.
-    - label: B
-      text: € 290.
-    - label: C
-      text: € 500.
-    correct_answer: A
-  - questiontext: Hoe vaak krijgt Leila de kinderbijslag?
-    options:
-    - label: A
-      text: Elke drie maanden.
-    - label: B
-      text: Elke maand.
-    - label: C
-      text: Elke week.
-    correct_answer: A
-  - questiontext: Hoeveel rente geeft de bank per jaar?
-    options:
-    - label: A
-      text: 2,5%.
-    - label: B
-      text: 1,5%.
-    - label: C
-      text: 5%.
-    correct_answer: A
-  - questiontext: Hoeveel spaart Leila elke maand?
-    options:
-    - label: A
-      text: € 30.
-    - label: B
-      text: € 40.
-    - label: C
-      text: € 50.
-    correct_answer: C
+    - questiontext: Hoeveel kinderbijslag krijgt Leila per kwartaal voor Youssef?
+      options:
+        - label: A
+          text: € 380.
+        - label: B
+          text: € 290.
+        - label: C
+          text: € 500.
+      correct_answer: A
+    - questiontext: Hoe vaak krijgt Leila de kinderbijslag?
+      options:
+        - label: A
+          text: Elke drie maanden.
+        - label: B
+          text: Elke maand.
+        - label: C
+          text: Elke week.
+      correct_answer: A
+    - questiontext: Hoeveel rente geeft de bank per jaar?
+      options:
+        - label: A
+          text: 2,5%.
+        - label: B
+          text: 1,5%.
+        - label: C
+          text: 5%.
+      correct_answer: A
+    - questiontext: Hoeveel spaart Leila elke maand?
+      options:
+        - label: A
+          text: € 30.
+        - label: B
+          text: € 40.
+        - label: C
+          text: € 50.
+      correct_answer: C
 - id: 38
   title: Een huurwoning bekijken
   difficulty: easy
-  text: 'Mevrouw El Amrani bekijkt een woning in Den Haag. De huur is € 780 per maand.
-    De verhuurder vraagt een borg van twee maanden huur: € 1.560. Dat geld krijgt
-    ze terug als ze verhuist en het huis in goede staat is.
+  text: >
+    Mevrouw El Amrani bekijkt een woning in Den Haag. De huur is € 780 per maand. De verhuurder vraagt een borg van twee
+    maanden huur: € 1.560. Dat geld krijgt ze terug als ze verhuist en het huis in goede staat is.
 
-    Het huis heeft energielabel C. Dat betekent dat de energiekosten gemiddeld zijn.
-    Label A is het beste en label G is het slechtst. Mevrouw El Amrani vindt het huis
-    netjes. De keuken is van 2018 en de ramen hebben dubbel glas.
-
-    '
+    Het huis heeft energielabel C. Dat betekent dat de energiekosten gemiddeld zijn. Label A is het beste en label G is
+    het slechtst. Mevrouw El Amrani vindt het huis netjes. De keuken is van 2018 en de ramen hebben dubbel glas.
   questions:
-  - questiontext: Hoeveel borg moet mevrouw El Amrani betalen?
-    options:
-    - label: A
-      text: € 1.560.
-    - label: B
-      text: € 780.
-    - label: C
-      text: € 2.000.
-    correct_answer: A
-  - questiontext: Welk energielabel heeft het huis?
-    options:
-    - label: A
-      text: Label C.
-    - label: B
-      text: Label A.
-    - label: C
-      text: Label G.
-    correct_answer: A
-  - questiontext: Welk energielabel is het beste?
-    options:
-    - label: A
-      text: Label A.
-    - label: B
-      text: Label C.
-    - label: C
-      text: Label G.
-    correct_answer: A
-  - questiontext: Wanneer krijgt ze de borg terug?
-    options:
-    - label: A
-      text: Als ze verhuist en het huis goed is.
-    - label: B
-      text: Als ze het huis huurt.
-    - label: C
-      text: Na één jaar.
-    correct_answer: A
+    - questiontext: Hoeveel borg moet mevrouw El Amrani betalen?
+      options:
+        - label: A
+          text: € 1.560.
+        - label: B
+          text: € 780.
+        - label: C
+          text: € 2.000.
+      correct_answer: A
+    - questiontext: Welk energielabel heeft het huis?
+      options:
+        - label: A
+          text: Label C.
+        - label: B
+          text: Label A.
+        - label: C
+          text: Label G.
+      correct_answer: A
+    - questiontext: Welk energielabel is het beste?
+      options:
+        - label: A
+          text: Label A.
+        - label: B
+          text: Label C.
+        - label: C
+          text: Label G.
+      correct_answer: A
+    - questiontext: Wanneer krijgt ze de borg terug?
+      options:
+        - label: A
+          text: Als ze verhuist en het huis goed is.
+        - label: B
+          text: Als ze het huis huurt.
+        - label: C
+          text: Na één jaar.
+      correct_answer: A
 - id: 42
   title: Inschrijving bij woningcorporatie
   difficulty: easy
-  text: 'Khalid zoekt een sociale huurwoning in Rotterdam. Hij schrijft zich in bij
-    woningcorporatie Haven. De inschrijving is gratis. Hij moet 18 jaar of ouder zijn
-    en een inkomen hebben van maximaal € 44.000 per jaar.
+  text: >
+    Khalid zoekt een sociale huurwoning in Rotterdam. Hij schrijft zich in bij woningcorporatie Haven. De inschrijving
+    is gratis. Hij moet 18 jaar of ouder zijn en een inkomen hebben van maximaal € 44.000 per jaar.
 
-    Na inschrijving krijgt Khalid een nummer. Hoe langer hij wacht, hoe hoger zijn
-    nummer. Gemiddeld wacht hij 8 jaar op een woning. Hij reageert elke week op woningen
-    via de website.
-
-    '
+    Na inschrijving krijgt Khalid een nummer. Hoe langer hij wacht, hoe hoger zijn nummer. Gemiddeld wacht hij 8 jaar op
+    een woning. Hij reageert elke week op woningen via de website.
   questions:
-  - questiontext: Wat kost de inschrijving bij woningcorporatie Haven?
-    options:
-    - label: A
-      text: Niets, het is gratis.
-    - label: B
-      text: € 25.
-    - label: C
-      text: € 50.
-    correct_answer: A
-  - questiontext: Hoe lang wacht Khalid gemiddeld op een woning?
-    options:
-    - label: A
-      text: 3 jaar.
-    - label: B
-      text: 5 jaar.
-    - label: C
-      text: 8 jaar.
-    correct_answer: C
+    - questiontext: Wat kost de inschrijving bij woningcorporatie Haven?
+      options:
+        - label: A
+          text: Niets, het is gratis.
+        - label: B
+          text: € 25.
+        - label: C
+          text: € 50.
+      correct_answer: A
+    - questiontext: Hoe lang wacht Khalid gemiddeld op een woning?
+      options:
+        - label: A
+          text: 3 jaar.
+        - label: B
+          text: 5 jaar.
+        - label: C
+          text: 8 jaar.
+      correct_answer: C
 - id: 44
   title: Parkeren in de buurt
   difficulty: easy
-  text: 'Mevrouw Jansen woont in Amsterdam Zuid. Ze heeft een auto maar geen eigen
-    parkeerplek. Ze vraagt een parkeervergunning aan bij de gemeente. De vergunning
-    kost € 150 per jaar. Ze mag dan parkeren in haar eigen buurt.
+  text: >
+    Mevrouw Jansen woont in Amsterdam Zuid. Ze heeft een auto maar geen eigen parkeerplek. Ze vraagt een
+    parkeervergunning aan bij de gemeente. De vergunning kost € 150 per jaar. Ze mag dan parkeren in haar eigen buurt.
 
-    Bezoekers die haar komen opzoeken, kunnen een dagkaart kopen. Dat kost € 8 per
-    dag. Bezoekers kunnen ook parkeren in een parkeergarage. De dichtstbijzijnde garage
-    is aan de Beethovenstraat.
-
-    '
+    Bezoekers die haar komen opzoeken, kunnen een dagkaart kopen. Dat kost € 8 per dag. Bezoekers kunnen ook parkeren in
+    een parkeergarage. De dichtstbijzijnde garage is aan de Beethovenstraat.
   questions:
-  - questiontext: Hoeveel kost de parkeervergunning per jaar?
-    options:
-    - label: A
-      text: € 150.
-    - label: B
-      text: € 100.
-    - label: C
-      text: € 200.
-    correct_answer: A
-  - questiontext: Waar mag mevrouw Jansen parkeren met haar vergunning?
-    options:
-    - label: A
-      text: In haar eigen buurt.
-    - label: B
-      text: Overal in Amsterdam.
-    - label: C
-      text: Alleen in garages.
-    correct_answer: A
-  - questiontext: Hoeveel kost een dagkaart voor bezoekers?
-    options:
-    - label: A
-      text: € 8.
-    - label: B
-      text: € 5.
-    - label: C
-      text: € 12.
-    correct_answer: A
+    - questiontext: Hoeveel kost de parkeervergunning per jaar?
+      options:
+        - label: A
+          text: € 150.
+        - label: B
+          text: € 100.
+        - label: C
+          text: € 200.
+      correct_answer: A
+    - questiontext: Waar mag mevrouw Jansen parkeren met haar vergunning?
+      options:
+        - label: A
+          text: In haar eigen buurt.
+        - label: B
+          text: Overal in Amsterdam.
+        - label: C
+          text: Alleen in garages.
+      correct_answer: A
+    - questiontext: Hoeveel kost een dagkaart voor bezoekers?
+      options:
+        - label: A
+          text: € 8.
+        - label: B
+          text: € 5.
+        - label: C
+          text: € 12.
+      correct_answer: A
 - id: 47
   title: OV-fiets huren
   difficulty: easy
-  text: 'Bij station Leiden Centraal huurt Ali een OV-fiets. Dat is een gele fiets.
-    Hij huurt de fiets met zijn OV-chipkaart. De kosten zijn € 4,25 per dag. Hij kan
-    de fiets de hele dag gebruiken.
+  text: >
+    Bij station Leiden Centraal huurt Ali een OV-fiets. Dat is een gele fiets. Hij huurt de fiets met zijn OV-chipkaart.
+    De kosten zijn € 4,25 per dag. Hij kan de fiets de hele dag gebruiken.
 
-    Ali brengt de fiets terug naar hetzelfde station. Hij moet de fiets op tijd terugbrengen,
-    want anders betaalt hij meer. De OV-fiets is handig voor korte afstanden in de
-    stad.
-
-    '
+    Ali brengt de fiets terug naar hetzelfde station. Hij moet de fiets op tijd terugbrengen, want anders betaalt hij
+    meer. De OV-fiets is handig voor korte afstanden in de stad.
   questions:
-  - questiontext: Hoeveel kost een OV-fiets per dag?
-    options:
-    - label: A
-      text: € 4,25.
-    - label: B
-      text: € 3,50.
-    - label: C
-      text: € 5,00.
-    correct_answer: A
-  - questiontext: Waar moet Ali de fiets terugbrengen?
-    options:
-    - label: A
-      text: Naar hetzelfde station.
-    - label: B
-      text: Naar elk station.
-    - label: C
-      text: Naar een fietsenwinkel.
-    correct_answer: A
+    - questiontext: Hoeveel kost een OV-fiets per dag?
+      options:
+        - label: A
+          text: € 4,25.
+        - label: B
+          text: € 3,50.
+        - label: C
+          text: € 5,00.
+      correct_answer: A
+    - questiontext: Waar moet Ali de fiets terugbrengen?
+      options:
+        - label: A
+          text: Naar hetzelfde station.
+        - label: B
+          text: Naar elk station.
+        - label: C
+          text: Naar een fietsenwinkel.
+      correct_answer: A
 - id: 49
   title: Sollicitatiegesprek voorbereiden
   difficulty: medium
-  text: 'Hassan heeft een sollicitatiegesprek bij een logistiek bedrijf in Breda.
-    Het gesprek is dinsdag om 14:00 uur op de tweede verdieping. Hij moet zich melden
-    bij de receptie.
+  text: >-
+    Hassan heeft een sollicitatiegesprek bij een logistiek bedrijf in Breda. Het gesprek is dinsdag om 14:00 uur op de
+    tweede verdieping. Hij moet zich melden bij de receptie.
 
-    Hassan neemt zijn cv, diploma''s en een pen mee. Hij draagt een net overhemd en
-    een donkere broek. De manager vraagt naar zijn ervaring, zijn sterke punten en
-    waarom hij bij dit bedrijf wil werken.
+    Hassan neemt zijn cv, diploma's en een pen mee. Hij draagt een net overhemd en een donkere broek. De manager vraagt
+    naar zijn ervaring, zijn sterke punten en waarom hij bij dit bedrijf wil werken.
 
-    Hassan heeft thuis geoefend. Hij zegt: "Ik werk graag in een team en ik ben altijd
-    op tijd." De manager is tevreden. Na het gesprek hoort Hassan binnen een week
-    of hij de baan krijgt.
-
-    '
+    Hassan heeft thuis geoefend. Hij zegt: "Ik werk graag in een team en ik ben altijd op tijd." De manager is tevreden.
+    Na het gesprek hoort Hassan binnen een week of hij de baan krijgt.
+     Hassan neemt zijn CV en paspoort mee. Hij neemt geen laptop mee.
   questions:
-  - questiontext: Wanneer is het sollicitatiegesprek?
-    options:
-    - label: A
-      text: Maandag om 14:00 uur.
-    - label: B
-      text: Dinsdag om 10:00 uur.
-    - label: C
-      text: Dinsdag om 14:00 uur.
-    correct_answer: C
-  - questiontext: Wat neemt Hassan NIET mee?
-    options:
-    - label: A
-      text: Een laptop.
-    - label: B
-      text: Zijn cv.
-    - label: C
-      text: Zijn diploma's.
-    correct_answer: A
-  - questiontext: Hoe lang duurt het voordat Hassan hoort of hij de baan krijgt?
-    options:
-    - label: A
-      text: Binnen een dag.
-    - label: B
-      text: Binnen een maand.
-    - label: C
-      text: Binnen een week.
-    correct_answer: C
+    - questiontext: Wanneer is het sollicitatiegesprek?
+      options:
+        - label: A
+          text: Maandag om 14:00 uur.
+        - label: B
+          text: Dinsdag om 10:00 uur.
+        - label: C
+          text: Dinsdag om 14:00 uur.
+      correct_answer: C
+    - questiontext: Wat neemt Hassan NIET mee?
+      options:
+        - label: A
+          text: Een laptop.
+        - label: B
+          text: Zijn cv.
+        - label: C
+          text: Zijn diploma's.
+      correct_answer: A
+    - questiontext: Hoe lang duurt het voordat Hassan hoort of hij de baan krijgt?
+      options:
+        - label: A
+          text: Binnen een dag.
+        - label: B
+          text: Binnen een maand.
+        - label: C
+          text: Binnen een week.
+      correct_answer: C
 - id: 52
   title: Arbeidscontract tekenen
   difficulty: medium
-  text: 'Sara krijgt een arbeidscontract bij een zorginstelling in Eindhoven. Het
-    is een contract voor onbepaalde tijd. Ze werkt 32 uur per week. Haar salaris is
-    € 2.400 bruto per maand.
+  text: >
+    Sara krijgt een arbeidscontract bij een zorginstelling in Eindhoven. Het is een contract voor onbepaalde tijd. Ze
+    werkt 32 uur per week. Haar salaris is € 2.400 bruto per maand.
 
-    In het contract staat dat ze een proeftijd van twee maanden heeft. In deze periode
-    kan ze stoppen zonder reden. Na de proeftijd moet ze zich aan de opzegtermijn
-    van één maand houden.
+    In het contract staat dat ze een proeftijd van twee maanden heeft. In deze periode kan ze stoppen zonder reden. Na
+    de proeftijd moet ze zich aan de opzegtermijn van één maand houden.
 
-    Sara leest ook over vakantiedagen. Ze krijgt 28 vakantiedagen per jaar, op basis
-    van een fulltime dienstverband. Omdat ze parttime werkt, krijgt ze 22,4 dagen.
-    Ze rondt dit af naar 22 dagen.
-
-    '
+    Sara leest ook over vakantiedagen. Ze krijgt 28 vakantiedagen per jaar, op basis van een fulltime dienstverband.
+    Omdat ze parttime werkt, krijgt ze 22,4 dagen. Ze rondt dit af naar 22 dagen.
   questions:
-  - questiontext: Wat voor contract heeft Sara?
-    options:
-    - label: A
-      text: Een tijdelijk contract.
-    - label: B
-      text: Een uitzendcontract.
-    - label: C
-      text: Een contract voor onbepaalde tijd.
-    correct_answer: C
-  - questiontext: Hoe lang is de proeftijd?
-    options:
-    - label: A
-      text: Eén maand.
-    - label: B
-      text: Drie maanden.
-    - label: C
-      text: Twee maanden.
-    correct_answer: C
-  - questiontext: Hoeveel vakantiedagen krijgt Sara?
-    options:
-    - label: A
-      text: 20 dagen.
-    - label: B
-      text: 28 dagen.
-    - label: C
-      text: 22 dagen.
-    correct_answer: C
+    - questiontext: Wat voor contract heeft Sara?
+      options:
+        - label: A
+          text: Een tijdelijk contract.
+        - label: B
+          text: Een uitzendcontract.
+        - label: C
+          text: Een contract voor onbepaalde tijd.
+      correct_answer: C
+    - questiontext: Hoe lang is de proeftijd?
+      options:
+        - label: A
+          text: Eén maand.
+        - label: B
+          text: Drie maanden.
+        - label: C
+          text: Twee maanden.
+      correct_answer: C
+    - questiontext: Hoeveel vakantiedagen krijgt Sara?
+      options:
+        - label: A
+          text: 20 dagen.
+        - label: B
+          text: 28 dagen.
+        - label: C
+          text: 22 dagen.
+      correct_answer: C
 - id: 55
   title: CAO-afspraken
   difficulty: medium
-  text: 'Mohamed werkt bij een bouwbedrijf in Groningen. Zijn werkgever heeft een
-    CAO (Collectieve Arbeidsovereenkomst) met de vakbond. In de CAO staan afspraken
-    over salaris, werktijden en vakanties.
+  text: >
+    Mohamed werkt bij een bouwbedrijf in Groningen. Zijn werkgever heeft een CAO (Collectieve Arbeidsovereenkomst) met
+    de vakbond. In de CAO staan afspraken over salaris, werktijden en vakanties.
 
-    Volgens de CAO krijgt Mohamed 13% toeslag als hij ''s avonds werkt. In het weekend
-    is de toeslag 50%. Mohamed werkt vaak op zaterdag. Dat levert hem extra geld op.
+    Volgens de CAO krijgt Mohamed 13% toeslag als hij 's avonds werkt. In het weekend is de toeslag 50%. Mohamed werkt
+    vaak op zaterdag. Dat levert hem extra geld op.
 
-    De CAO wordt elke twee jaar vernieuwd. De vakbond onderhandelt namens de werknemers.
-    Mohamed is lid van de vakbond. Dat kost € 15 per maand, maar hij krijgt er ook
-    juridische hulp voor terug.
-
-    '
+    De CAO wordt elke twee jaar vernieuwd. De vakbond onderhandelt namens de werknemers. Mohamed is lid van de vakbond.
+    Dat kost € 15 per maand, maar hij krijgt er ook juridische hulp voor terug.
   questions:
-  - questiontext: Wat staat er in een CAO?
-    options:
-    - label: A
-      text: Alleen afspraken over salaris.
-    - label: B
-      text: Alleen afspraken over vakanties.
-    - label: C
-      text: Afspraken over salaris, werktijden en vakanties.
-    correct_answer: C
-  - questiontext: Hoeveel toeslag krijgt Mohamed in het weekend?
-    options:
-    - label: A
-      text: 13%.
-    - label: B
-      text: 25%.
-    - label: C
-      text: 50%.
-    correct_answer: C
+    - questiontext: Wat staat er in een CAO?
+      options:
+        - label: A
+          text: Alleen afspraken over salaris.
+        - label: B
+          text: Alleen afspraken over vakanties.
+        - label: C
+          text: Afspraken over salaris, werktijden en vakanties.
+      correct_answer: C
+    - questiontext: Hoeveel toeslag krijgt Mohamed in het weekend?
+      options:
+        - label: A
+          text: 13%.
+        - label: B
+          text: 25%.
+        - label: C
+          text: 50%.
+      correct_answer: C
 - id: 57
   title: Thuiswerken
   difficulty: medium
-  text: 'Amina werkt als administratief medewerker bij een verzekeringsbedrijf in
-    Arnhem. Sinds corona werkt ze drie dagen per week thuis en twee dagen op kantoor.
-    Haar baas vindt dit goed.
+  text: >-
+    Amina werkt als administratief medewerker bij een verzekeringsbedrijf in Arnhem. Sinds corona werkt ze drie dagen
+    per week thuis en twee dagen op kantoor. Haar baas vindt dit goed.
 
-    Thuis heeft Amina een aparte werkkamer. Ze heeft een bureau, een goede stoel en
-    een tweede scherm. Het bedrijf betaalt € 250 voor thuiswerkvoorzieningen.
+    Thuis heeft Amina een aparte werkkamer. Ze heeft een bureau, een goede stoel en een tweede scherm. Het bedrijf
+    betaalt € 250 voor thuiswerkvoorzieningen.
 
-    Op kantoor ziet Amina haar collega''s. Ze vinden het belangrijk om samen te werken
-    en ideeën uit te wisselen. Thuis kan ze zich beter concentreren op haar werk.
-    Ze is productiever dan op kantoor.
-
-    '
+    Op kantoor ziet Amina haar collega's. Ze vinden het belangrijk om samen te werken en ideeën uit te wisselen. Thuis
+    kan ze zich beter concentreren op haar werk. Ze is productiever dan op kantoor.
+     Amina gaat nog naar kantoor om haar collega's te zien en samen te werken.
   questions:
-  - questiontext: Hoeveel dagen per week werkt Amina thuis?
-    options:
-    - label: A
-      text: Twee dagen.
-    - label: B
-      text: Vier dagen.
-    - label: C
-      text: Drie dagen.
-    correct_answer: C
-  - questiontext: Hoeveel betaalt het bedrijf voor thuiswerkvoorzieningen?
-    options:
-    - label: A
-      text: € 150.
-    - label: B
-      text: € 350.
-    - label: C
-      text: € 250.
-    correct_answer: C
-  - questiontext: Waarom gaat Amina nog naar kantoor?
-    options:
-    - label: A
-      text: Om haar collega's te zien en samen te werken.
-    - label: B
-      text: Omdat ze thuis niet kan werken.
-    - label: C
-      text: Omdat haar baas dat verplicht.
-    correct_answer: A
+    - questiontext: Hoeveel dagen per week werkt Amina thuis?
+      options:
+        - label: A
+          text: Twee dagen.
+        - label: B
+          text: Vier dagen.
+        - label: C
+          text: Drie dagen.
+      correct_answer: C
+    - questiontext: Hoeveel betaalt het bedrijf voor thuiswerkvoorzieningen?
+      options:
+        - label: A
+          text: € 150.
+        - label: B
+          text: € 350.
+        - label: C
+          text: € 250.
+      correct_answer: C
+    - questiontext: Waarom gaat Amina nog naar kantoor?
+      options:
+        - label: A
+          text: Om haar collega's te zien en samen te werken.
+        - label: B
+          text: Omdat ze thuis niet kan werken.
+        - label: C
+          text: Omdat haar baas dat verplicht.
+      correct_answer: A
 - id: 59
   title: Uitzendbureau
   difficulty: medium
-  text: 'Nadia zoekt werk via een uitzendbureau in Tilburg. Ze meldt zich aan bij
-    Randstad. Ze vult een formulier in met haar ervaring en opleiding. Het uitzendbureau
-    zoekt dan werk voor haar.
+  text: >
+    Nadia zoekt werk via een uitzendbureau in Tilburg. Ze meldt zich aan bij Randstad. Ze vult een formulier in met haar
+    ervaring en opleiding. Het uitzendbureau zoekt dan werk voor haar.
 
-    Nadia krijgt een tijdelijke baan bij een fabriek. Ze werkt daar via het uitzendbureau,
-    niet direct bij de fabriek. Het uitzendbureau betaalt haar salaris. Na zes maanden
-    krijgt ze een contract bij de fabriek zelf.
+    Nadia krijgt een tijdelijke baan bij een fabriek. Ze werkt daar via het uitzendbureau, niet direct bij de fabriek.
+    Het uitzendbureau betaalt haar salaris. Na zes maanden krijgt ze een contract bij de fabriek zelf.
 
-    Het voordeel van een uitzendbureau is dat je snel werk kunt vinden. Het nadeel
-    is dat je eerst tijdelijk werkt en geen zekerheid hebt.
-
-    '
+    Het voordeel van een uitzendbureau is dat je snel werk kunt vinden. Het nadeel is dat je eerst tijdelijk werkt en
+    geen zekerheid hebt.
   questions:
-  - questiontext: Waar meldt Nadia zich aan?
-    options:
-    - label: A
-      text: Bij de gemeente.
-    - label: B
-      text: Bij een fabriek.
-    - label: C
-      text: Bij een uitzendbureau.
-    correct_answer: C
-  - questiontext: Wie betaalt Nadia's salaris?
-    options:
-    - label: A
-      text: De fabriek.
-    - label: B
-      text: De gemeente.
-    - label: C
-      text: Het uitzendbureau.
-    correct_answer: C
+    - questiontext: Waar meldt Nadia zich aan?
+      options:
+        - label: A
+          text: Bij de gemeente.
+        - label: B
+          text: Bij een fabriek.
+        - label: C
+          text: Bij een uitzendbureau.
+      correct_answer: C
+    - questiontext: Wie betaalt Nadia's salaris?
+      options:
+        - label: A
+          text: De fabriek.
+        - label: B
+          text: De gemeente.
+        - label: C
+          text: Het uitzendbureau.
+      correct_answer: C
 - id: 61
   title: Zorgtoeslag en huurtoeslag
   difficulty: medium
-  text: 'Fatima heeft een laag inkomen van € 1.800 per maand. Ze vraagt zorgtoeslag
-    en huurtoeslag aan bij de Belastingdienst. Voor zorgtoeslag krijgt ze € 95 per
-    maand. Voor huurtoeslag krijgt ze € 180 per maand.
+  text: >
+    Fatima heeft een laag inkomen van € 1.800 per maand. Ze vraagt zorgtoeslag en huurtoeslag aan bij de
+    Belastingdienst. Voor zorgtoeslag krijgt ze € 95 per maand. Voor huurtoeslag krijgt ze € 180 per maand.
 
-    De zorgtoeslag helpt haar om de zorgverzekering te betalen. Haar premie is € 130
-    per maand. Met de toeslag betaalt ze zelf maar € 35.
+    De zorgtoeslag helpt haar om de zorgverzekering te betalen. Haar premie is € 130 per maand. Met de toeslag betaalt
+    ze zelf maar € 35.
 
-    De huurtoeslag helpt haar bij de huur. Ze betaalt € 720 huur per maand. Met de
-    huurtoeslag betaalt ze zelf € 540. Fatima is blij met de toeslagen. Ze houdt nu
-    meer geld over voor boodschappen en kleding.
-
-    '
+    De huurtoeslag helpt haar bij de huur. Ze betaalt € 720 huur per maand. Met de huurtoeslag betaalt ze zelf € 540.
+    Fatima is blij met de toeslagen. Ze houdt nu meer geld over voor boodschappen en kleding.
   questions:
-  - questiontext: Hoeveel zorgtoeslag krijgt Fatima per maand?
-    options:
-    - label: A
-      text: € 35.
-    - label: B
-      text: € 130.
-    - label: C
-      text: € 95.
-    correct_answer: C
-  - questiontext: Hoeveel betaalt Fatima zelf voor haar zorgverzekering?
-    options:
-    - label: A
-      text: € 35.
-    - label: B
-      text: € 95.
-    - label: C
-      text: € 130.
-    correct_answer: A
-  - questiontext: Hoeveel huur betaalt Fatima zelf na huurtoeslag?
-    options:
-    - label: A
-      text: € 540.
-    - label: B
-      text: € 720.
-    - label: C
-      text: € 900.
-    correct_answer: A
+    - questiontext: Hoeveel zorgtoeslag krijgt Fatima per maand?
+      options:
+        - label: A
+          text: € 35.
+        - label: B
+          text: € 130.
+        - label: C
+          text: € 95.
+      correct_answer: C
+    - questiontext: Hoeveel betaalt Fatima zelf voor haar zorgverzekering?
+      options:
+        - label: A
+          text: € 35.
+        - label: B
+          text: € 95.
+        - label: C
+          text: € 130.
+      correct_answer: A
+    - questiontext: Hoeveel huur betaalt Fatima zelf na huurtoeslag?
+      options:
+        - label: A
+          text: € 540.
+        - label: B
+          text: € 720.
+        - label: C
+          text: € 900.
+      correct_answer: A
 - id: 65
   title: Aansprakelijkheidsverzekering
   difficulty: medium
-  text: 'Youssef heeft een aansprakelijkheidsverzekering bij Centraal Beheer. Deze
-    verzekering betaalt schade die hij per ongeluk aan anderen veroorzaakt. De premie
-    is € 4,50 per maand.
+  text: >-
+    Youssef heeft een aansprakelijkheidsverzekering bij Centraal Beheer. Deze verzekering betaalt schade die hij per
+    ongeluk aan anderen veroorzaakt. De premie is € 4,50 per maand.
 
-    Laatst trapte Youssef per ongeluk een bal door het raam van de buren. De reparatie
-    kost € 350. Hij meldt de schade bij zijn verzekering. De verzekering betaalt het
-    hele bedrag.
+    Laatst trapte Youssef per ongeluk een bal door het raam van de buren. De reparatie kost € 350. Hij meldt de schade
+    bij zijn verzekering. De verzekering betaalt het hele bedrag.
 
-    Zonder verzekering moest Youssef zelf betalen. Dat is het voordeel van een aansprakelijkheidsverzekering.
-    Hij betaalt een klein bedrag per maand en is beschermd tegen grote kosten.
-
-    '
+    Zonder verzekering moest Youssef zelf betalen. Dat is het voordeel van een aansprakelijkheidsverzekering. Hij
+    betaalt een klein bedrag per maand en is beschermd tegen grote kosten.
+     De verzekering dekt schade die je per ongeluk aan anderen veroorzaakt.
   questions:
-  - questiontext: Wat dekt een aansprakelijkheidsverzekering?
-    options:
-    - label: A
-      text: Schade die je zelf oploopt.
-    - label: B
-      text: Schade aan je eigen huis.
-    - label: C
-      text: Schade die je per ongeluk aan anderen veroorzaakt.
-    correct_answer: C
-  - questiontext: Hoeveel betaalt de verzekering voor het raam?
-    options:
-    - label: A
-      text: Niets, Youssef moet zelf betalen.
-    - label: B
-      text: € 4,50.
-    - label: C
-      text: € 350.
-    correct_answer: C
+    - questiontext: Wat dekt een aansprakelijkheidsverzekering?
+      options:
+        - label: A
+          text: Schade die je zelf oploopt.
+        - label: B
+          text: Schade aan je eigen huis.
+        - label: C
+          text: Schade die je per ongeluk aan anderen veroorzaakt.
+      correct_answer: C
+    - questiontext: Hoeveel betaalt de verzekering voor het raam?
+      options:
+        - label: A
+          text: Niets, Youssef moet zelf betalen.
+        - label: B
+          text: € 4,50.
+        - label: C
+          text: € 350.
+      correct_answer: C
 - id: 67
   title: Huurcontract lezen
   difficulty: medium
-  text: 'Mevrouw Ahmed tekent een huurcontract voor een appartement in Utrecht. De
-    huur is € 850 per maand, inclusief servicekosten van € 75. Ze betaalt dus € 775
-    kale huur en € 75 servicekosten.
+  text: >
+    Mevrouw Ahmed tekent een huurcontract voor een appartement in Utrecht. De huur is € 850 per maand, inclusief
+    servicekosten van € 75. Ze betaalt dus € 775 kale huur en € 75 servicekosten.
 
-    In het contract staat dat de huur elk jaar omhoog kan gaan. De verhuurder mag
-    maximaal 3,3% verhogen als het inkomen van mevrouw Ahmed boven € 47.000 ligt.
-    Verdient ze minder, dan is de maximale verhoging 2,5%.
+    In het contract staat dat de huur elk jaar omhoog kan gaan. De verhuurder mag maximaal 3,3% verhogen als het inkomen
+    van mevrouw Ahmed boven € 47.000 ligt. Verdient ze minder, dan is de maximale verhoging 2,5%.
 
-    Mevrouw Ahmed moet het huis goed onderhouden. Kleine reparaties, zoals een lekkende
-    kraan, zijn voor haar rekening. Grote reparaties, zoals een kapotte cv-ketel,
-    zijn voor de verhuurder.
-
-    '
+    Mevrouw Ahmed moet het huis goed onderhouden. Kleine reparaties, zoals een lekkende kraan, zijn voor haar rekening.
+    Grote reparaties, zoals een kapotte cv-ketel, zijn voor de verhuurder.
   questions:
-  - questiontext: Hoeveel is de kale huur?
-    options:
-    - label: A
-      text: € 775.
-    - label: B
-      text: € 850.
-    - label: C
-      text: € 925.
-    correct_answer: A
-  - questiontext: Wat is de maximale huurverhoging als mevrouw Ahmed minder dan €
-      47.000 verdient?
-    options:
-    - label: A
-      text: 2,5%.
-    - label: B
-      text: 3,3%.
-    - label: C
-      text: 5%.
-    correct_answer: A
-  - questiontext: Wie betaalt een kapotte cv-ketel?
-    options:
-    - label: A
-      text: Mevrouw Ahmed.
-    - label: B
-      text: De gemeente.
-    - label: C
-      text: De verhuurder.
-    correct_answer: C
+    - questiontext: Hoeveel is de kale huur?
+      options:
+        - label: A
+          text: € 775.
+        - label: B
+          text: € 850.
+        - label: C
+          text: € 925.
+      correct_answer: A
+    - questiontext: Wat is de maximale huurverhoging als mevrouw Ahmed minder dan € 47.000 verdient?
+      options:
+        - label: A
+          text: 2,5%.
+        - label: B
+          text: 3,3%.
+        - label: C
+          text: 5%.
+      correct_answer: A
+    - questiontext: Wie betaalt een kapotte cv-ketel?
+      options:
+        - label: A
+          text: Mevrouw Ahmed.
+        - label: B
+          text: De gemeente.
+        - label: C
+          text: De verhuurder.
+      correct_answer: C
 - id: 70
   title: Oplevering en onderhoud
   difficulty: medium
-  text: 'Fatima gaat verhuizen naar een nieuwe woning in Nijmegen. Voordat ze intrekt,
-    is er een oplevering. Samen met de verhuurder loopt ze door het huis. Ze controleren
-    of alles in goede staat is.
+  text: >-
+    Fatima gaat verhuizen naar een nieuwe woning in Nijmegen. Voordat ze intrekt, is er een oplevering. Samen met de
+    verhuurder loopt ze door het huis. Ze controleren of alles in goede staat is.
 
-    Op het opleveringsrapport staat dat de muren een nieuwe verfbeurt nodig hebben.
-    De verhuurder belooft dit voor de verhuizing te doen. Fatima tekent het rapport.
+    Op het opleveringsrapport staat dat de muren een nieuwe verfbeurt nodig hebben. De verhuurder belooft dit voor de
+    verhuizing te doen. Fatima tekent het rapport.
 
-    Na de oplevering is Fatima verantwoordelijk voor klein onderhoud. Ze moet zelf
-    de ramen lappen, de afvoer ontstoppen en rookmelderbatterijen vervangen. De verhuurder
-    doet groot onderhoud, zoals een nieuwe dakbedekking of schilderwerk buiten.
-
-    '
+    Na de oplevering is Fatima verantwoordelijk voor klein onderhoud. Ze moet zelf de ramen lappen, de afvoer ontstoppen
+    en rookmelderbatterijen vervangen. De verhuurder doet groot onderhoud, zoals een nieuwe dakbedekking of schilderwerk
+    buiten.
+     Bij de oplevering controleren de verhuurder en huurder de staat van het huis. Op het opleveringsrapport staat wat gerepareerd moet worden.
   questions:
-  - questiontext: Wat gebeurt er bij een oplevering?
-    options:
-    - label: A
-      text: De huurder betaalt de huur.
-    - label: B
-      text: De huurder tekent het huurcontract.
-    - label: C
-      text: De verhuurder en huurder controleren de staat van het huis.
-    correct_answer: C
-  - questiontext: Wat moet Fatima zelf doen na de oplevering?
-    options:
-    - label: A
-      text: Het dak repareren.
-    - label: B
-      text: Het huis buiten schilderen.
-    - label: C
-      text: De ramen lappen.
-    correct_answer: C
-  - questiontext: Wie is verantwoordelijk voor groot onderhoud?
-    options:
-    - label: A
-      text: De huurder.
-    - label: B
-      text: De gemeente.
-    - label: C
-      text: De verhuurder.
-    correct_answer: C
-  - questiontext: Wat staat er op het opleveringsrapport?
-    options:
-    - label: A
-      text: De huurprijs.
-    - label: B
-      text: De naam van de buren.
-    - label: C
-      text: De staat van het huis en wat gerepareerd moet worden.
-    correct_answer: C
+    - questiontext: Wat gebeurt er bij een oplevering?
+      options:
+        - label: A
+          text: De huurder betaalt de huur.
+        - label: B
+          text: De huurder tekent het huurcontract.
+        - label: C
+          text: De verhuurder en huurder controleren de staat van het huis.
+      correct_answer: C
+    - questiontext: Wat moet Fatima zelf doen na de oplevering?
+      options:
+        - label: A
+          text: Het dak repareren.
+        - label: B
+          text: Het huis buiten schilderen.
+        - label: C
+          text: De ramen lappen.
+      correct_answer: C
+    - questiontext: Wie is verantwoordelijk voor groot onderhoud?
+      options:
+        - label: A
+          text: De huurder.
+        - label: B
+          text: De gemeente.
+        - label: C
+          text: De verhuurder.
+      correct_answer: C
+    - questiontext: Wat staat er op het opleveringsrapport?
+      options:
+        - label: A
+          text: De huurprijs.
+        - label: B
+          text: De naam van de buren.
+        - label: C
+          text: De staat van het huis en wat gerepareerd moet worden.
+      correct_answer: C
 - id: 74
   title: Rijbewijs verlengen en APK
   difficulty: medium
-  text: 'Meneer De Jong moet zijn rijbewijs verlengen. Hij gaat naar het gemeentehuis
-    in Maastricht. Hij neemt een pasfoto, zijn oude rijbewijs en een verklaring van
-    geschiktheid mee. De verlenging kost € 41,50.
+  text: >
+    Meneer De Jong moet zijn rijbewijs verlengen. Hij gaat naar het gemeentehuis in Maastricht. Hij neemt een pasfoto,
+    zijn oude rijbewijs en een verklaring van geschiktheid mee. De verlenging kost € 41,50.
 
-    Zijn rijbewijs is verlopen, dus hij mag niet meer rijden. Na de aanvraag duurt
-    het vijf werkdagen voordat hij het nieuwe rijbewijs kan ophalen.
+    Zijn rijbewijs is verlopen, dus hij mag niet meer rijden. Na de aanvraag duurt het vijf werkdagen voordat hij het
+    nieuwe rijbewijs kan ophalen.
 
-    Meneer De Jong moet ook zijn auto laten keuren voor de APK. Dat is een verplichte
-    keuring voor auto''s ouder dan drie jaar. Hij gaat naar een garage in zijn buurt.
-    De APK kost € 45. De keuring duurt ongeveer een uur.
-
-    '
+    Meneer De Jong moet ook zijn auto laten keuren voor de APK. Dat is een verplichte keuring voor auto's ouder dan drie
+    jaar. Hij gaat naar een garage in zijn buurt. De APK kost € 45. De keuring duurt ongeveer een uur.
   questions:
-  - questiontext: Waar moet meneer De Jong heen voor zijn rijbewijs?
-    options:
-    - label: A
-      text: Naar de garage.
-    - label: B
-      text: Naar het gemeentehuis.
-    - label: C
-      text: Naar de RDW.
-    correct_answer: B
-  - questiontext: Hoeveel kost de verlenging van het rijbewijs?
-    options:
-    - label: A
-      text: € 35.
-    - label: B
-      text: € 41,50.
-    - label: C
-      text: € 45.
-    correct_answer: B
-  - questiontext: Wanneer moet een auto voor het eerst APK-gekeurd worden?
-    options:
-    - label: A
-      text: Na 1 jaar.
-    - label: B
-      text: Na 2 jaar.
-    - label: C
-      text: Na 3 jaar.
-    correct_answer: C
-  - questiontext: Hoe lang duurt het voordat meneer De Jong zijn nieuwe rijbewijs
-      heeft?
-    options:
-    - label: A
-      text: Eén dag.
-    - label: B
-      text: Drie werkdagen.
-    - label: C
-      text: Vijf werkdagen.
-    correct_answer: C
+    - questiontext: Waar moet meneer De Jong heen voor zijn rijbewijs?
+      options:
+        - label: A
+          text: Naar de garage.
+        - label: B
+          text: Naar het gemeentehuis.
+        - label: C
+          text: Naar de RDW.
+      correct_answer: B
+    - questiontext: Hoeveel kost de verlenging van het rijbewijs?
+      options:
+        - label: A
+          text: € 35.
+        - label: B
+          text: € 41,50.
+        - label: C
+          text: € 45.
+      correct_answer: B
+    - questiontext: Wanneer moet een auto voor het eerst APK-gekeurd worden?
+      options:
+        - label: A
+          text: Na 1 jaar.
+        - label: B
+          text: Na 2 jaar.
+        - label: C
+          text: Na 3 jaar.
+      correct_answer: C
+    - questiontext: Hoe lang duurt het voordat meneer De Jong zijn nieuwe rijbewijs heeft?
+      options:
+        - label: A
+          text: Eén dag.
+        - label: B
+          text: Drie werkdagen.
+        - label: C
+          text: Vijf werkdagen.
+      correct_answer: C
 - id: 78
   title: Deelauto gebruiken
   difficulty: medium
-  text: 'In Amsterdam kunnen bewoners een deelauto huren via Greenwheels. Ze betalen
-    € 9 per maand voor een abonnement. Daarna kunnen ze een auto reserveren via een
-    app.
+  text: >-
+    In Amsterdam kunnen bewoners een deelauto huren via Greenwheels. Ze betalen € 9 per maand voor een abonnement.
+    Daarna kunnen ze een auto reserveren via een app.
 
-    De kosten zijn € 4,50 per uur plus € 0,28 per kilometer. Benzine en verzekering
-    zijn inbegrepen. De gebruiker tankt zelf en betaalt dat apart.
+    De kosten zijn € 4,50 per uur plus € 0,28 per kilometer. Benzine en verzekering zijn inbegrepen. De gebruiker tankt
+    zelf en betaalt dat apart.
 
-    Meneer Bakker gebruikt de deelauto alleen in het weekend. Hij rijdt gemiddeld
-    80 kilometer per weekend. Dat kost hem € 36 (80 x € 0,28) plus € 9 (2 uur x €
-    4,50). Totaal: € 45 per weekend.
-
-    '
+    Meneer Bakker gebruikt de deelauto alleen in het weekend. Hij rijdt gemiddeld 80 kilometer per weekend. Dat kost hem
+    € 36 (80 x € 0,28) plus € 9 (2 uur x € 4,50). Totaal: € 45 per weekend.
+     De brandstof die de gebruiker zelf tankt is niet inbegrepen.
   questions:
-  - questiontext: Hoeveel kost het abonnement per maand?
-    options:
-    - label: A
-      text: € 4,50.
-    - label: B
-      text: € 9.
-    - label: C
-      text: € 28.
-    correct_answer: B
-  - questiontext: Wat is NIET inbegrepen bij de deelauto?
-    options:
-    - label: A
-      text: Benzine.
-    - label: B
-      text: Verzekering.
-    - label: C
-      text: De brandstof die de gebruiker zelf tankt.
-    correct_answer: C
-  - questiontext: Hoeveel betaalt meneer Bakker per weekend?
-    options:
-    - label: A
-      text: € 36.
-    - label: B
-      text: € 45.
-    - label: C
-      text: € 54.
-    correct_answer: B
+    - questiontext: Hoeveel kost het abonnement per maand?
+      options:
+        - label: A
+          text: € 4,50.
+        - label: B
+          text: € 9.
+        - label: C
+          text: € 28.
+      correct_answer: B
+    - questiontext: Wat is NIET inbegrepen bij de deelauto?
+      options:
+        - label: A
+          text: Benzine.
+        - label: B
+          text: Verzekering.
+        - label: C
+          text: De brandstof die de gebruiker zelf tankt.
+      correct_answer: C
+    - questiontext: Hoeveel betaalt meneer Bakker per weekend?
+      options:
+        - label: A
+          text: € 36.
+        - label: B
+          text: € 45.
+        - label: C
+          text: € 54.
+      correct_answer: B
 - id: 81
   title: Treinabonnement
   difficulty: medium
-  text: 'Sara reist elke dag met de trein van Den Haag naar Amsterdam voor haar werk.
-    Ze koopt een abonnement bij NS. Met een Dal Voordeel abonnement reist ze 40% korting
-    in de daluren en het hele weekend.
+  text: >
+    Sara reist elke dag met de trein van Den Haag naar Amsterdam voor haar werk. Ze koopt een abonnement bij NS. Met een
+    Dal Voordeel abonnement reist ze 40% korting in de daluren en het hele weekend.
 
-    Het abonnement kost € 6 per maand. Sara reist meestal buiten de spits. Ze betaalt
-    nu € 12 per dag voor een retourtje. Met korting betaalt ze € 7,20.
+    Het abonnement kost € 6 per maand. Sara reist meestal buiten de spits. Ze betaalt nu € 12 per dag voor een
+    retourtje. Met korting betaalt ze € 7,20.
 
-    Na drie maanden heeft Sara de kosten van het abonnement al terugverdiend. Ze is
-    blij met de korting. Ze houdt elke maand € 100 over door het abonnement.
-
-    '
+    Na drie maanden heeft Sara de kosten van het abonnement al terugverdiend. Ze is blij met de korting. Ze houdt elke
+    maand € 100 over door het abonnement.
   questions:
-  - questiontext: Hoeveel korting krijgt Sara met Dal Voordeel?
-    options:
-    - label: A
-      text: 20%.
-    - label: B
-      text: 40%.
-    - label: C
-      text: 60%.
-    correct_answer: B
-  - questiontext: Hoeveel kost het abonnement per maand?
-    options:
-    - label: A
-      text: € 4.
-    - label: B
-      text: € 6.
-    - label: C
-      text: € 12.
-    correct_answer: B
+    - questiontext: Hoeveel korting krijgt Sara met Dal Voordeel?
+      options:
+        - label: A
+          text: 20%.
+        - label: B
+          text: 40%.
+        - label: C
+          text: 60%.
+      correct_answer: B
+    - questiontext: Hoeveel kost het abonnement per maand?
+      options:
+        - label: A
+          text: € 4.
+        - label: B
+          text: € 6.
+        - label: C
+          text: € 12.
+      correct_answer: B
 - id: 83
   title: Reisplanner gebruiken
   difficulty: medium
-  text: 'Meneer El Idrissi wil van Utrecht naar Eindhoven reizen. Hij gebruikt de
-    9292 OV-reisplanner op zijn telefoon. Hij vult zijn vertrekstation en bestemming
-    in.
+  text: >
+    Meneer El Idrissi wil van Utrecht naar Eindhoven reizen. Hij gebruikt de 9292 OV-reisplanner op zijn telefoon. Hij
+    vult zijn vertrekstation en bestemming in.
 
-    De planner geeft drie opties. De snelste route duurt 1 uur en 15 minuten met één
-    overstap in ''s-Hertogenbosch. Hij vertrekt om 09:30 en arriveert om 10:45.
+    De planner geeft drie opties. De snelste route duurt 1 uur en 15 minuten met één overstap in 's-Hertogenbosch. Hij
+    vertrekt om 09:30 en arriveert om 10:45.
 
-    Een andere optie is de Intercity Direct. Die duurt 50 minuten maar kost € 2,70
-    meer. Meneer El Idrissi kiest de snelle route omdat hij op tijd moet zijn voor
-    een afspraak.
-
-    '
+    Een andere optie is de Intercity Direct. Die duurt 50 minuten maar kost € 2,70 meer. Meneer El Idrissi kiest de
+    snelle route omdat hij op tijd moet zijn voor een afspraak.
   questions:
-  - questiontext: Welke app gebruikt meneer El Idrissi?
-    options:
-    - label: A
-      text: NS-app.
-    - label: B
-      text: 9292 OV-reisplanner.
-    - label: C
-      text: Google Maps.
-    correct_answer: B
-  - questiontext: Hoe lang duurt de snelste route?
-    options:
-    - label: A
-      text: 50 minuten.
-    - label: B
-      text: 1 uur en 15 minuten.
-    - label: C
-      text: 1 uur en 45 minuten.
-    correct_answer: B
+    - questiontext: Welke app gebruikt meneer El Idrissi?
+      options:
+        - label: A
+          text: NS-app.
+        - label: B
+          text: 9292 OV-reisplanner.
+        - label: C
+          text: Google Maps.
+      correct_answer: B
+    - questiontext: Hoe lang duurt de snelste route?
+      options:
+        - label: A
+          text: 50 minuten.
+        - label: B
+          text: 1 uur en 15 minuten.
+        - label: C
+          text: 1 uur en 45 minuten.
+      correct_answer: B
 - id: 85
   title: Aangifte fietsdiefstal
   difficulty: medium
-  text: 'Ali''s fiets is gestolen bij station Rotterdam Centraal. Hij gaat naar het
-    politiebureau om aangifte te doen. Hij neemt zijn identiteitsbewijs en het framenummer
-    van de fiets mee.
+  text: >-
+    Ali's fiets is gestolen bij station Rotterdam Centraal. Hij gaat naar het politiebureau om aangifte te doen. Hij
+    neemt zijn identiteitsbewijs en het framenummer van de fiets mee.
 
-    De politie vraagt naar het merk, de kleur en bijzondere kenmerken van de fiets.
-    Ali zegt: "Het is een zwarte Gazelle met een mandje voorop en een slot van AXA."
+    De politie vraagt naar het merk, de kleur en bijzondere kenmerken van de fiets. Ali zegt: "Het is een zwarte Gazelle
+    met een mandje voorop en een slot van AXA."
 
-    De politie maakt een proces-verbaal. Ali krijgt een zaaknummer. Met dit nummer
-    kan hij de schade claimen bij zijn inboedelverzekering. Zonder verzekering moet
-    hij de fiets zelf betalen.
-
-    '
+    De politie maakt een proces-verbaal. Ali krijgt een zaaknummer. Met dit nummer kan hij de schade claimen bij zijn
+    inboedelverzekering. Zonder verzekering moet hij de fiets zelf betalen.
+     Een aankoopbon is niet nodig voor de aangifte.
   questions:
-  - questiontext: Waar doet Ali aangifte?
-    options:
-    - label: A
-      text: Bij de gemeente.
-    - label: B
-      text: Bij het politiebureau.
-    - label: C
-      text: Bij de verzekering.
-    correct_answer: B
-  - questiontext: Wat heeft Ali NIET nodig voor de aangifte?
-    options:
-    - label: A
-      text: Zijn identiteitsbewijs.
-    - label: B
-      text: Het framenummer.
-    - label: C
-      text: De aankoopbon.
-    correct_answer: C
+    - questiontext: Waar doet Ali aangifte?
+      options:
+        - label: A
+          text: Bij de gemeente.
+        - label: B
+          text: Bij het politiebureau.
+        - label: C
+          text: Bij de verzekering.
+      correct_answer: B
+    - questiontext: Wat heeft Ali NIET nodig voor de aangifte?
+      options:
+        - label: A
+          text: Zijn identiteitsbewijs.
+        - label: B
+          text: Het framenummer.
+        - label: C
+          text: De aankoopbon.
+      correct_answer: C
 - id: 87
   title: Loonstrook lezen
   difficulty: hard
-  text: 'Meneer De Vries krijgt zijn loonstrook van november. Hij werkt 40 uur per
-    week bij een technisch bedrijf in Zwolle. Zijn bruto salaris is € 3.200 per maand.
-    Hij werkt hier al drie jaar en is tevreden met zijn werk.
+  text: >
+    Meneer De Vries krijgt zijn loonstrook van november. Hij werkt 40 uur per week bij een technisch bedrijf in Zwolle.
+    Zijn bruto salaris is € 3.200 per maand. Hij werkt hier al drie jaar en is tevreden met zijn werk.
 
-    Op de loonstrook staan verschillende inhoudingen. De loonbelasting is € 680. De
-    premie volksverzekeringen is € 420. De premie zorgverzekering is € 130. Zijn werkgever
-    houdt ook € 150 in voor het pensioenfonds. Deze inhoudingen zijn wettelijk verplicht.
+    Op de loonstrook staan verschillende inhoudingen. De loonbelasting is € 680. De premie volksverzekeringen is € 420.
+    De premie zorgverzekering is € 130. Zijn werkgever houdt ook € 150 in voor het pensioenfonds. Deze inhoudingen zijn
+    wettelijk verplicht.
 
-    Na alle inhoudingen houdt meneer De Vries € 1.820 netto over. Hij krijgt ook een
-    vakantiegeld van 8% van zijn bruto salaris. Dat wordt in mei uitbetaald. Het vakantiegeld
-    is € 256 per jaar.
+    Na alle inhoudingen houdt meneer De Vries € 1.820 netto over. Hij krijgt ook een vakantiegeld van 8% van zijn bruto
+    salaris. Dat wordt in mei uitbetaald. Het vakantiegeld is € 256 per jaar.
 
-    Meneer De Vries vindt zijn salaris redelijk, maar hij wil graag onderhandelen
-    over een hoger salaris. Hij vraagt zijn manager om een gesprek. De manager zegt
-    dat ze in januari over salaris kunnen praten, na de functioneringsgesprekken.
-
-    '
+    Meneer De Vries vindt zijn salaris redelijk, maar hij wil graag onderhandelen over een hoger salaris. Hij vraagt
+    zijn manager om een gesprek. De manager zegt dat ze in januari over salaris kunnen praten, na de
+    functioneringsgesprekken.
   questions:
-  - questiontext: Hoeveel houdt meneer De Vries netto over?
-    options:
-    - label: A
-      text: € 1.820.
-    - label: B
-      text: € 2.100.
-    - label: C
-      text: € 3.200.
-    correct_answer: A
-  - questiontext: Wat is het totaal van de inhoudingen op zijn salaris?
-    options:
-    - label: A
-      text: € 1.180.
-    - label: B
-      text: € 1.380.
-    - label: C
-      text: € 1.580.
-    correct_answer: B
+    - questiontext: Hoeveel houdt meneer De Vries netto over?
+      options:
+        - label: A
+          text: € 1.820.
+        - label: B
+          text: € 2.100.
+        - label: C
+          text: € 3.200.
+      correct_answer: A
+    - questiontext: Wat is het totaal van de inhoudingen op zijn salaris?
+      options:
+        - label: A
+          text: € 1.180.
+        - label: B
+          text: € 1.380.
+        - label: C
+          text: € 1.580.
+      correct_answer: B
 - id: 89
   title: Ontslag en opzegtermijn
   difficulty: hard
-  text: 'Mevrouw Ahmed werkt al vijf jaar bij een kantoorgebouw in Leiden. Ze krijgt
-    te horen dat haar werkgever haar wil ontslaan wegens bedrijfseconomische redenen.
-    Het bedrijf gaat reorganiseren en er zijn minder banen. Mevrouw Ahmed is geschrokken
-    maar begrijpt de situatie.
+  text: >
+    Mevrouw Ahmed werkt al vijf jaar bij een kantoorgebouw in Leiden. Ze krijgt te horen dat haar werkgever haar wil
+    ontslaan wegens bedrijfseconomische redenen. Het bedrijf gaat reorganiseren en er zijn minder banen. Mevrouw Ahmed
+    is geschrokken maar begrijpt de situatie.
 
-    De werkgever vraagt ontslag aan bij het UWV. Na toestemming mag hij het contract
-    beëindigen. Mevrouw Ahmed heeft een opzegtermijn van twee maanden. Ze werkt dus
-    nog twee maanden door. In deze periode zoekt ze actief naar een nieuwe baan.
+    De werkgever vraagt ontslag aan bij het UWV. Na toestemming mag hij het contract beëindigen. Mevrouw Ahmed heeft een
+    opzegtermijn van twee maanden. Ze werkt dus nog twee maanden door. In deze periode zoekt ze actief naar een nieuwe
+    baan.
 
-    Omdat mevrouw Ahmed langer dan twee jaar heeft gewerkt, heeft ze recht op een
-    transitievergoeding. De vergoeding is 1/3 van haar maandsalaris per gewerkt jaar.
-    Bij vijf jaar werk krijgt ze 5/3 deel van haar salaris. Dit is wettelijk bepaald.
+    Omdat mevrouw Ahmed langer dan twee jaar heeft gewerkt, heeft ze recht op een transitievergoeding. De vergoeding is
+    1/3 van haar maandsalaris per gewerkt jaar. Bij vijf jaar werk krijgt ze 5/3 deel van haar salaris. Dit is wettelijk
+    bepaald.
 
-    Mevrouw Ahmed meldt zich ook aan bij het uitzendbureau en schrijft zich in bij
-    de gemeente als werkzoekende. Ze krijgt mogelijk een WW-uitkering als ze voldoet
-    aan de eisen. Ze moet dan wel solliciteren op passende vacatures.
-
-    '
+    Mevrouw Ahmed meldt zich ook aan bij het uitzendbureau en schrijft zich in bij de gemeente als werkzoekende. Ze
+    krijgt mogelijk een WW-uitkering als ze voldoet aan de eisen. Ze moet dan wel solliciteren op passende vacatures.
   questions:
-  - questiontext: Waarom wordt mevrouw Ahmed ontslagen?
-    options:
-    - label: A
-      text: Omdat ze slecht presteert.
-    - label: B
-      text: Omdat het bedrijf reorganiseert.
-    - label: C
-      text: Omdat ze te vaak ziek is.
-    correct_answer: B
-  - questiontext: Hoeveel transitievergoeding krijgt mevrouw Ahmed?
-    options:
-    - label: A
-      text: 1/3 van haar maandsalaris.
-    - label: B
-      text: 5/3 deel van haar maandsalaris.
-    - label: C
-      text: 5 maanden salaris.
-    correct_answer: B
+    - questiontext: Waarom wordt mevrouw Ahmed ontslagen?
+      options:
+        - label: A
+          text: Omdat ze slecht presteert.
+        - label: B
+          text: Omdat het bedrijf reorganiseert.
+        - label: C
+          text: Omdat ze te vaak ziek is.
+      correct_answer: B
+    - questiontext: Hoeveel transitievergoeding krijgt mevrouw Ahmed?
+      options:
+        - label: A
+          text: 1/3 van haar maandsalaris.
+        - label: B
+          text: 5/3 deel van haar maandsalaris.
+        - label: C
+          text: 5 maanden salaris.
+      correct_answer: B
 - id: 91
   title: Pensioen opbouwen
   difficulty: hard
-  text: 'Meneer Bakker is 62 jaar en werkt nog drie jaar. Hij gaat met pensioen als
-    hij 65 is. Hij heeft zijn hele leven gewerkt en pensioen opgebouwd bij ABP Pensioenfonds.
-    Hij woont in een koopwoning in Arnhem en heeft geen hypotheek meer.
+  text: >
+    Meneer Bakker is 62 jaar en werkt nog drie jaar. Hij gaat met pensioen als hij 65 is. Hij heeft zijn hele leven
+    gewerkt en pensioen opgebouwd bij ABP Pensioenfonds. Hij woont in een koopwoning in Arnhem en heeft geen hypotheek
+    meer.
 
-    Zijn pensioen bestaat uit twee delen: AOW van de overheid en een werkgeverspensioen.
-    De AOW krijgt hij automatisch als hij 67 is. Omdat meneer Bakker eerder stopt,
-    krijgt hij twee jaar lang geen AOW. Dit is een belangrijke keuze die hij heeft gemaakt.
+    Zijn pensioen bestaat uit twee delen: AOW van de overheid en een werkgeverspensioen. De AOW krijgt hij automatisch
+    als hij 67 is. Omdat meneer Bakker eerder stopt, krijgt hij twee jaar lang geen AOW. Dit is een belangrijke keuze
+    die hij heeft gemaakt.
 
-    Zijn werkgeverspensioen is € 1.400 per maand. Dat is genoeg om van te leven, maar
-    hij moet wel bezuinigen. Hij zegt: "Ik ga minder uit eten en ik koop geen nieuwe
-    kleding meer." Hij kookt vaker thuis en doet meer boodschappen in de aanbieding.
+    Zijn werkgeverspensioen is € 1.400 per maand. Dat is genoeg om van te leven, maar hij moet wel bezuinigen. Hij zegt:
+    "Ik ga minder uit eten en ik koop geen nieuwe kleding meer." Hij kookt vaker thuis en doet meer boodschappen in de
+    aanbieding.
 
-    Meneer Bakker had eerder kunnen stoppen als hij meer had gespaard. Hij heeft nu
-    een spaarpot van € 30.000. Dat gebruikt hij als buffer voor onverwachte kosten.
-    Hij is tevreden met zijn situatie en geniet van zijn vrije tijd.
-
-    '
+    Meneer Bakker had eerder kunnen stoppen als hij meer had gespaard. Hij heeft nu een spaarpot van € 30.000. Dat
+    gebruikt hij als buffer voor onverwachte kosten. Hij is tevreden met zijn situatie en geniet van zijn vrije tijd.
   questions:
-  - questiontext: Waarom krijgt meneer Bakker twee jaar lang geen AOW?
-    options:
-    - label: A
-      text: Omdat hij te weinig heeft gewerkt.
-    - label: B
-      text: Omdat hij met pensioen gaat voordat hij 67 is.
-    - label: C
-      text: Omdat hij geen AOW heeft aangevraagd.
-    correct_answer: B
-  - questiontext: Hoeveel werkgeverspensioen krijgt meneer Bakker per maand?
-    options:
-    - label: A
-      text: € 1.200.
-    - label: B
-      text: € 1.400.
-    - label: C
-      text: € 1.600.
-    correct_answer: B
+    - questiontext: Waarom krijgt meneer Bakker twee jaar lang geen AOW?
+      options:
+        - label: A
+          text: Omdat hij te weinig heeft gewerkt.
+        - label: B
+          text: Omdat hij met pensioen gaat voordat hij 67 is.
+        - label: C
+          text: Omdat hij geen AOW heeft aangevraagd.
+      correct_answer: B
+    - questiontext: Hoeveel werkgeverspensioen krijgt meneer Bakker per maand?
+      options:
+        - label: A
+          text: € 1.200.
+        - label: B
+          text: € 1.400.
+        - label: C
+          text: € 1.600.
+      correct_answer: B
 - id: 93
   title: Belastingteruggave
   difficulty: hard
-  text: 'Mevrouw De Groot heeft haar belastingaangifte gedaan voor 2023. Ze heeft
-    gewerkt als freelancer en heeft veel zakelijke kosten gemaakt. Ze heeft een nieuwe
-    laptop gekocht voor € 1.200, een bureau voor € 400 en ze heeft € 800 aan reiskosten
-    gemaakt. Ze heeft ook een cursus gevolgd voor € 300.
+  text: >
+    Mevrouw De Groot heeft haar belastingaangifte gedaan voor 2023. Ze heeft gewerkt als freelancer en heeft veel
+    zakelijke kosten gemaakt. Ze heeft een nieuwe laptop gekocht voor € 1.200, een bureau voor € 400 en ze heeft € 800
+    aan reiskosten gemaakt. Ze heeft ook een cursus gevolgd voor € 300.
 
-    De Belastingdienst accepteert deze kosten als aftrekposten. Hierdoor hoeft mevrouw
-    De Groot minder belasting te betalen. Ze krijgt € 1.850 terug van de Belastingdienst.
-    Dit is een mooi bedrag dat ze niet had verwacht.
+    De Belastingdienst accepteert deze kosten als aftrekposten. Hierdoor hoeft mevrouw De Groot minder belasting te
+    betalen. Ze krijgt € 1.850 terug van de Belastingdienst. Dit is een mooi bedrag dat ze niet had verwacht.
 
-    Het geld wordt binnen zes weken op haar rekening gestort. Mevrouw De Groot is
-    blij. Ze gebruikt het geld om haar spaarrekening aan te vullen. Ze had het geld
-    al uitgegeven aan haar werk, dus de teruggave is een meevaller. Ze kan nu een
-    nieuwe telefoon kopen die ze nodig heeft.
+    Het geld wordt binnen zes weken op haar rekening gestort. Mevrouw De Groot is blij. Ze gebruikt het geld om haar
+    spaarrekening aan te vullen. Ze had het geld al uitgegeven aan haar werk, dus de teruggave is een meevaller. Ze kan
+    nu een nieuwe telefoon kopen die ze nodig heeft.
 
-    Ze weet dat ze volgend jaar weer aangifte moet doen. Ze bewaart daarom alle bonnetjes
-    en facturen in een map. Ze maakt elke maand een overzicht van haar kosten.
-
-    '
+    Ze weet dat ze volgend jaar weer aangifte moet doen. Ze bewaart daarom alle bonnetjes en facturen in een map. Ze
+    maakt elke maand een overzicht van haar kosten.
   questions:
-  - questiontext: Waarom krijgt mevrouw De Groot belastingteruggave?
-    options:
-    - label: A
-      text: Omdat ze te veel belasting heeft betaald.
-    - label: B
-      text: Omdat ze zakelijke kosten mag aftrekken.
-    - label: C
-      text: Omdat ze een laag inkomen heeft.
-    correct_answer: B
-  - questiontext: Hoeveel krijgt mevrouw De Groot terug?
-    options:
-    - label: A
-      text: € 1.200.
-    - label: B
-      text: € 1.850.
-    - label: C
-      text: € 2.400.
-    correct_answer: B
+    - questiontext: Waarom krijgt mevrouw De Groot belastingteruggave?
+      options:
+        - label: A
+          text: Omdat ze te veel belasting heeft betaald.
+        - label: B
+          text: Omdat ze zakelijke kosten mag aftrekken.
+        - label: C
+          text: Omdat ze een laag inkomen heeft.
+      correct_answer: B
+    - questiontext: Hoeveel krijgt mevrouw De Groot terug?
+      options:
+        - label: A
+          text: € 1.200.
+        - label: B
+          text: € 1.850.
+        - label: C
+          text: € 2.400.
+      correct_answer: B
 - id: 95
   title: Betaalachterstand
   difficulty: hard
-  text: 'Meneer Yilmaz heeft een betaalachterstand van € 450 voor zijn huur. Hij heeft
-    drie maanden geen huur betaald omdat hij zijn baan is kwijtgeraakt. De verhuurder
-    stuurt een aanmaning. Meneer Yilmaz is erg bezorgd over de situatie.
+  text: >
+    Meneer Yilmaz heeft een betaalachterstand van € 450 voor zijn huur. Hij heeft drie maanden geen huur betaald omdat
+    hij zijn baan is kwijtgeraakt. De verhuurder stuurt een aanmaning. Meneer Yilmaz is erg bezorgd over de situatie.
 
-    In de aanmaning staat dat meneer Yilmaz binnen 14 dagen moet betalen. Doet hij
-    dat niet, dan kan de verhuurder hem dagvaarden voor de kantonrechter. Dat kost
-    meneer Yilmaz extra geld. Hij heeft dit geld niet want hij heeft geen inkomen.
+    In de aanmaning staat dat meneer Yilmaz binnen 14 dagen moet betalen. Doet hij dat niet, dan kan de verhuurder hem
+    dagvaarden voor de kantonrechter. Dat kost meneer Yilmaz extra geld. Hij heeft dit geld niet want hij heeft geen
+    inkomen.
 
-    Meneer Yilmaz belt de verhuurder en legt de situatie uit. De verhuurder stelt
-    een betalingsregeling voor: meneer Yilmaz betaalt € 150 per maand totdat de schuld
-    is afbetaald. Dit duurt drie maanden.
+    Meneer Yilmaz belt de verhuurder en legt de situatie uit. De verhuurder stelt een betalingsregeling voor: meneer
+    Yilmaz betaalt € 150 per maand totdat de schuld is afbetaald. Dit duurt drie maanden.
 
-    Meneer Yilmaz vraagt ook hulp bij de gemeente. De gemeente kan hem een bijzondere
-    bijstand geven als hij aan de voorwaarden voldoet. Hij moet dan wel meewerken
-    aan een traject naar werk. De gemeente helpt hem ook met solliciteren en het
-    zoeken naar een nieuwe baan.
-
-    '
+    Meneer Yilmaz vraagt ook hulp bij de gemeente. De gemeente kan hem een bijzondere bijstand geven als hij aan de
+    voorwaarden voldoet. Hij moet dan wel meewerken aan een traject naar werk. De gemeente helpt hem ook met
+    solliciteren en het zoeken naar een nieuwe baan.
   questions:
-  - questiontext: Waarom heeft meneer Yilmaz een betaalachterstand?
-    options:
-    - label: A
-      text: Omdat hij te veel uitgaven heeft.
-    - label: B
-      text: Omdat hij zijn baan is kwijtgeraakt.
-    - label: C
-      text: Omdat hij de huur te hoog vindt.
-    correct_answer: B
-  - questiontext: Wat gebeurt er als meneer Yilmaz niet binnen 14 dagen betaalt?
-    options:
-    - label: A
-      text: Niets, hij krijgt meer tijd.
-    - label: B
-      text: De verhuurder kan hem dagvaarden.
-    - label: C
-      text: De gemeente betaalt de huur.
-    correct_answer: B
+    - questiontext: Waarom heeft meneer Yilmaz een betaalachterstand?
+      options:
+        - label: A
+          text: Omdat hij te veel uitgaven heeft.
+        - label: B
+          text: Omdat hij zijn baan is kwijtgeraakt.
+        - label: C
+          text: Omdat hij de huur te hoog vindt.
+      correct_answer: B
+    - questiontext: Wat gebeurt er als meneer Yilmaz niet binnen 14 dagen betaalt?
+      options:
+        - label: A
+          text: Niets, hij krijgt meer tijd.
+        - label: B
+          text: De verhuurder kan hem dagvaarden.
+        - label: C
+          text: De gemeente betaalt de huur.
+      correct_answer: B
 - id: 97
   title: Inboedelverzekering vergelijken
   difficulty: hard
-  text: 'Peter wil een inboedelverzekering afsluiten. Hij vergelijkt twee verzekeringen.
-    Verzekering A bij Nationale-Nederlanden kost € 8 per maand en dekt brand, inbraak
-    en waterschade. Het eigen risico is € 150. Deze verzekering is populair bij mensen
-    met een laag budget.
+  text: >
+    Peter wil een inboedelverzekering afsluiten. Hij vergelijkt twee verzekeringen. Verzekering A bij
+    Nationale-Nederlanden kost € 8 per maand en dekt brand, inbraak en waterschade. Het eigen risico is € 150. Deze
+    verzekering is populair bij mensen met een laag budget.
 
-    Verzekering B bij DirectVerzekerd kost € 12 per maand en dekt brand, inbraak,
-    waterschade en ook schade door storm. Het eigen risico is € 75. Deze verzekering
-    is uitgebreider maar ook duurder.
+    Verzekering B bij DirectVerzekerd kost € 12 per maand en dekt brand, inbraak, waterschade en ook schade door storm.
+    Het eigen risico is € 75. Deze verzekering is uitgebreider maar ook duurder.
 
-    Peter woont in een huis met een grote tuin. Hij heeft weinig dure spullen: een
-    oude bank, een simpele tv en wat meubels van de IKEA. Hij is niet bang voor inbraak
-    want hij woont in een veilige buurt. De buurt heeft een actieve buurtvereniging.
+    Peter woont in een huis met een grote tuin. Hij heeft weinig dure spullen: een oude bank, een simpele tv en wat
+    meubels van de IKEA. Hij is niet bang voor inbraak want hij woont in een veilige buurt. De buurt heeft een actieve
+    buurtvereniging.
 
-    Peter kiest Verzekering A. Hij zegt: "Ik heb geen dure spullen, dus ik hoef geen
-    dure verzekering. De goedkopere verzekering is goed genoeg voor mij." Hij betaalt
-    nu € 96 per jaar in plaats van € 144.
-
-    '
+    Peter kiest Verzekering A. Hij zegt: "Ik heb geen dure spullen, dus ik hoef geen dure verzekering. De goedkopere
+    verzekering is goed genoeg voor mij." Hij betaalt nu € 96 per jaar in plaats van € 144.
   questions:
-  - questiontext: Welke verzekering kiest Peter?
-    options:
-    - label: A
-      text: Verzekering A, want die is goedkoper.
-    - label: B
-      text: Verzekering B, want die dekt meer schade.
-    - label: C
-      text: Verzekering A, want Peter heeft weinig dure spullen.
-    - label: D
-      text: Het maakt niet uit, ze zijn hetzelfde.
-    correct_answer: C
-  - questiontext: Wat is het eigen risico van Verzekering B?
-    options:
-    - label: A
-      text: € 75.
-    - label: B
-      text: € 150.
-    - label: C
-      text: € 200.
-    correct_answer: A
+    - questiontext: Welke verzekering kiest Peter?
+      options:
+        - label: A
+          text: Verzekering A, want die is goedkoper.
+        - label: B
+          text: Verzekering B, want die dekt meer schade.
+        - label: C
+          text: Verzekering A, want Peter heeft weinig dure spullen.
+        - label: D
+          text: Het maakt niet uit, ze zijn hetzelfde.
+      correct_answer: C
+    - questiontext: Wat is het eigen risico van Verzekering B?
+      options:
+        - label: A
+          text: € 75.
+        - label: B
+          text: € 150.
+        - label: C
+          text: € 200.
+      correct_answer: A
 - id: 99
   title: Rechtsbijstand en vertraging claimen
   difficulty: hard
-  text: 'Mevrouw De Boer heeft een rechtsbijstandverzekering bij DAS. Deze verzekering
-    helpt haar als ze juridische problemen krijgt. De premie is € 12 per maand. Ze
-    heeft deze verzekering afgesloten omdat ze graag zekerheid wil.
+  text: >
+    Mevrouw De Boer heeft een rechtsbijstandverzekering bij DAS. Deze verzekering helpt haar als ze juridische problemen
+    krijgt. De premie is € 12 per maand. Ze heeft deze verzekering afgesloten omdat ze graag zekerheid wil.
 
-    Laatst had mevrouw De Boer een probleem met haar werkgever. Hij betaalde haar
-    niet correct uit. Ze schakelt de rechtsbijstandverzekering in. De verzekering
-    betaalt een advocaat die haar helpt. De advocaat stuurt een brief naar de werkgever
-    en het probleem is snel opgelost.
+    Laatst had mevrouw De Boer een probleem met haar werkgever. Hij betaalde haar niet correct uit. Ze schakelt de
+    rechtsbijstandverzekering in. De verzekering betaalt een advocaat die haar helpt. De advocaat stuurt een brief naar
+    de werkgever en het probleem is snel opgelost.
 
-    Een andere keer had mevrouw De Boer vertraging met haar trein. De trein van NS
-    was 45 minuten te laat. Ze claimt een vergoeding via de NS-website. Bij 30-119
-    minuten vertraging krijgt ze 50% van het ticketbedrag terug. Dit is een wettelijke
-    regeling voor treinreizigers.
+    Een andere keer had mevrouw De Boer vertraging met haar trein. De trein van NS was 45 minuten te laat. Ze claimt een
+    vergoeding via de NS-website. Bij 30-119 minuten vertraging krijgt ze 50% van het ticketbedrag terug. Dit is een
+    wettelijke regeling voor treinreizigers.
 
-    Mevrouw De Boer had een kaartje van € 20. Ze krijgt € 10 terug. Ze is tevreden
-    met de afhandeling. Het geld staat binnen een week op haar rekening.
-
-    '
+    Mevrouw De Boer had een kaartje van € 20. Ze krijgt € 10 terug. Ze is tevreden met de afhandeling. Het geld staat
+    binnen een week op haar rekening.
   questions:
-  - questiontext: Wat doet een rechtsbijstandverzekering?
-    options:
-    - label: A
-      text: Ze betaalt medische kosten.
-    - label: B
-      text: Ze helpt bij juridische problemen.
-    - label: C
-      text: Ze betaalt schade aan je huis.
-    correct_answer: B
-  - questiontext: Hoeveel krijgt mevrouw De Boer terug voor haar treinvertraging?
-    options:
-    - label: A
-      text: € 5.
-    - label: B
-      text: € 10.
-    - label: C
-      text: € 20.
-    correct_answer: B
+    - questiontext: Wat doet een rechtsbijstandverzekering?
+      options:
+        - label: A
+          text: Ze betaalt medische kosten.
+        - label: B
+          text: Ze helpt bij juridische problemen.
+        - label: C
+          text: Ze betaalt schade aan je huis.
+      correct_answer: B
+    - questiontext: Hoeveel krijgt mevrouw De Boer terug voor haar treinvertraging?
+      options:
+        - label: A
+          text: € 5.
+        - label: B
+          text: € 10.
+        - label: C
+          text: € 20.
+      correct_answer: B
 - id: 101
   title: Huurcommissie
   difficulty: hard
-  text: 'Meneer Hassan huurt een woning in Amsterdam voor € 950 per maand. Hij vindt
-    de huur te hoog voor de kwaliteit van het huis. De woning heeft geen goede isolatie
-    en de keuken is oud. De ramen zijn enkel glas en het is koud in de winter.
+  text: >
+    Meneer Hassan huurt een woning in Amsterdam voor € 950 per maand. Hij vindt de huur te hoog voor de kwaliteit van
+    het huis. De woning heeft geen goede isolatie en de keuken is oud. De ramen zijn enkel glas en het is koud in de
+    winter.
 
-    Meneer Hassan dient een klacht in bij de huurcommissie. De huurcommissie is een
-    onafhankelijke organisatie die huurprijzen beoordeelt. Ze kijken naar het puntenstelsel:
-    hoe meer punten het huis heeft, hoe hoger de maximale huur mag zijn. De procedure
-    duurt ongeveer drie maanden.
+    Meneer Hassan dient een klacht in bij de huurcommissie. De huurcommissie is een onafhankelijke organisatie die
+    huurprijzen beoordeelt. Ze kijken naar het puntenstelsel: hoe meer punten het huis heeft, hoe hoger de maximale huur
+    mag zijn. De procedure duurt ongeveer drie maanden.
 
-    De huurcommissie stelt vast dat het huis maximaal € 780 per maand mag kosten volgens
-    het puntenstelsel. De verhuurder moet de huur verlagen en het te veel betaalde
-    geld teruggeven. Dit is een bindende uitspraak.
+    De huurcommissie stelt vast dat het huis maximaal € 780 per maand mag kosten volgens het puntenstelsel. De
+    verhuurder moet de huur verlagen en het te veel betaalde geld teruggeven. Dit is een bindende uitspraak.
 
-    Meneer Hassan is blij met de uitspraak. Hij betaalt nu € 780 per maand en krijgt
-    € 3.400 terug voor de afgelopen twee jaar. Hij kan dit geld gebruiken voor een
-    nieuwe keuken.
-
-    '
+    Meneer Hassan is blij met de uitspraak. Hij betaalt nu € 780 per maand en krijgt € 3.400 terug voor de afgelopen
+    twee jaar. Hij kan dit geld gebruiken voor een nieuwe keuken.
   questions:
-  - questiontext: Waarom dient meneer Hassan een klacht in?
-    options:
-    - label: A
-      text: Omdat de verhuurder het huis niet repareert.
-    - label: B
-      text: Omdat hij de huur te hoog vindt voor de kwaliteit.
-    - label: C
-      text: Omdat hij wil verhuizen.
-    correct_answer: B
-  - questiontext: Wat beslist de huurcommissie?
-    options:
-    - label: A
-      text: De huur blijft € 950.
-    - label: B
-      text: De huur wordt verlaagd naar € 780.
-    - label: C
-      text: De huur wordt verlaagd naar € 600.
-    correct_answer: B
+    - questiontext: Waarom dient meneer Hassan een klacht in?
+      options:
+        - label: A
+          text: Omdat de verhuurder het huis niet repareert.
+        - label: B
+          text: Omdat hij de huur te hoog vindt voor de kwaliteit.
+        - label: C
+          text: Omdat hij wil verhuizen.
+      correct_answer: B
+    - questiontext: Wat beslist de huurcommissie?
+      options:
+        - label: A
+          text: De huur blijft € 950.
+        - label: B
+          text: De huur wordt verlaagd naar € 780.
+        - label: C
+          text: De huur wordt verlaagd naar € 600.
+      correct_answer: B
 - id: 103
   title: Woningruil en VvE
   difficulty: hard
-  text: 'Mevrouw Ahmed wil haar huurwoning in Den Haag ruilen met een woning in Rotterdam.
-    Ze vindt een ruilpartner via WoningNet. Beide woningen moeten voldoen aan de eisen
-    van de woningcorporaties. De procedure duurt ongeveer twee maanden.
+  text: >
+    Mevrouw Ahmed wil haar huurwoning in Den Haag ruilen met een woning in Rotterdam. Ze vindt een ruilpartner via
+    WoningNet. Beide woningen moeten voldoen aan de eisen van de woningcorporaties. De procedure duurt ongeveer twee
+    maanden.
 
-    De corporatie controleert of de woningen passen bij de grootte van het huishouden.
-    Mevrouw Ahmed heeft een eengezinswoning en wil een appartement. Haar ruilpartner
-    heeft een appartement en wil een eengezinswoning. De corporatie gaat akkoord na
-    een inspectie van beide woningen.
+    De corporatie controleert of de woningen passen bij de grootte van het huishouden. Mevrouw Ahmed heeft een
+    eengezinswoning en wil een appartement. Haar ruilpartner heeft een appartement en wil een eengezinswoning. De
+    corporatie gaat akkoord na een inspectie van beide woningen.
 
-    Intussen koopt meneer De Vries een appartement in Utrecht. Hij wordt automatisch
-    lid van de VvE (Vereniging van Eigenaren). De VvE beheert het gebouw en beslist
-    over onderhoud. Alle eigenaren zijn verplicht lid en moeten contributie betalen.
+    Intussen koopt meneer De Vries een appartement in Utrecht. Hij wordt automatisch lid van de VvE (Vereniging van
+    Eigenaren). De VvE beheert het gebouw en beslist over onderhoud. Alle eigenaren zijn verplicht lid en moeten
+    contributie betalen.
 
-    Meneer De Vries betaalt € 180 per maand aan VvE-kosten. Dat is voor schilderwerk,
-    schoonmaak van de trappen en verzekering van het gebouw. Hij moet ook aanwezig
-    zijn bij de jaarlijkse vergadering. Daar worden belangrijke beslissingen genomen.
-
-    '
+    Meneer De Vries betaalt € 180 per maand aan VvE-kosten. Dat is voor schilderwerk, schoonmaak van de trappen en
+    verzekering van het gebouw. Hij moet ook aanwezig zijn bij de jaarlijkse vergadering. Daar worden belangrijke
+    beslissingen genomen.
   questions:
-  - questiontext: Waarom wil mevrouw Ahmed ruilen?
-    options:
-    - label: A
-      text: Omdat haar huis te klein is.
-    - label: B
-      text: Omdat ze van stad wil veranderen.
-    - label: C
-      text: Omdat haar huur te hoog is.
-    correct_answer: B
-  - questiontext: Wat is een taak van de VvE?
-    options:
-    - label: A
-      text: De huur innen.
-    - label: B
-      text: Het gebouw onderhouden en verzekeren.
-    - label: C
-      text: De belastingaangifte doen.
-    correct_answer: B
+    - questiontext: Waarom wil mevrouw Ahmed ruilen?
+      options:
+        - label: A
+          text: Omdat haar huis te klein is.
+        - label: B
+          text: Omdat ze van stad wil veranderen.
+        - label: C
+          text: Omdat haar huur te hoog is.
+      correct_answer: B
+    - questiontext: Wat is een taak van de VvE?
+      options:
+        - label: A
+          text: De huur innen.
+        - label: B
+          text: Het gebouw onderhouden en verzekeren.
+        - label: C
+          text: De belastingaangifte doen.
+      correct_answer: B
 - id: 105
   title: Milieuzone
   difficulty: hard
-  text: 'In Amsterdam, Utrecht en Arnhem zijn milieuzones. In deze zones mogen oude,
-    vervuilende auto''s niet rijden. De zones zijn ingesteld om de luchtkwaliteit
-    te verbeteren. De regels gelden voor dieselauto''s ouder dan 2005 en benzineauto''s
-    ouder dan 1992.
+  text: >
+    In Amsterdam, Utrecht en Arnhem zijn milieuzones. In deze zones mogen oude, vervuilende auto's niet rijden. De zones
+    zijn ingesteld om de luchtkwaliteit te verbeteren. De regels gelden voor dieselauto's ouder dan 2005 en
+    benzineauto's ouder dan 1992.
 
-    Meneer Bakker heeft een dieselauto uit 2005. Hij wil naar een afspraak in Utrecht
-    rijden. Hij controleert op de website van de gemeente of hij de zone in mag. Dat
-    mag niet, want zijn auto is te oud. Hij had dit eerder moeten controleren.
+    Meneer Bakker heeft een dieselauto uit 2005. Hij wil naar een afspraak in Utrecht rijden. Hij controleert op de
+    website van de gemeente of hij de zone in mag. Dat mag niet, want zijn auto is te oud. Hij had dit eerder moeten
+    controleren.
 
-    Meneer Bakker heeft drie opties: hij kan de auto parkeren buiten de zone en met
-    de bus verder reizen, hij kan een dagkaart kopen voor € 25, of hij kan een nieuwe
-    auto kopen. Een nieuwe auto kost minimaal € 15.000.
+    Meneer Bakker heeft drie opties: hij kan de auto parkeren buiten de zone en met de bus verder reizen, hij kan een
+    dagkaart kopen voor € 25, of hij kan een nieuwe auto kopen. Een nieuwe auto kost minimaal € 15.000.
 
-    Meneer Bakker kiest voor de dagkaart. Hij zegt: "Een nieuwe auto is te duur en
-    ik kom maar één keer per maand in Utrecht." De dagkaart koopt hij online via de
-    website van de gemeente Utrecht.
-
-    '
+    Meneer Bakker kiest voor de dagkaart. Hij zegt: "Een nieuwe auto is te duur en ik kom maar één keer per maand in
+    Utrecht." De dagkaart koopt hij online via de website van de gemeente Utrecht.
   questions:
-  - questiontext: Waarom mag meneer Bakker niet de milieuzone in Utrecht in?
-    options:
-    - label: A
-      text: Omdat hij geen parkeervergunning heeft.
-    - label: B
-      text: Omdat zijn dieselauto uit 2005 te oud is.
-    - label: C
-      text: Omdat hij geen dagkaart heeft gekocht.
-    correct_answer: B
+    - questiontext: Waarom mag meneer Bakker niet de milieuzone in Utrecht in?
+      options:
+        - label: A
+          text: Omdat hij geen parkeervergunning heeft.
+        - label: B
+          text: Omdat zijn dieselauto uit 2005 te oud is.
+        - label: C
+          text: Omdat hij geen dagkaart heeft gekocht.
+      correct_answer: B
