@@ -145,7 +145,7 @@
           text: "Bij de gemeente."
         - label: C
           text: "Bij het postkantoor."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Hoeveel betaalt Maria voor het paspoort?"
       options:
         - label: A
