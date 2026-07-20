@@ -18,6 +18,7 @@ export function HomePage() {
   const allMastered = isAllMastered();
   const session = getSessionStats();
   const lifetime = getLifetimeStats();
+  void tick; // force re-render on clear
 
   return (
     <main className="min-h-screen bg-exam-bg">

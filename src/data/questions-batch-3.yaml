@@ -265,7 +265,7 @@
           text: "Hij heeft rugpijn."
         - label: C
           text: "Hij wil sporten."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Hoeveel behandelingen krijgt Pieter?"
       options:
         - label: A
@@ -274,7 +274,7 @@
           text: "Acht behandelingen."
         - label: C
           text: "Twaalf behandelingen."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Wat moet Pieter eerst betalen voordat de verzekering vergoedt?"
       options:
         - label: A
