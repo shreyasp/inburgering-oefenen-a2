@@ -20,7 +20,7 @@
           text: "Ze wil meer pillen krijgen."
         - label: C
           text: "Ze wil haar verzekering vragen."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Wanneer kan Fatima de pillen ophalen?"
       options:
         - label: A
@@ -29,7 +29,7 @@
           text: "Morgen na 10 uur."
         - label: C
           text: "Over een week."
-      correct_answer: A
+      correct_answer: B
 
 - id: 58
   title: "Bezoektijden in het ziekenhuis"
@@ -54,7 +54,7 @@
           text: "Twee bezoekers."
         - label: C
           text: "Drie bezoekers."
-      correct_answer: A
+      correct_answer: B
 
 - id: 60
   title: "Griepprik bij de GGD"
@@ -70,7 +70,7 @@
           text: "Mensen van 60 jaar en ouder."
         - label: C
           text: "Mensen met griep."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Wat doet de verpleegkundige?"
       options:
         - label: A
@@ -95,7 +95,7 @@
           text: "Naar de dierentuin."
         - label: C
           text: "Naar het strand."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Hoeveel moeten ouders betalen?"
       options:
         - label: A
@@ -104,7 +104,7 @@
           text: "€7,50"
         - label: C
           text: "€10,00"
-      correct_answer: A
+      correct_answer: B
 
 - id: 64
   title: "Overblijven en de BSO"
@@ -170,7 +170,7 @@
           text: "Voor zijn werkgever."
         - label: C
           text: "Voor de bank."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Wat staat er op het uittreksel?"
       options:
         - label: A
@@ -179,7 +179,7 @@
           text: "Zijn naam, adres en geboortedatum."
         - label: C
           text: "Zijn ziektegeschiedenis."
-      correct_answer: A
+      correct_answer: B
 
 - id: 70
   title: "De molen bezoeken"
@@ -195,7 +195,7 @@
           text: "19 molens."
         - label: C
           text: "25 molens."
-      correct_answer: A
+      correct_answer: B
     - questiontext: "Wanneer draaien de molens?"
       options:
         - label: A
@@ -204,7 +204,7 @@
           text: "Elke zaterdag."
         - label: C
           text: "Elke dag."
-      correct_answer: A
+      correct_answer: B
 
 - id: 72
   title: "Oud & Nieuw tradities"
@@ -220,7 +220,7 @@
           text: "Oliebollen en appelflappen."
         - label: C
           text: "Taart en koekjes."
-      correct_answer: A
+      correct_answer: B
 
 - id: 74
   title: "Schoolvakanties"

@@ -8,6 +8,7 @@ import {
 } from "react";
 
 interface ExamState {
+  sessionId: string | null;
   currentQuestionIndex: number;
   answers: Record<string, string>;
   bookmarks: string[];
@@ -28,6 +29,7 @@ type ExamAction =
   | { type: "RESET" };
 
 const initialState: ExamState = {
+  sessionId: null,
   currentQuestionIndex: 0,
   answers: {},
   bookmarks: [],
@@ -114,11 +116,17 @@ export function getLifetimeStats(): { attempts: number; avgScore: number; questi
   };
 }
 
+export function clearAllHistory(): void {
+  localStorage.removeItem(HISTORY_KEY);
+  localStorage.removeItem("inburgering-question-history");
+}
+
 function reducer(state: ExamState, action: ExamAction): ExamState {
   switch (action.type) {
     case "START_TEST": {
       const next: ExamState = {
         ...state,
+        sessionId: crypto.randomUUID(),
         currentQuestionIndex: 0,
         answers: {},
         bookmarks: [],

@@ -86,7 +86,7 @@ export function ResultsPage() {
     navigate("/", { replace: true });
   };
 
-  if (examEntries.length === 0) {
+  if (!state.sessionId || state.status !== "submitted" || examEntries.length === 0) {
     return (
       <div className="min-h-screen bg-exam-bg flex flex-col">
         <NavBar />

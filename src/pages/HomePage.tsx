@@ -1,11 +1,14 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { loadQuestionBank, getBankSize, getTableCount, isAllMastered } from "../data";
-import { getSessionStats, getLifetimeStats } from "../context/ExamContext";
+import { getSessionStats, getLifetimeStats, clearAllHistory } from "../context/ExamContext";
+import { useCallback } from "react";
 
 export function HomePage() {
   const navigate = useNavigate();
   const [ready, setReady] = useState(false);
+  const [tick, setTick] = useState(0);
+  const refresh = useCallback(() => setTick(t => t + 1), []);
 
   useEffect(() => {
     loadQuestionBank();
@@ -98,6 +101,16 @@ export function HomePage() {
                 </div>
               </div>
             </div>
+
+            {lifetime.attempts > 0 && (
+              <button
+                type="button"
+                onClick={() => { clearAllHistory(); refresh(); }}
+                className="mt-4 text-xs text-gray-400 hover:text-exam-danger transition-colors"
+              >
+                Reset statistieken
+              </button>
+            )}
           </div>
           </>
         )}
